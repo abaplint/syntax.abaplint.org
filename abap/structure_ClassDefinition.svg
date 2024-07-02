@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1609" height="80" viewBox="0 0 1609 80">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1559 40h0"></path>
+<g class="terminal">
+<path d="M50 40h0"></path>
+<path d="M197.5 40h0"></path>
+<rect x="50" y="29" width="147.5" height="22" rx="10" ry="10"></rect>
+<a xlink:href="#/abap/statement/ClassDefinition"><text x="123.75" y="44">ClassDefinition</text>
+</a>
+</g>
+<path d="M197.5 40h10"></path>
+<path d="M207.5 40h10"></path>
+<g>
+<path d="M217.5 40h0"></path>
+<path d="M1451 40h0"></path>
+<g>
+<path d="M217.5 40h0"></path>
+<path d="M413.5 40h0"></path>
+<path d="M217.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M237.5 20h156"></path>
+</g>
+<path d="M393.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M217.5 40h20"></path>
+<g class="terminal">
+<path d="M237.5 40h0"></path>
+<path d="M393.5 40h0"></path>
+<rect x="237.5" y="29" width="156" height="22" rx="10" ry="10"></rect>
+<a xlink:href="#/abap/statement/SetExtendedCheck"><text x="315.5" y="44">SetExtendedCheck</text>
+</a>
+</g>
+<path d="M393.5 40h20"></path>
+</g>
+<g>
+<path d="M413.5 40h0"></path>
+<path d="M570 40h0"></path>
+<path d="M413.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M433.5 20h116.5"></path>
+</g>
+<path d="M550 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M413.5 40h20"></path>
+<g>
+<path d="M433.5 40h0"></path>
+<path d="M550 40h0"></path>
+<path d="M433.5 40h10"></path>
+<g class="terminal">
+<path d="M443.5 40h0"></path>
+<path d="M540 40h0"></path>
+<rect x="443.5" y="29" width="96.5" height="22" rx="10" ry="10"></rect>
+<a xlink:href="#/abap/statement/TypePools"><text x="491.75" y="44">TypePools</text>
+</a>
+</g>
+<path d="M540 40h10"></path>
+<path d="M443.5 40a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M443.5 60h96.5"></path>
+</g>
+<path d="M540 60a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M550 40h20"></path>
+</g>
+<g>
+<path d="M570 40h0"></path>
+<path d="M740.5 40h0"></path>
+<path d="M570 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M590 20h130.5"></path>
+</g>
+<path d="M720.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M570 40h20"></path>
+<g class="non-terminal">
+<path d="M590 40h0"></path>
+<path d="M720.5 40h0"></path>
+<rect x="590" y="29" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/structure/PublicSection"><text x="655.25" y="44">PublicSection</text>
+</a>
+</g>
+<path d="M720.5 40h20"></path>
+</g>
+<g>
+<path d="M740.5 40h0"></path>
+<path d="M880 40h0"></path>
+<path d="M740.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M760.5 20h99.5"></path>
+</g>
+<path d="M860 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M740.5 40h20"></path>
+<g>
+<path d="M760.5 40h0"></path>
+<path d="M860 40h0"></path>
+<path d="M760.5 40h10"></path>
+<g class="terminal">
+<path d="M770.5 40h0"></path>
+<path d="M850 40h0"></path>
+<rect x="770.5" y="29" width="79.5" height="22" rx="10" ry="10"></rect>
+<a xlink:href="#/abap/statement/Include"><text x="810.25" y="44">Include</text>
+</a>
+</g>
+<path d="M850 40h10"></path>
+<path d="M770.5 40a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M770.5 60h79.5"></path>
+</g>
+<path d="M850 60a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M860 40h20"></path>
+</g>
+<g>
+<path d="M880 40h0"></path>
+<path d="M1076 40h0"></path>
+<path d="M880 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M900 20h156"></path>
+</g>
+<path d="M1056 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M880 40h20"></path>
+<g class="non-terminal">
+<path d="M900 40h0"></path>
+<path d="M1056 40h0"></path>
+<rect x="900" y="29" width="156" height="22"></rect>
+<a xlink:href="#/abap/structure/ProtectedSection"><text x="978" y="44">ProtectedSection</text>
+</a>
+</g>
+<path d="M1056 40h20"></path>
+</g>
+<g>
+<path d="M1076 40h0"></path>
+<path d="M1255 40h0"></path>
+<path d="M1076 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1096 20h139"></path>
+</g>
+<path d="M1235 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1076 40h20"></path>
+<g class="non-terminal">
+<path d="M1096 40h0"></path>
+<path d="M1235 40h0"></path>
+<rect x="1096" y="29" width="139" height="22"></rect>
+<a xlink:href="#/abap/structure/PrivateSection"><text x="1165.5" y="44">PrivateSection</text>
+</a>
+</g>
+<path d="M1235 40h20"></path>
+</g>
+<g>
+<path d="M1255 40h0"></path>
+<path d="M1451 40h0"></path>
+<path d="M1255 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1275 20h156"></path>
+</g>
+<path d="M1431 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1255 40h20"></path>
+<g class="terminal">
+<path d="M1275 40h0"></path>
+<path d="M1431 40h0"></path>
+<rect x="1275" y="29" width="156" height="22" rx="10" ry="10"></rect>
+<a xlink:href="#/abap/statement/SetExtendedCheck"><text x="1353" y="44">SetExtendedCheck</text>
+</a>
+</g>
+<path d="M1431 40h20"></path>
+</g>
+</g>
+<path d="M1451 40h10"></path>
+<path d="M1461 40h10"></path>
+<g class="terminal">
+<path d="M1471 40h0"></path>
+<path d="M1559 40h0"></path>
+<rect x="1471" y="29" width="88" height="22" rx="10" ry="10"></rect>
+<a xlink:href="#/abap/statement/EndClass"><text x="1515" y="44">EndClass</text>
+</a>
+</g>
+</g>
+<path d="M1559 40h10"></path>
+<path d="M 1569 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>
