@@ -1,0 +1,517 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1648.5" height="530" viewBox="0 0 1648.5 530">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1598.5 40h0"></path>
+<g class="terminal">
+<path d="M50 40h0"></path>
+<path d="M121 40h0"></path>
+<rect x="50" y="29" width="71" height="22" rx="10" ry="10"></rect>
+<text x="85.5" y="44">"FIND"</text>
+</g>
+<path d="M121 40h10"></path>
+<g>
+<path d="M131 40h0"></path>
+<path d="M409.5 40h0"></path>
+<path d="M131 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M151 20h238.5"></path>
+</g>
+<path d="M389.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M131 40h20"></path>
+<g>
+<path d="M151 40h0"></path>
+<path d="M389.5 40h0"></path>
+<path d="M151 40h20"></path>
+<g class="terminal">
+<path d="M171 40h0"></path>
+<path d="M369.5 40h0"></path>
+<rect x="171" y="29" width="198.5" height="22" rx="10" ry="10"></rect>
+<text x="270.25" y="44">"FIRST OCCURRENCE OF"</text>
+</g>
+<path d="M369.5 40h20"></path>
+<path d="M151 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M171 70h0"></path>
+<path d="M361 70h8.5"></path>
+<rect x="171" y="59" width="190" height="22" rx="10" ry="10"></rect>
+<text x="266" y="74">"ALL OCCURRENCES OF"</text>
+</g>
+<path d="M369.5 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M389.5 40h20"></path>
+</g>
+<path d="M409.5 40h10"></path>
+<g class="non-terminal">
+<path d="M419.5 40h0"></path>
+<path d="M507.5 40h0"></path>
+<rect x="419.5" y="29" width="88" height="22"></rect>
+<a xlink:href="#/abap/expression/FindType"><text x="463.5" y="44">FindType</text>
+</a>
+</g>
+<path d="M507.5 40h10"></path>
+<path d="M517.5 40h10"></path>
+<g class="non-terminal">
+<path d="M527.5 40h0"></path>
+<path d="M598.5 40h0"></path>
+<rect x="527.5" y="29" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="563" y="44">Source</text>
+</a>
+</g>
+<path d="M598.5 40h10"></path>
+<path d="M608.5 40h10"></path>
+<g class="terminal">
+<path d="M618.5 40h0"></path>
+<path d="M672.5 40h0"></path>
+<rect x="618.5" y="29" width="54" height="22" rx="10" ry="10"></rect>
+<text x="645.5" y="44">"IN"</text>
+</g>
+<path d="M672.5 40h10"></path>
+<path d="M682.5 40h10"></path>
+<g>
+<path d="M692.5 40h0"></path>
+<path d="M1174.5 40h0"></path>
+<g>
+<path d="M692.5 40h0"></path>
+<path d="M1093.5 40h0"></path>
+<path d="M692.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M712.5 20h361"></path>
+</g>
+<path d="M1073.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M692.5 40h20"></path>
+<g>
+<path d="M712.5 40h0"></path>
+<path d="M1073.5 40h0"></path>
+<path d="M712.5 40h20"></path>
+<g class="terminal">
+<path d="M732.5 40h0"></path>
+<path d="M812 40h241.5"></path>
+<rect x="732.5" y="29" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="772.25" y="44">"TABLE"</text>
+</g>
+<path d="M1053.5 40h20"></path>
+<path d="M712.5 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M732.5 70h0"></path>
+<path d="M888.5 70h165"></path>
+<rect x="732.5" y="59" width="156" height="22" rx="10" ry="10"></rect>
+<text x="810.5" y="74">"SECTION OFFSET"</text>
+</g>
+<path d="M1053.5 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M712.5 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M732.5 100h0"></path>
+<path d="M1053.5 100h0"></path>
+<g class="terminal">
+<path d="M732.5 100h0"></path>
+<path d="M888.5 100h0"></path>
+<rect x="732.5" y="89" width="156" height="22" rx="10" ry="10"></rect>
+<text x="810.5" y="104">"SECTION LENGTH"</text>
+</g>
+<path d="M888.5 100h10"></path>
+<path d="M898.5 100h10"></path>
+<g class="non-terminal">
+<path d="M908.5 100h0"></path>
+<path d="M979.5 100h0"></path>
+<rect x="908.5" y="89" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="944" y="104">Source</text>
+</a>
+</g>
+<path d="M979.5 100h10"></path>
+<path d="M989.5 100h10"></path>
+<g class="terminal">
+<path d="M999.5 100h0"></path>
+<path d="M1053.5 100h0"></path>
+<rect x="999.5" y="89" width="54" height="22" rx="10" ry="10"></rect>
+<text x="1026.5" y="104">"OF"</text>
+</g>
+</g>
+<path d="M1053.5 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M1073.5 40h20"></path>
+</g>
+<path d="M1093.5 40h10"></path>
+<g class="non-terminal">
+<path d="M1103.5 40h0"></path>
+<path d="M1174.5 40h0"></path>
+<rect x="1103.5" y="29" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="1139" y="44">Source</text>
+</a>
+</g>
+</g>
+<path d="M1174.5 40h10"></path>
+<g>
+<path d="M1184.5 40h0"></path>
+<path d="M1598.5 40h0"></path>
+<path d="M1184.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1204.5 20h374"></path>
+</g>
+<path d="M1578.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1184.5 40h20"></path>
+<g>
+<path d="M1204.5 40h0"></path>
+<path d="M1578.5 40h0"></path>
+<path d="M1234.5 40h10"></path>
+<g class="terminal">
+<path d="M1244.5 40h0"></path>
+<path d="M1392 40h156.5"></path>
+<rect x="1244.5" y="29" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="1318.25" y="44">"IGNORING CASE"</text>
+</g>
+<path d="M1548.5 40h10"></path>
+<path d="M1234.5 40v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M1244.5 70h0"></path>
+<path d="M1409 70h139.5"></path>
+<rect x="1244.5" y="59" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="1326.75" y="74">"RESPECTING CASE"</text>
+</g>
+<path d="M1548.5 70a10 10 0 0 0 10 -10v-20"></path>
+<path d="M1234.5 40v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M1244.5 100h0"></path>
+<path d="M1383.5 100h165"></path>
+<rect x="1244.5" y="89" width="139" height="22" rx="10" ry="10"></rect>
+<text x="1314" y="104">"IN BYTE MODE"</text>
+</g>
+<path d="M1548.5 100a10 10 0 0 0 10 -10v-50"></path>
+<path d="M1234.5 40v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M1244.5 130h0"></path>
+<path d="M1426 130h122.5"></path>
+<rect x="1244.5" y="119" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="1335.25" y="134">"IN CHARACTER MODE"</text>
+</g>
+<path d="M1548.5 130a10 10 0 0 0 10 -10v-80"></path>
+<path d="M1234.5 40v110a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 160h0"></path>
+<path d="M1389.5 160h159"></path>
+<g class="terminal">
+<path d="M1244.5 160h0"></path>
+<path d="M1298.5 160h0"></path>
+<rect x="1244.5" y="149" width="54" height="22" rx="10" ry="10"></rect>
+<text x="1271.5" y="164">"OF"</text>
+</g>
+<path d="M1298.5 160h10"></path>
+<path d="M1308.5 160h10"></path>
+<g class="non-terminal">
+<path d="M1318.5 160h0"></path>
+<path d="M1389.5 160h0"></path>
+<rect x="1318.5" y="149" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="1354" y="164">Source</text>
+</a>
+</g>
+</g>
+<path d="M1548.5 160a10 10 0 0 0 10 -10v-110"></path>
+<path d="M1234.5 40v140a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 190h0"></path>
+<path d="M1406.5 190h142"></path>
+<g class="terminal">
+<path d="M1244.5 190h0"></path>
+<path d="M1315.5 190h0"></path>
+<rect x="1244.5" y="179" width="71" height="22" rx="10" ry="10"></rect>
+<text x="1280" y="194">"FROM"</text>
+</g>
+<path d="M1315.5 190h10"></path>
+<path d="M1325.5 190h10"></path>
+<g class="non-terminal">
+<path d="M1335.5 190h0"></path>
+<path d="M1406.5 190h0"></path>
+<rect x="1335.5" y="179" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="1371" y="194">Source</text>
+</a>
+</g>
+</g>
+<path d="M1548.5 190a10 10 0 0 0 10 -10v-140"></path>
+<path d="M1234.5 40v170a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 220h0"></path>
+<path d="M1389.5 220h159"></path>
+<g class="terminal">
+<path d="M1244.5 220h0"></path>
+<path d="M1298.5 220h0"></path>
+<rect x="1244.5" y="209" width="54" height="22" rx="10" ry="10"></rect>
+<text x="1271.5" y="224">"TO"</text>
+</g>
+<path d="M1298.5 220h10"></path>
+<path d="M1308.5 220h10"></path>
+<g class="non-terminal">
+<path d="M1318.5 220h0"></path>
+<path d="M1389.5 220h0"></path>
+<rect x="1318.5" y="209" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="1354" y="224">Source</text>
+</a>
+</g>
+</g>
+<path d="M1548.5 220a10 10 0 0 0 10 -10v-170"></path>
+<path d="M1234.5 40v200a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 250h0"></path>
+<path d="M1474.5 250h74"></path>
+<g class="terminal">
+<path d="M1244.5 250h0"></path>
+<path d="M1383.5 250h0"></path>
+<rect x="1244.5" y="239" width="139" height="22" rx="10" ry="10"></rect>
+<text x="1314" y="254">"MATCH OFFSET"</text>
+</g>
+<path d="M1383.5 250h10"></path>
+<path d="M1393.5 250h10"></path>
+<g class="non-terminal">
+<path d="M1403.5 250h0"></path>
+<path d="M1474.5 250h0"></path>
+<rect x="1403.5" y="239" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="1439" y="254">Target</text>
+</a>
+</g>
+</g>
+<path d="M1548.5 250a10 10 0 0 0 10 -10v-200"></path>
+<path d="M1234.5 40v230a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 280h0"></path>
+<path d="M1457.5 280h91"></path>
+<g class="terminal">
+<path d="M1244.5 280h0"></path>
+<path d="M1366.5 280h0"></path>
+<rect x="1244.5" y="269" width="122" height="22" rx="10" ry="10"></rect>
+<text x="1305.5" y="284">"MATCH LINE"</text>
+</g>
+<path d="M1366.5 280h10"></path>
+<path d="M1376.5 280h10"></path>
+<g class="non-terminal">
+<path d="M1386.5 280h0"></path>
+<path d="M1457.5 280h0"></path>
+<rect x="1386.5" y="269" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="1422" y="284">Target</text>
+</a>
+</g>
+</g>
+<path d="M1548.5 280a10 10 0 0 0 10 -10v-230"></path>
+<path d="M1234.5 40v260a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 310h0"></path>
+<path d="M1466 310h82.5"></path>
+<g class="terminal">
+<path d="M1244.5 310h0"></path>
+<path d="M1375 310h0"></path>
+<rect x="1244.5" y="299" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="1309.75" y="314">"MATCH COUNT"</text>
+</g>
+<path d="M1375 310h10"></path>
+<path d="M1385 310h10"></path>
+<g class="non-terminal">
+<path d="M1395 310h0"></path>
+<path d="M1466 310h0"></path>
+<rect x="1395" y="299" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="1430.5" y="314">Target</text>
+</a>
+</g>
+</g>
+<path d="M1548.5 310a10 10 0 0 0 10 -10v-260"></path>
+<path d="M1234.5 40v290a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 340h0"></path>
+<path d="M1474.5 340h74"></path>
+<g class="terminal">
+<path d="M1244.5 340h0"></path>
+<path d="M1383.5 340h0"></path>
+<rect x="1244.5" y="329" width="139" height="22" rx="10" ry="10"></rect>
+<text x="1314" y="344">"MATCH LENGTH"</text>
+</g>
+<path d="M1383.5 340h10"></path>
+<path d="M1393.5 340h10"></path>
+<g class="non-terminal">
+<path d="M1403.5 340h0"></path>
+<path d="M1474.5 340h0"></path>
+<rect x="1403.5" y="329" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="1439" y="344">Target</text>
+</a>
+</g>
+</g>
+<path d="M1548.5 340a10 10 0 0 0 10 -10v-290"></path>
+<path d="M1234.5 40v320a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 370h0"></path>
+<path d="M1423.5 370h125"></path>
+<g class="terminal">
+<path d="M1244.5 370h0"></path>
+<path d="M1332.5 370h0"></path>
+<rect x="1244.5" y="359" width="88" height="22" rx="10" ry="10"></rect>
+<text x="1288.5" y="374">"LENGTH"</text>
+</g>
+<path d="M1332.5 370h10"></path>
+<path d="M1342.5 370h10"></path>
+<g class="non-terminal">
+<path d="M1352.5 370h0"></path>
+<path d="M1423.5 370h0"></path>
+<rect x="1352.5" y="359" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="1388" y="374">Source</text>
+</a>
+</g>
+</g>
+<path d="M1548.5 370a10 10 0 0 0 10 -10v-320"></path>
+<path d="M1234.5 40v350a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 400h0"></path>
+<path d="M1432 400h116.5"></path>
+<g class="terminal">
+<path d="M1244.5 400h0"></path>
+<path d="M1341 400h0"></path>
+<rect x="1244.5" y="389" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="1292.75" y="404">"RESULTS"</text>
+</g>
+<path d="M1341 400h10"></path>
+<path d="M1351 400h10"></path>
+<g class="non-terminal">
+<path d="M1361 400h0"></path>
+<path d="M1432 400h0"></path>
+<rect x="1361" y="389" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="1396.5" y="404">Target</text>
+</a>
+</g>
+</g>
+<path d="M1548.5 400a10 10 0 0 0 10 -10v-350"></path>
+<path d="M1234.5 40v380a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 430h0"></path>
+<path d="M1457.5 430h91"></path>
+<g class="terminal">
+<path d="M1244.5 430h0"></path>
+<path d="M1366.5 430h0"></path>
+<rect x="1244.5" y="419" width="122" height="22" rx="10" ry="10"></rect>
+<text x="1305.5" y="434">"SUBMATCHES"</text>
+</g>
+<path d="M1366.5 430h10"></path>
+<path d="M1376.5 430h10"></path>
+<g class="non-terminal">
+<path d="M1386.5 430h0"></path>
+<path d="M1457.5 430h0"></path>
+<rect x="1386.5" y="419" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="1422" y="434">Target</text>
+</a>
+</g>
+</g>
+<path d="M1548.5 430a10 10 0 0 0 10 -10v-380"></path>
+<path d="M1234.5 40v410a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 460h0"></path>
+<path d="M1548.5 460h0"></path>
+<g class="terminal">
+<path d="M1244.5 460h0"></path>
+<path d="M1366.5 460h0"></path>
+<rect x="1244.5" y="449" width="122" height="22" rx="10" ry="10"></rect>
+<text x="1305.5" y="464">"SUBMATCHES"</text>
+</g>
+<path d="M1366.5 460h10"></path>
+<path d="M1376.5 460h10"></path>
+<g class="non-terminal">
+<path d="M1386.5 460h0"></path>
+<path d="M1457.5 460h0"></path>
+<rect x="1386.5" y="449" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="1422" y="464">Target</text>
+</a>
+</g>
+<path d="M1457.5 460h10"></path>
+<path d="M1467.5 460h10"></path>
+<g class="non-terminal">
+<path d="M1477.5 460h0"></path>
+<path d="M1548.5 460h0"></path>
+<rect x="1477.5" y="449" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="1513" y="464">Target</text>
+</a>
+</g>
+</g>
+<path d="M1548.5 460a10 10 0 0 0 10 -10v-410"></path>
+<path d="M1234.5 40v440a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1244.5 490h0"></path>
+<path d="M1477.5 490h71"></path>
+<g class="terminal">
+<path d="M1244.5 490h0"></path>
+<path d="M1366.5 490h0"></path>
+<rect x="1244.5" y="479" width="122" height="22" rx="10" ry="10"></rect>
+<text x="1305.5" y="494">"SUBMATCHES"</text>
+</g>
+<path d="M1366.5 490h10"></path>
+<path d="M1376.5 490h10"></path>
+<g>
+<path d="M1386.5 490h0"></path>
+<path d="M1477.5 490h0"></path>
+<path d="M1386.5 490h10"></path>
+<g class="non-terminal">
+<path d="M1396.5 490h0"></path>
+<path d="M1467.5 490h0"></path>
+<rect x="1396.5" y="479" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="1432" y="494">Target</text>
+</a>
+</g>
+<path d="M1467.5 490h10"></path>
+<path d="M1396.5 490a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1396.5 510h71"></path>
+</g>
+<path d="M1467.5 510a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+</g>
+<path d="M1548.5 490a10 10 0 0 0 10 -10v-440"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 1234.5 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="1219.5" y="44" class="diagram-text">1+</text>
+<path d="M 1558.5 30 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 1565.5 38 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M1578.5 40h20"></path>
+</g>
+</g>
+<path d="M1598.5 40h10"></path>
+<path d="M 1608.5 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>
