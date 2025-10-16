@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="555" height="101" viewBox="0 0 555 101">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m0 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M505 40h0"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M152.5 40h0"></path>
+<path d="M50 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M70 20h62.5"></path>
+</g>
+<path d="M132.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M50 40h20"></path>
+<g class="terminal">
+<path d="M70 40h0"></path>
+<path d="M132.5 40h0"></path>
+<rect x="70" y="29" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="101.25" y="44">"NOT"</text>
+</g>
+<path d="M132.5 40h20"></path>
+</g>
+<path d="M152.5 40h10"></path>
+<g class="terminal">
+<path d="M162.5 40h0"></path>
+<path d="M233.5 40h0"></path>
+<rect x="162.5" y="29" width="71" height="22" rx="10" ry="10"></rect>
+<text x="198" y="44">!" ( "</text>
+</g>
+<path d="M233.5 40h10"></path>
+<path d="M243.5 40h10"></path>
+<g class="non-terminal">
+<path d="M253.5 40h0"></path>
+<path d="M384 40h0"></path>
+<rect x="253.5" y="29" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/expression/ComponentCond"><text x="318.75" y="44">ComponentCond</text>
+</a>
+</g>
+<path d="M384 40h10"></path>
+<g>
+<path d="M394 40h0"></path>
+<path d="M505 40h0"></path>
+<path d="M394 40h20"></path>
+<g class="terminal">
+<path d="M414 40h0"></path>
+<path d="M485 40h0"></path>
+<rect x="414" y="29" width="71" height="22" rx="10" ry="10"></rect>
+<text x="449.5" y="44">!" ) "</text>
+</g>
+<path d="M485 40h20"></path>
+<path d="M394 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M414 70h0"></path>
+<path d="M476.5 70h8.5"></path>
+<rect x="414" y="59" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="445.25" y="74">!") "</text>
+</g>
+<path d="M485 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M505 40h10"></path>
+<path d="M 515 40 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
