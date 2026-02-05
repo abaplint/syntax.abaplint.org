@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="864.5" height="71" viewBox="0 0 864.5 71">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m0 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M814.5 40h0"></path>
+<g class="non-terminal">
+<path d="M50 40h0"></path>
+<path d="M197.5 40h0"></path>
+<rect x="50" y="29" width="147.5" height="22"></rect>
+<a xlink:href="#/abap/expression/AssociationName"><text x="123.75" y="44">AssociationName</text>
+</a>
+</g>
+<path d="M197.5 40h10"></path>
+<g>
+<path d="M207.5 40h0"></path>
+<path d="M685 40h0"></path>
+<path d="M207.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M227.5 20h437.5"></path>
+</g>
+<path d="M665 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M207.5 40h20"></path>
+<g>
+<path d="M227.5 40h0"></path>
+<path d="M665 40h0"></path>
+<g class="terminal">
+<path d="M227.5 40h0"></path>
+<path d="M290 40h0"></path>
+<rect x="227.5" y="29" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="258.75" y="44">!"&#91; "</text>
+</g>
+<path d="M290 40h10"></path>
+<path d="M300 40h10"></path>
+<g class="terminal">
+<path d="M310 40h0"></path>
+<path d="M483 40h0"></path>
+<rect x="310" y="29" width="173" height="22" rx="10" ry="10"></rect>
+<text x="396.5" y="44">"ONE TO ONE WHERE"</text>
+</g>
+<path d="M483 40h10"></path>
+<path d="M493 40h10"></path>
+<g class="non-terminal">
+<path d="M503 40h0"></path>
+<path d="M582.5 40h0"></path>
+<rect x="503" y="29" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLCond"><text x="542.75" y="44">SQLCond</text>
+</a>
+</g>
+<path d="M582.5 40h10"></path>
+<path d="M592.5 40h10"></path>
+<g class="terminal">
+<path d="M602.5 40h0"></path>
+<path d="M665 40h0"></path>
+<rect x="602.5" y="29" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="633.75" y="44">!" &#93;"</text>
+</g>
+</g>
+<path d="M665 40h20"></path>
+</g>
+<path d="M685 40h10"></path>
+<g class="terminal">
+<path d="M695 40h0"></path>
+<path d="M749 40h0"></path>
+<rect x="695" y="29" width="54" height="22" rx="10" ry="10"></rect>
+<text x="722" y="44">!"-"</text>
+</g>
+<path d="M749 40h10"></path>
+<path d="M759 40h10"></path>
+<g class="terminal">
+<path d="M769 40h0"></path>
+<path d="M814.5 40h0"></path>
+<rect x="769" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="791.75" y="44">\w+</text>
+</g>
+</g>
+<path d="M814.5 40h10"></path>
+<path d="M 824.5 40 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
