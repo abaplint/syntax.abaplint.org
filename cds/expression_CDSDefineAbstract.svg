@@ -1,0 +1,348 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1751.5" height="157" viewBox="0 0 1751.5 157">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m0 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1701.5 40h0"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M240.5 40h0"></path>
+<path d="M50 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M70 20h150.5"></path>
+</g>
+<path d="M220.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M50 40h20"></path>
+<g>
+<path d="M70 40h0"></path>
+<path d="M220.5 40h0"></path>
+<path d="M70 40h10"></path>
+<g class="non-terminal">
+<path d="M80 40h0"></path>
+<path d="M210.5 40h0"></path>
+<rect x="80" y="29" width="130.5" height="22"></rect>
+<a xlink:href="#/cds/expression/CDSAnnotation"><text x="145.25" y="44">CDSAnnotation</text>
+</a>
+</g>
+<path d="M210.5 40h10"></path>
+<path d="M80 40a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 60h130.5"></path>
+</g>
+<path d="M210.5 60a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M220.5 40h20"></path>
+</g>
+<path d="M240.5 40h10"></path>
+<g class="terminal">
+<path d="M250.5 40h0"></path>
+<path d="M338.5 40h0"></path>
+<rect x="250.5" y="29" width="88" height="22" rx="10" ry="10"></rect>
+<text x="294.5" y="44">"DEFINE"</text>
+</g>
+<path d="M338.5 40h10"></path>
+<g>
+<path d="M348.5 40h0"></path>
+<path d="M459.5 40h0"></path>
+<path d="M348.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M368.5 20h71"></path>
+</g>
+<path d="M439.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M348.5 40h20"></path>
+<g class="terminal">
+<path d="M368.5 40h0"></path>
+<path d="M439.5 40h0"></path>
+<rect x="368.5" y="29" width="71" height="22" rx="10" ry="10"></rect>
+<text x="404" y="44">"ROOT"</text>
+</g>
+<path d="M439.5 40h20"></path>
+</g>
+<path d="M459.5 40h10"></path>
+<g class="terminal">
+<path d="M469.5 40h0"></path>
+<path d="M574.5 40h0"></path>
+<rect x="469.5" y="29" width="105" height="22" rx="10" ry="10"></rect>
+<text x="522" y="44">"ABSTRACT"</text>
+</g>
+<path d="M574.5 40h10"></path>
+<path d="M584.5 40h10"></path>
+<g class="terminal">
+<path d="M594.5 40h0"></path>
+<path d="M682.5 40h0"></path>
+<rect x="594.5" y="29" width="88" height="22" rx="10" ry="10"></rect>
+<text x="638.5" y="44">"ENTITY"</text>
+</g>
+<path d="M682.5 40h10"></path>
+<path d="M692.5 40h10"></path>
+<g class="non-terminal">
+<path d="M702.5 40h0"></path>
+<path d="M782 40h0"></path>
+<rect x="702.5" y="29" width="79.5" height="22"></rect>
+<a xlink:href="#/cds/expression/CDSName"><text x="742.25" y="44">CDSName</text>
+</a>
+</g>
+<path d="M782 40h10"></path>
+<path d="M792 40h10"></path>
+<g class="terminal">
+<path d="M802 40h0"></path>
+<path d="M847.5 40h0"></path>
+<rect x="802" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="824.75" y="44">"{"</text>
+</g>
+<path d="M847.5 40h10"></path>
+<path d="M857.5 40h10"></path>
+<g>
+<path d="M867.5 40h0"></path>
+<path d="M1540.5 40h0"></path>
+<path d="M867.5 40h10"></path>
+<g>
+<path d="M877.5 40h0"></path>
+<path d="M1530.5 40h0"></path>
+<path d="M877.5 40h20"></path>
+<g>
+<path d="M897.5 40h0"></path>
+<path d="M1510.5 40h0"></path>
+<g>
+<path d="M897.5 40h0"></path>
+<path d="M1088 40h0"></path>
+<path d="M897.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M917.5 20h150.5"></path>
+</g>
+<path d="M1068 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M897.5 40h20"></path>
+<g>
+<path d="M917.5 40h0"></path>
+<path d="M1068 40h0"></path>
+<path d="M917.5 40h10"></path>
+<g class="non-terminal">
+<path d="M927.5 40h0"></path>
+<path d="M1058 40h0"></path>
+<rect x="927.5" y="29" width="130.5" height="22"></rect>
+<a xlink:href="#/cds/expression/CDSAnnotation"><text x="992.75" y="44">CDSAnnotation</text>
+</a>
+</g>
+<path d="M1058 40h10"></path>
+<path d="M927.5 40a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M927.5 60h130.5"></path>
+</g>
+<path d="M1058 60a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M1068 40h20"></path>
+</g>
+<g>
+<path d="M1088 40h0"></path>
+<path d="M1190.5 40h0"></path>
+<path d="M1088 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1108 20h62.5"></path>
+</g>
+<path d="M1170.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1088 40h20"></path>
+<g class="terminal">
+<path d="M1108 40h0"></path>
+<path d="M1170.5 40h0"></path>
+<rect x="1108" y="29" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="1139.25" y="44">"KEY"</text>
+</g>
+<path d="M1170.5 40h20"></path>
+</g>
+<path d="M1190.5 40h10"></path>
+<g class="non-terminal">
+<path d="M1200.5 40h0"></path>
+<path d="M1280 40h0"></path>
+<rect x="1200.5" y="29" width="79.5" height="22"></rect>
+<a xlink:href="#/cds/expression/CDSName"><text x="1240.25" y="44">CDSName</text>
+</a>
+</g>
+<path d="M1280 40h10"></path>
+<path d="M1290 40h10"></path>
+<g class="terminal">
+<path d="M1300 40h0"></path>
+<path d="M1345.5 40h0"></path>
+<rect x="1300" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1322.75" y="44">":"</text>
+</g>
+<path d="M1345.5 40h10"></path>
+<path d="M1355.5 40h10"></path>
+<g class="non-terminal">
+<path d="M1365.5 40h0"></path>
+<path d="M1445 40h0"></path>
+<rect x="1365.5" y="29" width="79.5" height="22"></rect>
+<a xlink:href="#/cds/expression/CDSType"><text x="1405.25" y="44">CDSType</text>
+</a>
+</g>
+<path d="M1445 40h10"></path>
+<path d="M1455 40h10"></path>
+<g class="terminal">
+<path d="M1465 40h0"></path>
+<path d="M1510.5 40h0"></path>
+<rect x="1465" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1487.75" y="44">";"</text>
+</g>
+</g>
+<path d="M1510.5 40h20"></path>
+<path d="M877.5 40a10 10 0 0 1 10 10v28a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M897.5 88h0"></path>
+<path d="M1487.5 88h23"></path>
+<g>
+<path d="M897.5 88h0"></path>
+<path d="M1088 88h0"></path>
+<path d="M897.5 88a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M917.5 68h150.5"></path>
+</g>
+<path d="M1068 68a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M897.5 88h20"></path>
+<g>
+<path d="M917.5 88h0"></path>
+<path d="M1068 88h0"></path>
+<path d="M917.5 88h10"></path>
+<g class="non-terminal">
+<path d="M927.5 88h0"></path>
+<path d="M1058 88h0"></path>
+<rect x="927.5" y="77" width="130.5" height="22"></rect>
+<a xlink:href="#/cds/expression/CDSAnnotation"><text x="992.75" y="92">CDSAnnotation</text>
+</a>
+</g>
+<path d="M1058 88h10"></path>
+<path d="M927.5 88a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M927.5 108h130.5"></path>
+</g>
+<path d="M1058 108a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M1068 88h20"></path>
+</g>
+<path d="M1088 88h10"></path>
+<g class="non-terminal">
+<path d="M1098 88h0"></path>
+<path d="M1177.5 88h0"></path>
+<rect x="1098" y="77" width="79.5" height="22"></rect>
+<a xlink:href="#/cds/expression/CDSName"><text x="1137.75" y="92">CDSName</text>
+</a>
+</g>
+<path d="M1177.5 88h10"></path>
+<path d="M1187.5 88h10"></path>
+<g class="terminal">
+<path d="M1197.5 88h0"></path>
+<path d="M1243 88h0"></path>
+<rect x="1197.5" y="77" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1220.25" y="92">":"</text>
+</g>
+<path d="M1243 88h10"></path>
+<g>
+<path d="M1253 88h0"></path>
+<path d="M1432 88h0"></path>
+<path d="M1253 88h20"></path>
+<g class="non-terminal">
+<path d="M1273 88h0"></path>
+<path d="M1412 88h0"></path>
+<rect x="1273" y="77" width="139" height="22"></rect>
+<a xlink:href="#/cds/expression/CDSComposition"><text x="1342.5" y="92">CDSComposition</text>
+</a>
+</g>
+<path d="M1412 88h20"></path>
+<path d="M1253 88a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal">
+<path d="M1273 118h0"></path>
+<path d="M1412 118h0"></path>
+<rect x="1273" y="107" width="139" height="22"></rect>
+<a xlink:href="#/cds/expression/CDSAssociation"><text x="1342.5" y="122">CDSAssociation</text>
+</a>
+</g>
+<path d="M1412 118a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M1432 88h10"></path>
+<g class="terminal">
+<path d="M1442 88h0"></path>
+<path d="M1487.5 88h0"></path>
+<rect x="1442" y="77" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1464.75" y="92">";"</text>
+</g>
+</g>
+<path d="M1510.5 88a10 10 0 0 0 10 -10v-28a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M1530.5 40h10"></path>
+<path d="M877.5 40a10 10 0 0 0 -10 10v77a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M877.5 137h653"></path>
+</g>
+<path d="M1530.5 137a10 10 0 0 0 10 -10v-77a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M1540.5 40h10"></path>
+<path d="M1550.5 40h10"></path>
+<g class="terminal">
+<path d="M1560.5 40h0"></path>
+<path d="M1606 40h0"></path>
+<rect x="1560.5" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1583.25" y="44">"}"</text>
+</g>
+<path d="M1606 40h10"></path>
+<g>
+<path d="M1616 40h0"></path>
+<path d="M1701.5 40h0"></path>
+<path d="M1616 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1636 20h45.5"></path>
+</g>
+<path d="M1681.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1616 40h20"></path>
+<g class="terminal">
+<path d="M1636 40h0"></path>
+<path d="M1681.5 40h0"></path>
+<rect x="1636" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1658.75" y="44">";"</text>
+</g>
+<path d="M1681.5 40h20"></path>
+</g>
+</g>
+<path d="M1701.5 40h10"></path>
+<path d="M 1711.5 40 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>

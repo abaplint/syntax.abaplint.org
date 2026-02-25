@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="770.5" height="101" viewBox="0 0 770.5 101">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M720.5 40h0"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M229 40h0"></path>
+<path d="M50 40h20"></path>
+<g class="terminal">
+<path d="M70 40h0"></path>
+<path d="M209 40h0"></path>
+<rect x="70" y="29" width="139" height="22" rx="10" ry="10"></rect>
+<text x="139.5" y="44">"CLASS-EVENTS"</text>
+</g>
+<path d="M209 40h20"></path>
+<path d="M50 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M70 70h0"></path>
+<path d="M158 70h51"></path>
+<rect x="70" y="59" width="88" height="22" rx="10" ry="10"></rect>
+<text x="114" y="74">"EVENTS"</text>
+</g>
+<path d="M209 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M229 40h10"></path>
+<g class="non-terminal">
+<path d="M239 40h0"></path>
+<path d="M335.5 40h0"></path>
+<rect x="239" y="29" width="96.5" height="22"></rect>
+<a xlink:href="#/abap/expression/EventName"><text x="287.25" y="44">EventName</text>
+</a>
+</g>
+<path d="M335.5 40h10"></path>
+<g>
+<path d="M345.5 40h0"></path>
+<path d="M720.5 40h0"></path>
+<path d="M345.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M365.5 20h335"></path>
+</g>
+<path d="M700.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M345.5 40h20"></path>
+<g>
+<path d="M365.5 40h0"></path>
+<path d="M700.5 40h0"></path>
+<g class="terminal">
+<path d="M365.5 40h0"></path>
+<path d="M479 40h0"></path>
+<rect x="365.5" y="29" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="422.25" y="44">"EXPORTING"</text>
+</g>
+<path d="M479 40h10"></path>
+<path d="M489 40h10"></path>
+<g>
+<path d="M499 40h0"></path>
+<path d="M700.5 40h0"></path>
+<path d="M499 40h10"></path>
+<g class="non-terminal">
+<path d="M509 40h0"></path>
+<path d="M690.5 40h0"></path>
+<rect x="509" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/MethodParamOptional"><text x="599.75" y="44">MethodParamOptional</text>
+</a>
+</g>
+<path d="M690.5 40h10"></path>
+<path d="M509 40a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M509 60h181.5"></path>
+</g>
+<path d="M690.5 60a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+</g>
+<path d="M700.5 40h20"></path>
+</g>
+</g>
+<path d="M720.5 40h10"></path>
+<path d="M 730.5 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>

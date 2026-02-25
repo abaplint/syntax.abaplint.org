@@ -1,0 +1,1672 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1213" height="929" viewBox="0 0 1213 929">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 21v20m0 -10h20"></path>
+</g>
+<g>
+<path d="M40 31h0"></path>
+<path d="M1173 31h0"></path>
+<path d="M40 31h20"></path>
+<g>
+<path d="M60 31h0"></path>
+<path d="M362.5 31h790.5"></path>
+<g>
+<path d="M60 31h0"></path>
+<path d="M98 31h0"></path>
+<text x="79" y="36" class="comment">v754</text>
+</g>
+<path d="M98 31h10"></path>
+<path d="M108 31h10"></path>
+<g>
+<path d="M118 31h0"></path>
+<path d="M362.5 31h0"></path>
+<g class="terminal">
+<path d="M118 31h0"></path>
+<path d="M189 31h0"></path>
+<rect x="118" y="20" width="71" height="22" rx="10" ry="10"></rect>
+<text x="153.5" y="35">^uuid$</text>
+</g>
+<path d="M189 31h10"></path>
+<path d="M199 31h10"></path>
+<g class="terminal">
+<path d="M209 31h0"></path>
+<path d="M271.5 31h0"></path>
+<rect x="209" y="20" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="240.25" y="35">!"( "</text>
+</g>
+<path d="M271.5 31h10"></path>
+<path d="M281.5 31h10"></path>
+<g class="terminal">
+<path d="M291.5 31h0"></path>
+<path d="M362.5 31h0"></path>
+<rect x="291.5" y="20" width="71" height="22" rx="10" ry="10"></rect>
+<text x="327" y="35">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 31h20"></path>
+<path d="M40 31a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M558 61h595"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M126 61h0"></path>
+<text x="93" y="66" class="comment">v740sp05</text>
+</g>
+<path d="M126 61h10"></path>
+<path d="M136 61h10"></path>
+<g>
+<path d="M146 61h0"></path>
+<path d="M558 61h0"></path>
+<g class="terminal">
+<path d="M146 61h0"></path>
+<path d="M208.5 61h0"></path>
+<rect x="146" y="50" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="177.25" y="65">^abs$</text>
+</g>
+<path d="M208.5 61h10"></path>
+<path d="M218.5 61h10"></path>
+<g class="terminal">
+<path d="M228.5 61h0"></path>
+<path d="M291 61h0"></path>
+<rect x="228.5" y="50" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="259.75" y="65">!"( "</text>
+</g>
+<path d="M291 61h10"></path>
+<path d="M301 61h10"></path>
+<g class="non-terminal">
+<path d="M311 61h0"></path>
+<path d="M467 61h0"></path>
+<rect x="311" y="50" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="389" y="65">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M467 61h10"></path>
+<path d="M477 61h10"></path>
+<g class="terminal">
+<path d="M487 61h0"></path>
+<path d="M558 61h0"></path>
+<rect x="487" y="50" width="71" height="22" rx="10" ry="10"></rect>
+<text x="522.5" y="65">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 61a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 91h0"></path>
+<path d="M566.5 91h586.5"></path>
+<g>
+<path d="M60 91h0"></path>
+<path d="M126 91h0"></path>
+<text x="93" y="96" class="comment">v740sp05</text>
+</g>
+<path d="M126 91h10"></path>
+<path d="M136 91h10"></path>
+<g>
+<path d="M146 91h0"></path>
+<path d="M566.5 91h0"></path>
+<g class="terminal">
+<path d="M146 91h0"></path>
+<path d="M217 91h0"></path>
+<rect x="146" y="80" width="71" height="22" rx="10" ry="10"></rect>
+<text x="181.5" y="95">^ceil$</text>
+</g>
+<path d="M217 91h10"></path>
+<path d="M227 91h10"></path>
+<g class="terminal">
+<path d="M237 91h0"></path>
+<path d="M299.5 91h0"></path>
+<rect x="237" y="80" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="268.25" y="95">!"( "</text>
+</g>
+<path d="M299.5 91h10"></path>
+<path d="M309.5 91h10"></path>
+<g class="non-terminal">
+<path d="M319.5 91h0"></path>
+<path d="M475.5 91h0"></path>
+<rect x="319.5" y="80" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="397.5" y="95">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M475.5 91h10"></path>
+<path d="M485.5 91h10"></path>
+<g class="terminal">
+<path d="M495.5 91h0"></path>
+<path d="M566.5 91h0"></path>
+<rect x="495.5" y="80" width="71" height="22" rx="10" ry="10"></rect>
+<text x="531" y="95">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 91a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v70a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 121h0"></path>
+<path d="M575 121h578"></path>
+<g>
+<path d="M60 121h0"></path>
+<path d="M126 121h0"></path>
+<text x="93" y="126" class="comment">v740sp05</text>
+</g>
+<path d="M126 121h10"></path>
+<path d="M136 121h10"></path>
+<g>
+<path d="M146 121h0"></path>
+<path d="M575 121h0"></path>
+<g class="terminal">
+<path d="M146 121h0"></path>
+<path d="M225.5 121h0"></path>
+<rect x="146" y="110" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="185.75" y="125">^floor$</text>
+</g>
+<path d="M225.5 121h10"></path>
+<path d="M235.5 121h10"></path>
+<g class="terminal">
+<path d="M245.5 121h0"></path>
+<path d="M308 121h0"></path>
+<rect x="245.5" y="110" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="276.75" y="125">!"( "</text>
+</g>
+<path d="M308 121h10"></path>
+<path d="M318 121h10"></path>
+<g class="non-terminal">
+<path d="M328 121h0"></path>
+<path d="M484 121h0"></path>
+<rect x="328" y="110" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="406" y="125">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M484 121h10"></path>
+<path d="M494 121h10"></path>
+<g class="terminal">
+<path d="M504 121h0"></path>
+<path d="M575 121h0"></path>
+<rect x="504" y="110" width="71" height="22" rx="10" ry="10"></rect>
+<text x="539.5" y="125">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 121a10 10 0 0 0 10 -10v-70a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v109a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 160h0"></path>
+<path d="M1153 160h0"></path>
+<g>
+<path d="M60 160h0"></path>
+<path d="M98 160h0"></path>
+<text x="79" y="165" class="comment">v750</text>
+</g>
+<path d="M98 160h10"></path>
+<path d="M108 160h10"></path>
+<g>
+<path d="M118 160h0"></path>
+<path d="M1153 160h0"></path>
+<g class="terminal">
+<path d="M118 160h0"></path>
+<path d="M189 160h0"></path>
+<rect x="118" y="149" width="71" height="22" rx="10" ry="10"></rect>
+<text x="153.5" y="164">^cast$</text>
+</g>
+<path d="M189 160h10"></path>
+<path d="M199 160h10"></path>
+<g class="terminal">
+<path d="M209 160h0"></path>
+<path d="M271.5 160h0"></path>
+<rect x="209" y="149" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="240.25" y="164">!"( "</text>
+</g>
+<path d="M271.5 160h10"></path>
+<path d="M281.5 160h10"></path>
+<g class="non-terminal">
+<path d="M291.5 160h0"></path>
+<path d="M447.5 160h0"></path>
+<rect x="291.5" y="149" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="369.5" y="164">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M447.5 160h10"></path>
+<path d="M457.5 160h10"></path>
+<g class="terminal">
+<path d="M467.5 160h0"></path>
+<path d="M521.5 160h0"></path>
+<rect x="467.5" y="149" width="54" height="22" rx="10" ry="10"></rect>
+<text x="494.5" y="164">"AS"</text>
+</g>
+<path d="M521.5 160h10"></path>
+<g>
+<path d="M531.5 160h0"></path>
+<path d="M1072 160h0"></path>
+<path d="M531.5 160h20"></path>
+<g>
+<path d="M551.5 160h0"></path>
+<path d="M925.5 160h126.5"></path>
+<g class="terminal">
+<path d="M551.5 160h0"></path>
+<path d="M622.5 160h0"></path>
+<rect x="551.5" y="149" width="71" height="22" rx="10" ry="10"></rect>
+<text x="587" y="164">"CHAR"</text>
+</g>
+<path d="M622.5 160h10"></path>
+<g>
+<path d="M632.5 160h0"></path>
+<path d="M925.5 160h0"></path>
+<path d="M632.5 160a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M652.5 140h253"></path>
+</g>
+<path d="M905.5 140a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M632.5 160h20"></path>
+<g>
+<path d="M652.5 160h0"></path>
+<path d="M905.5 160h0"></path>
+<g class="terminal">
+<path d="M652.5 160h0"></path>
+<path d="M715 160h0"></path>
+<rect x="652.5" y="149" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="683.75" y="164">!"( "</text>
+</g>
+<path d="M715 160h10"></path>
+<path d="M725 160h10"></path>
+<g class="non-terminal">
+<path d="M735 160h0"></path>
+<path d="M814.5 160h0"></path>
+<rect x="735" y="149" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/Integer"><text x="774.75" y="164">Integer</text>
+</a>
+</g>
+<path d="M814.5 160h10"></path>
+<path d="M824.5 160h10"></path>
+<g class="terminal">
+<path d="M834.5 160h0"></path>
+<path d="M905.5 160h0"></path>
+<rect x="834.5" y="149" width="71" height="22" rx="10" ry="10"></rect>
+<text x="870" y="164">!" ) "</text>
+</g>
+</g>
+<path d="M905.5 160h20"></path>
+</g>
+</g>
+<path d="M1052 160h20"></path>
+<path d="M531.5 160a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M551.5 190h0"></path>
+<path d="M1052 190h0"></path>
+<g class="terminal">
+<path d="M551.5 190h0"></path>
+<path d="M614 190h0"></path>
+<rect x="551.5" y="179" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="582.75" y="194">"DEC"</text>
+</g>
+<path d="M614 190h10"></path>
+<path d="M624 190h10"></path>
+<g class="terminal">
+<path d="M634 190h0"></path>
+<path d="M696.5 190h0"></path>
+<rect x="634" y="179" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="665.25" y="194">!"( "</text>
+</g>
+<path d="M696.5 190h10"></path>
+<path d="M706.5 190h10"></path>
+<g class="non-terminal">
+<path d="M716.5 190h0"></path>
+<path d="M796 190h0"></path>
+<rect x="716.5" y="179" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/Integer"><text x="756.25" y="194">Integer</text>
+</a>
+</g>
+<path d="M796 190h10"></path>
+<path d="M806 190h10"></path>
+<g class="terminal">
+<path d="M816 190h0"></path>
+<path d="M861.5 190h0"></path>
+<rect x="816" y="179" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="838.75" y="194">","</text>
+</g>
+<path d="M861.5 190h10"></path>
+<path d="M871.5 190h10"></path>
+<g class="non-terminal">
+<path d="M881.5 190h0"></path>
+<path d="M961 190h0"></path>
+<rect x="881.5" y="179" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/Integer"><text x="921.25" y="194">Integer</text>
+</a>
+</g>
+<path d="M961 190h10"></path>
+<path d="M971 190h10"></path>
+<g class="terminal">
+<path d="M981 190h0"></path>
+<path d="M1052 190h0"></path>
+<rect x="981" y="179" width="71" height="22" rx="10" ry="10"></rect>
+<text x="1016.5" y="194">!" ) "</text>
+</g>
+</g>
+<path d="M1052 190a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M531.5 160a10 10 0 0 1 10 10v49a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M551.5 229h0"></path>
+<path d="M925.5 229h126.5"></path>
+<g class="terminal">
+<path d="M551.5 229h0"></path>
+<path d="M622.5 229h0"></path>
+<rect x="551.5" y="218" width="71" height="22" rx="10" ry="10"></rect>
+<text x="587" y="233">"NUMC"</text>
+</g>
+<path d="M622.5 229h10"></path>
+<g>
+<path d="M632.5 229h0"></path>
+<path d="M925.5 229h0"></path>
+<path d="M632.5 229a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M652.5 209h253"></path>
+</g>
+<path d="M905.5 209a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M632.5 229h20"></path>
+<g>
+<path d="M652.5 229h0"></path>
+<path d="M905.5 229h0"></path>
+<g class="terminal">
+<path d="M652.5 229h0"></path>
+<path d="M715 229h0"></path>
+<rect x="652.5" y="218" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="683.75" y="233">!"( "</text>
+</g>
+<path d="M715 229h10"></path>
+<path d="M725 229h10"></path>
+<g class="non-terminal">
+<path d="M735 229h0"></path>
+<path d="M814.5 229h0"></path>
+<rect x="735" y="218" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/Integer"><text x="774.75" y="233">Integer</text>
+</a>
+</g>
+<path d="M814.5 229h10"></path>
+<path d="M824.5 229h10"></path>
+<g class="terminal">
+<path d="M834.5 229h0"></path>
+<path d="M905.5 229h0"></path>
+<rect x="834.5" y="218" width="71" height="22" rx="10" ry="10"></rect>
+<text x="870" y="233">!" ) "</text>
+</g>
+</g>
+<path d="M905.5 229h20"></path>
+</g>
+</g>
+<path d="M1052 229a10 10 0 0 0 10 -10v-49a10 10 0 0 1 10 -10"></path>
+<path d="M531.5 160a10 10 0 0 1 10 10v79a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M551.5 259h0"></path>
+<path d="M622.5 259h429.5"></path>
+<rect x="551.5" y="248" width="71" height="22" rx="10" ry="10"></rect>
+<text x="587" y="263">"DATS"</text>
+</g>
+<path d="M1052 259a10 10 0 0 0 10 -10v-79a10 10 0 0 1 10 -10"></path>
+<path d="M531.5 160a10 10 0 0 1 10 10v109a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M551.5 289h0"></path>
+<path d="M622.5 289h429.5"></path>
+<rect x="551.5" y="278" width="71" height="22" rx="10" ry="10"></rect>
+<text x="587" y="293">"FLTP"</text>
+</g>
+<path d="M1052 289a10 10 0 0 0 10 -10v-109a10 10 0 0 1 10 -10"></path>
+<path d="M531.5 160a10 10 0 0 1 10 10v139a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M551.5 319h0"></path>
+<path d="M622.5 319h429.5"></path>
+<rect x="551.5" y="308" width="71" height="22" rx="10" ry="10"></rect>
+<text x="587" y="323">"INT2"</text>
+</g>
+<path d="M1052 319a10 10 0 0 0 10 -10v-139a10 10 0 0 1 10 -10"></path>
+<path d="M531.5 160a10 10 0 0 1 10 10v169a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M551.5 349h0"></path>
+<path d="M622.5 349h429.5"></path>
+<rect x="551.5" y="338" width="71" height="22" rx="10" ry="10"></rect>
+<text x="587" y="353">"INT4"</text>
+</g>
+<path d="M1052 349a10 10 0 0 0 10 -10v-169a10 10 0 0 1 10 -10"></path>
+<path d="M531.5 160a10 10 0 0 1 10 10v199a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M551.5 379h0"></path>
+<path d="M622.5 379h429.5"></path>
+<rect x="551.5" y="368" width="71" height="22" rx="10" ry="10"></rect>
+<text x="587" y="383">"INT8"</text>
+</g>
+<path d="M1052 379a10 10 0 0 0 10 -10v-199a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M1072 160h10"></path>
+<g class="terminal">
+<path d="M1082 160h0"></path>
+<path d="M1153 160h0"></path>
+<rect x="1082" y="149" width="71" height="22" rx="10" ry="10"></rect>
+<text x="1117.5" y="164">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 160a10 10 0 0 0 10 -10v-109a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v358a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 409h0"></path>
+<path d="M799.5 409h353.5"></path>
+<g>
+<path d="M60 409h0"></path>
+<path d="M126 409h0"></path>
+<text x="93" y="414" class="comment">v740sp05</text>
+</g>
+<path d="M126 409h10"></path>
+<path d="M136 409h10"></path>
+<g>
+<path d="M146 409h0"></path>
+<path d="M799.5 409h0"></path>
+<g class="terminal">
+<path d="M146 409h0"></path>
+<path d="M208.5 409h0"></path>
+<rect x="146" y="398" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="177.25" y="413">^div$</text>
+</g>
+<path d="M208.5 409h10"></path>
+<path d="M218.5 409h10"></path>
+<g class="terminal">
+<path d="M228.5 409h0"></path>
+<path d="M291 409h0"></path>
+<rect x="228.5" y="398" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="259.75" y="413">!"( "</text>
+</g>
+<path d="M291 409h10"></path>
+<path d="M301 409h10"></path>
+<g class="non-terminal">
+<path d="M311 409h0"></path>
+<path d="M467 409h0"></path>
+<rect x="311" y="398" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="389" y="413">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M467 409h10"></path>
+<path d="M477 409h10"></path>
+<g>
+<path d="M487 409h0"></path>
+<path d="M708.5 409h0"></path>
+<g class="terminal">
+<path d="M487 409h0"></path>
+<path d="M532.5 409h0"></path>
+<rect x="487" y="398" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="509.75" y="413">","</text>
+</g>
+<path d="M532.5 409h10"></path>
+<path d="M542.5 409h10"></path>
+<g class="non-terminal">
+<path d="M552.5 409h0"></path>
+<path d="M708.5 409h0"></path>
+<rect x="552.5" y="398" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="630.5" y="413">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M708.5 409h10"></path>
+<path d="M718.5 409h10"></path>
+<g class="terminal">
+<path d="M728.5 409h0"></path>
+<path d="M799.5 409h0"></path>
+<rect x="728.5" y="398" width="71" height="22" rx="10" ry="10"></rect>
+<text x="764" y="413">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 409a10 10 0 0 0 10 -10v-358a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v388a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 439h0"></path>
+<path d="M799.5 439h353.5"></path>
+<g>
+<path d="M60 439h0"></path>
+<path d="M126 439h0"></path>
+<text x="93" y="444" class="comment">v740sp05</text>
+</g>
+<path d="M126 439h10"></path>
+<path d="M136 439h10"></path>
+<g>
+<path d="M146 439h0"></path>
+<path d="M799.5 439h0"></path>
+<g class="terminal">
+<path d="M146 439h0"></path>
+<path d="M208.5 439h0"></path>
+<rect x="146" y="428" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="177.25" y="443">^mod$</text>
+</g>
+<path d="M208.5 439h10"></path>
+<path d="M218.5 439h10"></path>
+<g class="terminal">
+<path d="M228.5 439h0"></path>
+<path d="M291 439h0"></path>
+<rect x="228.5" y="428" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="259.75" y="443">!"( "</text>
+</g>
+<path d="M291 439h10"></path>
+<path d="M301 439h10"></path>
+<g class="non-terminal">
+<path d="M311 439h0"></path>
+<path d="M467 439h0"></path>
+<rect x="311" y="428" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="389" y="443">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M467 439h10"></path>
+<path d="M477 439h10"></path>
+<g>
+<path d="M487 439h0"></path>
+<path d="M708.5 439h0"></path>
+<g class="terminal">
+<path d="M487 439h0"></path>
+<path d="M532.5 439h0"></path>
+<rect x="487" y="428" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="509.75" y="443">","</text>
+</g>
+<path d="M532.5 439h10"></path>
+<path d="M542.5 439h10"></path>
+<g class="non-terminal">
+<path d="M552.5 439h0"></path>
+<path d="M708.5 439h0"></path>
+<rect x="552.5" y="428" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="630.5" y="443">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M708.5 439h10"></path>
+<path d="M718.5 439h10"></path>
+<g class="terminal">
+<path d="M728.5 439h0"></path>
+<path d="M799.5 439h0"></path>
+<rect x="728.5" y="428" width="71" height="22" rx="10" ry="10"></rect>
+<text x="764" y="443">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 439a10 10 0 0 0 10 -10v-388a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v427a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 478h0"></path>
+<path d="M1103.5 478h49.5"></path>
+<g>
+<path d="M60 478h0"></path>
+<path d="M126 478h0"></path>
+<text x="93" y="483" class="comment">v740sp05</text>
+</g>
+<path d="M126 478h10"></path>
+<path d="M136 478h10"></path>
+<g>
+<path d="M146 478h0"></path>
+<path d="M1103.5 478h0"></path>
+<g class="terminal">
+<path d="M146 478h0"></path>
+<path d="M251 478h0"></path>
+<rect x="146" y="467" width="105" height="22" rx="10" ry="10"></rect>
+<text x="198.5" y="482">^coalesce$</text>
+</g>
+<path d="M251 478h10"></path>
+<path d="M261 478h10"></path>
+<g class="terminal">
+<path d="M271 478h0"></path>
+<path d="M333.5 478h0"></path>
+<rect x="271" y="467" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="302.25" y="482">!"( "</text>
+</g>
+<path d="M333.5 478h10"></path>
+<path d="M343.5 478h10"></path>
+<g class="non-terminal">
+<path d="M353.5 478h0"></path>
+<path d="M509.5 478h0"></path>
+<rect x="353.5" y="467" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="431.5" y="482">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M509.5 478h10"></path>
+<path d="M519.5 478h10"></path>
+<g>
+<path d="M529.5 478h0"></path>
+<path d="M751 478h0"></path>
+<g class="terminal">
+<path d="M529.5 478h0"></path>
+<path d="M575 478h0"></path>
+<rect x="529.5" y="467" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="552.25" y="482">","</text>
+</g>
+<path d="M575 478h10"></path>
+<path d="M585 478h10"></path>
+<g class="non-terminal">
+<path d="M595 478h0"></path>
+<path d="M751 478h0"></path>
+<rect x="595" y="467" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="673" y="482">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M751 478h10"></path>
+<g>
+<path d="M761 478h0"></path>
+<path d="M1022.5 478h0"></path>
+<path d="M761 478a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M781 458h221.5"></path>
+</g>
+<path d="M1002.5 458a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M761 478h20"></path>
+<g>
+<path d="M781 478h0"></path>
+<path d="M1002.5 478h0"></path>
+<g class="terminal">
+<path d="M781 478h0"></path>
+<path d="M826.5 478h0"></path>
+<rect x="781" y="467" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="803.75" y="482">","</text>
+</g>
+<path d="M826.5 478h10"></path>
+<path d="M836.5 478h10"></path>
+<g class="non-terminal">
+<path d="M846.5 478h0"></path>
+<path d="M1002.5 478h0"></path>
+<rect x="846.5" y="467" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="924.5" y="482">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M1002.5 478h20"></path>
+</g>
+<path d="M1022.5 478h10"></path>
+<g class="terminal">
+<path d="M1032.5 478h0"></path>
+<path d="M1103.5 478h0"></path>
+<rect x="1032.5" y="467" width="71" height="22" rx="10" ry="10"></rect>
+<text x="1068" y="482">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 478a10 10 0 0 0 10 -10v-427a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v457a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 508h0"></path>
+<path d="M797 508h356"></path>
+<g>
+<path d="M60 508h0"></path>
+<path d="M98 508h0"></path>
+<text x="79" y="513" class="comment">v750</text>
+</g>
+<path d="M98 508h10"></path>
+<path d="M108 508h10"></path>
+<g>
+<path d="M118 508h0"></path>
+<path d="M797 508h0"></path>
+<g class="terminal">
+<path d="M118 508h0"></path>
+<path d="M206 508h0"></path>
+<rect x="118" y="497" width="88" height="22" rx="10" ry="10"></rect>
+<text x="162" y="512">^concat$</text>
+</g>
+<path d="M206 508h10"></path>
+<path d="M216 508h10"></path>
+<g class="terminal">
+<path d="M226 508h0"></path>
+<path d="M288.5 508h0"></path>
+<rect x="226" y="497" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="257.25" y="512">!"( "</text>
+</g>
+<path d="M288.5 508h10"></path>
+<path d="M298.5 508h10"></path>
+<g class="non-terminal">
+<path d="M308.5 508h0"></path>
+<path d="M464.5 508h0"></path>
+<rect x="308.5" y="497" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="386.5" y="512">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M464.5 508h10"></path>
+<path d="M474.5 508h10"></path>
+<g>
+<path d="M484.5 508h0"></path>
+<path d="M706 508h0"></path>
+<g class="terminal">
+<path d="M484.5 508h0"></path>
+<path d="M530 508h0"></path>
+<rect x="484.5" y="497" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="507.25" y="512">","</text>
+</g>
+<path d="M530 508h10"></path>
+<path d="M540 508h10"></path>
+<g class="non-terminal">
+<path d="M550 508h0"></path>
+<path d="M706 508h0"></path>
+<rect x="550" y="497" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="628" y="512">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M706 508h10"></path>
+<path d="M716 508h10"></path>
+<g class="terminal">
+<path d="M726 508h0"></path>
+<path d="M797 508h0"></path>
+<rect x="726" y="497" width="71" height="22" rx="10" ry="10"></rect>
+<text x="761.5" y="512">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 508a10 10 0 0 0 10 -10v-457a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v487a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 538h0"></path>
+<path d="M1047 538h106"></path>
+<g>
+<path d="M60 538h0"></path>
+<path d="M98 538h0"></path>
+<text x="79" y="543" class="comment">v750</text>
+</g>
+<path d="M98 538h10"></path>
+<path d="M108 538h10"></path>
+<g>
+<path d="M118 538h0"></path>
+<path d="M1047 538h0"></path>
+<g class="terminal">
+<path d="M118 538h0"></path>
+<path d="M214.5 538h0"></path>
+<rect x="118" y="527" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="166.25" y="542">^replace$</text>
+</g>
+<path d="M214.5 538h10"></path>
+<path d="M224.5 538h10"></path>
+<g class="terminal">
+<path d="M234.5 538h0"></path>
+<path d="M297 538h0"></path>
+<rect x="234.5" y="527" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="265.75" y="542">!"( "</text>
+</g>
+<path d="M297 538h10"></path>
+<path d="M307 538h10"></path>
+<g class="non-terminal">
+<path d="M317 538h0"></path>
+<path d="M473 538h0"></path>
+<rect x="317" y="527" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="395" y="542">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M473 538h10"></path>
+<path d="M483 538h10"></path>
+<g>
+<path d="M493 538h0"></path>
+<path d="M714.5 538h0"></path>
+<g class="terminal">
+<path d="M493 538h0"></path>
+<path d="M538.5 538h0"></path>
+<rect x="493" y="527" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="515.75" y="542">","</text>
+</g>
+<path d="M538.5 538h10"></path>
+<path d="M548.5 538h10"></path>
+<g class="non-terminal">
+<path d="M558.5 538h0"></path>
+<path d="M714.5 538h0"></path>
+<rect x="558.5" y="527" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="636.5" y="542">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M714.5 538h10"></path>
+<path d="M724.5 538h10"></path>
+<g>
+<path d="M734.5 538h0"></path>
+<path d="M956 538h0"></path>
+<g class="terminal">
+<path d="M734.5 538h0"></path>
+<path d="M780 538h0"></path>
+<rect x="734.5" y="527" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="757.25" y="542">","</text>
+</g>
+<path d="M780 538h10"></path>
+<path d="M790 538h10"></path>
+<g class="non-terminal">
+<path d="M800 538h0"></path>
+<path d="M956 538h0"></path>
+<rect x="800" y="527" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="878" y="542">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M956 538h10"></path>
+<path d="M966 538h10"></path>
+<g class="terminal">
+<path d="M976 538h0"></path>
+<path d="M1047 538h0"></path>
+<rect x="976" y="527" width="71" height="22" rx="10" ry="10"></rect>
+<text x="1011.5" y="542">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 538a10 10 0 0 0 10 -10v-487a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v517a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 568h0"></path>
+<path d="M555.5 568h597.5"></path>
+<g>
+<path d="M60 568h0"></path>
+<path d="M98 568h0"></path>
+<text x="79" y="573" class="comment">v750</text>
+</g>
+<path d="M98 568h10"></path>
+<path d="M108 568h10"></path>
+<g>
+<path d="M118 568h0"></path>
+<path d="M555.5 568h0"></path>
+<g class="terminal">
+<path d="M118 568h0"></path>
+<path d="M206 568h0"></path>
+<rect x="118" y="557" width="88" height="22" rx="10" ry="10"></rect>
+<text x="162" y="572">^length$</text>
+</g>
+<path d="M206 568h10"></path>
+<path d="M216 568h10"></path>
+<g class="terminal">
+<path d="M226 568h0"></path>
+<path d="M288.5 568h0"></path>
+<rect x="226" y="557" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="257.25" y="572">!"( "</text>
+</g>
+<path d="M288.5 568h10"></path>
+<path d="M298.5 568h10"></path>
+<g class="non-terminal">
+<path d="M308.5 568h0"></path>
+<path d="M464.5 568h0"></path>
+<rect x="308.5" y="557" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="386.5" y="572">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M464.5 568h10"></path>
+<path d="M474.5 568h10"></path>
+<g class="terminal">
+<path d="M484.5 568h0"></path>
+<path d="M555.5 568h0"></path>
+<rect x="484.5" y="557" width="71" height="22" rx="10" ry="10"></rect>
+<text x="520" y="572">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 568a10 10 0 0 0 10 -10v-517a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v547a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 598h0"></path>
+<path d="M547 598h606"></path>
+<g>
+<path d="M60 598h0"></path>
+<path d="M98 598h0"></path>
+<text x="79" y="603" class="comment">v751</text>
+</g>
+<path d="M98 598h10"></path>
+<path d="M108 598h10"></path>
+<g>
+<path d="M118 598h0"></path>
+<path d="M547 598h0"></path>
+<g class="terminal">
+<path d="M118 598h0"></path>
+<path d="M197.5 598h0"></path>
+<rect x="118" y="587" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="157.75" y="602">^lower$</text>
+</g>
+<path d="M197.5 598h10"></path>
+<path d="M207.5 598h10"></path>
+<g class="terminal">
+<path d="M217.5 598h0"></path>
+<path d="M280 598h0"></path>
+<rect x="217.5" y="587" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="248.75" y="602">!"( "</text>
+</g>
+<path d="M280 598h10"></path>
+<path d="M290 598h10"></path>
+<g class="non-terminal">
+<path d="M300 598h0"></path>
+<path d="M456 598h0"></path>
+<rect x="300" y="587" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="378" y="602">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M456 598h10"></path>
+<path d="M466 598h10"></path>
+<g class="terminal">
+<path d="M476 598h0"></path>
+<path d="M547 598h0"></path>
+<rect x="476" y="587" width="71" height="22" rx="10" ry="10"></rect>
+<text x="511.5" y="602">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 598a10 10 0 0 0 10 -10v-547a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v577a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 628h0"></path>
+<path d="M547 628h606"></path>
+<g>
+<path d="M60 628h0"></path>
+<path d="M98 628h0"></path>
+<text x="79" y="633" class="comment">v751</text>
+</g>
+<path d="M98 628h10"></path>
+<path d="M108 628h10"></path>
+<g>
+<path d="M118 628h0"></path>
+<path d="M547 628h0"></path>
+<g class="terminal">
+<path d="M118 628h0"></path>
+<path d="M197.5 628h0"></path>
+<rect x="118" y="617" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="157.75" y="632">^upper$</text>
+</g>
+<path d="M197.5 628h10"></path>
+<path d="M207.5 628h10"></path>
+<g class="terminal">
+<path d="M217.5 628h0"></path>
+<path d="M280 628h0"></path>
+<rect x="217.5" y="617" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="248.75" y="632">!"( "</text>
+</g>
+<path d="M280 628h10"></path>
+<path d="M290 628h10"></path>
+<g class="non-terminal">
+<path d="M300 628h0"></path>
+<path d="M456 628h0"></path>
+<rect x="300" y="617" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="378" y="632">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M456 628h10"></path>
+<path d="M466 628h10"></path>
+<g class="terminal">
+<path d="M476 628h0"></path>
+<path d="M547 628h0"></path>
+<rect x="476" y="617" width="71" height="22" rx="10" ry="10"></rect>
+<text x="511.5" y="632">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 628a10 10 0 0 0 10 -10v-577a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v607a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 658h0"></path>
+<path d="M788.5 658h364.5"></path>
+<g>
+<path d="M60 658h0"></path>
+<path d="M98 658h0"></path>
+<text x="79" y="663" class="comment">v750</text>
+</g>
+<path d="M98 658h10"></path>
+<path d="M108 658h10"></path>
+<g>
+<path d="M118 658h0"></path>
+<path d="M788.5 658h0"></path>
+<g class="terminal">
+<path d="M118 658h0"></path>
+<path d="M197.5 658h0"></path>
+<rect x="118" y="647" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="157.75" y="662">^round$</text>
+</g>
+<path d="M197.5 658h10"></path>
+<path d="M207.5 658h10"></path>
+<g class="terminal">
+<path d="M217.5 658h0"></path>
+<path d="M280 658h0"></path>
+<rect x="217.5" y="647" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="248.75" y="662">!"( "</text>
+</g>
+<path d="M280 658h10"></path>
+<path d="M290 658h10"></path>
+<g class="non-terminal">
+<path d="M300 658h0"></path>
+<path d="M456 658h0"></path>
+<rect x="300" y="647" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="378" y="662">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M456 658h10"></path>
+<path d="M466 658h10"></path>
+<g>
+<path d="M476 658h0"></path>
+<path d="M697.5 658h0"></path>
+<g class="terminal">
+<path d="M476 658h0"></path>
+<path d="M521.5 658h0"></path>
+<rect x="476" y="647" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="498.75" y="662">","</text>
+</g>
+<path d="M521.5 658h10"></path>
+<path d="M531.5 658h10"></path>
+<g class="non-terminal">
+<path d="M541.5 658h0"></path>
+<path d="M697.5 658h0"></path>
+<rect x="541.5" y="647" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="619.5" y="662">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M697.5 658h10"></path>
+<path d="M707.5 658h10"></path>
+<g class="terminal">
+<path d="M717.5 658h0"></path>
+<path d="M788.5 658h0"></path>
+<rect x="717.5" y="647" width="71" height="22" rx="10" ry="10"></rect>
+<text x="753" y="662">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 658a10 10 0 0 0 10 -10v-607a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v637a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 688h0"></path>
+<path d="M1132 688h21"></path>
+<g>
+<path d="M60 688h0"></path>
+<path d="M98 688h0"></path>
+<text x="79" y="693" class="comment">v751</text>
+</g>
+<path d="M98 688h10"></path>
+<path d="M108 688h10"></path>
+<g>
+<path d="M118 688h0"></path>
+<path d="M1132 688h0"></path>
+<g class="terminal">
+<path d="M118 688h0"></path>
+<path d="M299.5 688h0"></path>
+<rect x="118" y="677" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="208.75" y="692">^concat&#95;with&#95;space$</text>
+</g>
+<path d="M299.5 688h10"></path>
+<path d="M309.5 688h10"></path>
+<g class="terminal">
+<path d="M319.5 688h0"></path>
+<path d="M382 688h0"></path>
+<rect x="319.5" y="677" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="350.75" y="692">!"( "</text>
+</g>
+<path d="M382 688h10"></path>
+<path d="M392 688h10"></path>
+<g class="non-terminal">
+<path d="M402 688h0"></path>
+<path d="M558 688h0"></path>
+<rect x="402" y="677" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="480" y="692">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M558 688h10"></path>
+<path d="M568 688h10"></path>
+<g>
+<path d="M578 688h0"></path>
+<path d="M799.5 688h0"></path>
+<g class="terminal">
+<path d="M578 688h0"></path>
+<path d="M623.5 688h0"></path>
+<rect x="578" y="677" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="600.75" y="692">","</text>
+</g>
+<path d="M623.5 688h10"></path>
+<path d="M633.5 688h10"></path>
+<g class="non-terminal">
+<path d="M643.5 688h0"></path>
+<path d="M799.5 688h0"></path>
+<rect x="643.5" y="677" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="721.5" y="692">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M799.5 688h10"></path>
+<path d="M809.5 688h10"></path>
+<g>
+<path d="M819.5 688h0"></path>
+<path d="M1041 688h0"></path>
+<g class="terminal">
+<path d="M819.5 688h0"></path>
+<path d="M865 688h0"></path>
+<rect x="819.5" y="677" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="842.25" y="692">","</text>
+</g>
+<path d="M865 688h10"></path>
+<path d="M875 688h10"></path>
+<g class="non-terminal">
+<path d="M885 688h0"></path>
+<path d="M1041 688h0"></path>
+<rect x="885" y="677" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="963" y="692">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M1041 688h10"></path>
+<path d="M1051 688h10"></path>
+<g class="terminal">
+<path d="M1061 688h0"></path>
+<path d="M1132 688h0"></path>
+<rect x="1061" y="677" width="71" height="22" rx="10" ry="10"></rect>
+<text x="1096.5" y="692">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 688a10 10 0 0 0 10 -10v-637a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v667a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 718h0"></path>
+<path d="M788.5 718h364.5"></path>
+<g>
+<path d="M60 718h0"></path>
+<path d="M98 718h0"></path>
+<text x="79" y="723" class="comment">v750</text>
+</g>
+<path d="M98 718h10"></path>
+<path d="M108 718h10"></path>
+<g>
+<path d="M118 718h0"></path>
+<path d="M788.5 718h0"></path>
+<g class="terminal">
+<path d="M118 718h0"></path>
+<path d="M197.5 718h0"></path>
+<rect x="118" y="707" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="157.75" y="722">^ltrim$</text>
+</g>
+<path d="M197.5 718h10"></path>
+<path d="M207.5 718h10"></path>
+<g class="terminal">
+<path d="M217.5 718h0"></path>
+<path d="M280 718h0"></path>
+<rect x="217.5" y="707" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="248.75" y="722">!"( "</text>
+</g>
+<path d="M280 718h10"></path>
+<path d="M290 718h10"></path>
+<g class="non-terminal">
+<path d="M300 718h0"></path>
+<path d="M456 718h0"></path>
+<rect x="300" y="707" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="378" y="722">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M456 718h10"></path>
+<path d="M466 718h10"></path>
+<g>
+<path d="M476 718h0"></path>
+<path d="M697.5 718h0"></path>
+<g class="terminal">
+<path d="M476 718h0"></path>
+<path d="M521.5 718h0"></path>
+<rect x="476" y="707" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="498.75" y="722">","</text>
+</g>
+<path d="M521.5 718h10"></path>
+<path d="M531.5 718h10"></path>
+<g class="non-terminal">
+<path d="M541.5 718h0"></path>
+<path d="M697.5 718h0"></path>
+<rect x="541.5" y="707" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="619.5" y="722">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M697.5 718h10"></path>
+<path d="M707.5 718h10"></path>
+<g class="terminal">
+<path d="M717.5 718h0"></path>
+<path d="M788.5 718h0"></path>
+<rect x="717.5" y="707" width="71" height="22" rx="10" ry="10"></rect>
+<text x="753" y="722">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 718a10 10 0 0 0 10 -10v-667a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v697a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 748h0"></path>
+<path d="M788.5 748h364.5"></path>
+<g>
+<path d="M60 748h0"></path>
+<path d="M98 748h0"></path>
+<text x="79" y="753" class="comment">v750</text>
+</g>
+<path d="M98 748h10"></path>
+<path d="M108 748h10"></path>
+<g>
+<path d="M118 748h0"></path>
+<path d="M788.5 748h0"></path>
+<g class="terminal">
+<path d="M118 748h0"></path>
+<path d="M197.5 748h0"></path>
+<rect x="118" y="737" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="157.75" y="752">^rtrim$</text>
+</g>
+<path d="M197.5 748h10"></path>
+<path d="M207.5 748h10"></path>
+<g class="terminal">
+<path d="M217.5 748h0"></path>
+<path d="M280 748h0"></path>
+<rect x="217.5" y="737" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="248.75" y="752">!"( "</text>
+</g>
+<path d="M280 748h10"></path>
+<path d="M290 748h10"></path>
+<g class="non-terminal">
+<path d="M300 748h0"></path>
+<path d="M456 748h0"></path>
+<rect x="300" y="737" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="378" y="752">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M456 748h10"></path>
+<path d="M466 748h10"></path>
+<g>
+<path d="M476 748h0"></path>
+<path d="M697.5 748h0"></path>
+<g class="terminal">
+<path d="M476 748h0"></path>
+<path d="M521.5 748h0"></path>
+<rect x="476" y="737" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="498.75" y="752">","</text>
+</g>
+<path d="M521.5 748h10"></path>
+<path d="M531.5 748h10"></path>
+<g class="non-terminal">
+<path d="M541.5 748h0"></path>
+<path d="M697.5 748h0"></path>
+<rect x="541.5" y="737" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="619.5" y="752">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M697.5 748h10"></path>
+<path d="M707.5 748h10"></path>
+<g class="terminal">
+<path d="M717.5 748h0"></path>
+<path d="M788.5 748h0"></path>
+<rect x="717.5" y="737" width="71" height="22" rx="10" ry="10"></rect>
+<text x="753" y="752">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 748a10 10 0 0 0 10 -10v-697a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v727a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 778h0"></path>
+<path d="M1064 778h89"></path>
+<g>
+<path d="M60 778h0"></path>
+<path d="M98 778h0"></path>
+<text x="79" y="783" class="comment">v750</text>
+</g>
+<path d="M98 778h10"></path>
+<path d="M108 778h10"></path>
+<g>
+<path d="M118 778h0"></path>
+<path d="M1064 778h0"></path>
+<g class="terminal">
+<path d="M118 778h0"></path>
+<path d="M231.5 778h0"></path>
+<rect x="118" y="767" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="174.75" y="782">^substring$</text>
+</g>
+<path d="M231.5 778h10"></path>
+<path d="M241.5 778h10"></path>
+<g class="terminal">
+<path d="M251.5 778h0"></path>
+<path d="M314 778h0"></path>
+<rect x="251.5" y="767" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="282.75" y="782">!"( "</text>
+</g>
+<path d="M314 778h10"></path>
+<path d="M324 778h10"></path>
+<g class="non-terminal">
+<path d="M334 778h0"></path>
+<path d="M490 778h0"></path>
+<rect x="334" y="767" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="412" y="782">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M490 778h10"></path>
+<path d="M500 778h10"></path>
+<g>
+<path d="M510 778h0"></path>
+<path d="M731.5 778h0"></path>
+<g class="terminal">
+<path d="M510 778h0"></path>
+<path d="M555.5 778h0"></path>
+<rect x="510" y="767" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="532.75" y="782">","</text>
+</g>
+<path d="M555.5 778h10"></path>
+<path d="M565.5 778h10"></path>
+<g class="non-terminal">
+<path d="M575.5 778h0"></path>
+<path d="M731.5 778h0"></path>
+<rect x="575.5" y="767" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="653.5" y="782">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M731.5 778h10"></path>
+<path d="M741.5 778h10"></path>
+<g>
+<path d="M751.5 778h0"></path>
+<path d="M973 778h0"></path>
+<g class="terminal">
+<path d="M751.5 778h0"></path>
+<path d="M797 778h0"></path>
+<rect x="751.5" y="767" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="774.25" y="782">","</text>
+</g>
+<path d="M797 778h10"></path>
+<path d="M807 778h10"></path>
+<g class="non-terminal">
+<path d="M817 778h0"></path>
+<path d="M973 778h0"></path>
+<rect x="817" y="767" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="895" y="782">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M973 778h10"></path>
+<path d="M983 778h10"></path>
+<g class="terminal">
+<path d="M993 778h0"></path>
+<path d="M1064 778h0"></path>
+<rect x="993" y="767" width="71" height="22" rx="10" ry="10"></rect>
+<text x="1028.5" y="782">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 778a10 10 0 0 0 10 -10v-727a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v757a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 808h0"></path>
+<path d="M615 808h538"></path>
+<g>
+<path d="M60 808h0"></path>
+<path d="M98 808h0"></path>
+<text x="79" y="813" class="comment">v754</text>
+</g>
+<path d="M98 808h10"></path>
+<path d="M108 808h10"></path>
+<g>
+<path d="M118 808h0"></path>
+<path d="M615 808h0"></path>
+<g class="terminal">
+<path d="M118 808h0"></path>
+<path d="M265.5 808h0"></path>
+<rect x="118" y="797" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="191.75" y="812">^dats&#95;is&#95;valid$</text>
+</g>
+<path d="M265.5 808h10"></path>
+<path d="M275.5 808h10"></path>
+<g class="terminal">
+<path d="M285.5 808h0"></path>
+<path d="M348 808h0"></path>
+<rect x="285.5" y="797" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="316.75" y="812">!"( "</text>
+</g>
+<path d="M348 808h10"></path>
+<path d="M358 808h10"></path>
+<g class="non-terminal">
+<path d="M368 808h0"></path>
+<path d="M524 808h0"></path>
+<rect x="368" y="797" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="446" y="812">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M524 808h10"></path>
+<path d="M534 808h10"></path>
+<g class="terminal">
+<path d="M544 808h0"></path>
+<path d="M615 808h0"></path>
+<rect x="544" y="797" width="71" height="22" rx="10" ry="10"></rect>
+<text x="579.5" y="812">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 808a10 10 0 0 0 10 -10v-757a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v787a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 838h0"></path>
+<path d="M890.5 838h262.5"></path>
+<g>
+<path d="M60 838h0"></path>
+<path d="M98 838h0"></path>
+<text x="79" y="843" class="comment">v754</text>
+</g>
+<path d="M98 838h10"></path>
+<path d="M108 838h10"></path>
+<g>
+<path d="M118 838h0"></path>
+<path d="M890.5 838h0"></path>
+<g class="terminal">
+<path d="M118 838h0"></path>
+<path d="M299.5 838h0"></path>
+<rect x="118" y="827" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="208.75" y="842">^dats&#95;days&#95;between$</text>
+</g>
+<path d="M299.5 838h10"></path>
+<path d="M309.5 838h10"></path>
+<g class="terminal">
+<path d="M319.5 838h0"></path>
+<path d="M382 838h0"></path>
+<rect x="319.5" y="827" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="350.75" y="842">!"( "</text>
+</g>
+<path d="M382 838h10"></path>
+<path d="M392 838h10"></path>
+<g class="non-terminal">
+<path d="M402 838h0"></path>
+<path d="M558 838h0"></path>
+<rect x="402" y="827" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="480" y="842">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M558 838h10"></path>
+<path d="M568 838h10"></path>
+<g>
+<path d="M578 838h0"></path>
+<path d="M799.5 838h0"></path>
+<g class="terminal">
+<path d="M578 838h0"></path>
+<path d="M623.5 838h0"></path>
+<rect x="578" y="827" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="600.75" y="842">","</text>
+</g>
+<path d="M623.5 838h10"></path>
+<path d="M633.5 838h10"></path>
+<g class="non-terminal">
+<path d="M643.5 838h0"></path>
+<path d="M799.5 838h0"></path>
+<rect x="643.5" y="827" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="721.5" y="842">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M799.5 838h10"></path>
+<path d="M809.5 838h10"></path>
+<g class="terminal">
+<path d="M819.5 838h0"></path>
+<path d="M890.5 838h0"></path>
+<rect x="819.5" y="827" width="71" height="22" rx="10" ry="10"></rect>
+<text x="855" y="842">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 838a10 10 0 0 0 10 -10v-787a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v817a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 868h0"></path>
+<path d="M856.5 868h296.5"></path>
+<g>
+<path d="M60 868h0"></path>
+<path d="M98 868h0"></path>
+<text x="79" y="873" class="comment">v754</text>
+</g>
+<path d="M98 868h10"></path>
+<path d="M108 868h10"></path>
+<g>
+<path d="M118 868h0"></path>
+<path d="M856.5 868h0"></path>
+<g class="terminal">
+<path d="M118 868h0"></path>
+<path d="M265.5 868h0"></path>
+<rect x="118" y="857" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="191.75" y="872">^dats&#95;add&#95;days$</text>
+</g>
+<path d="M265.5 868h10"></path>
+<path d="M275.5 868h10"></path>
+<g class="terminal">
+<path d="M285.5 868h0"></path>
+<path d="M348 868h0"></path>
+<rect x="285.5" y="857" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="316.75" y="872">!"( "</text>
+</g>
+<path d="M348 868h10"></path>
+<path d="M358 868h10"></path>
+<g class="non-terminal">
+<path d="M368 868h0"></path>
+<path d="M524 868h0"></path>
+<rect x="368" y="857" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="446" y="872">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M524 868h10"></path>
+<path d="M534 868h10"></path>
+<g>
+<path d="M544 868h0"></path>
+<path d="M765.5 868h0"></path>
+<g class="terminal">
+<path d="M544 868h0"></path>
+<path d="M589.5 868h0"></path>
+<rect x="544" y="857" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="566.75" y="872">","</text>
+</g>
+<path d="M589.5 868h10"></path>
+<path d="M599.5 868h10"></path>
+<g class="non-terminal">
+<path d="M609.5 868h0"></path>
+<path d="M765.5 868h0"></path>
+<rect x="609.5" y="857" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="687.5" y="872">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M765.5 868h10"></path>
+<path d="M775.5 868h10"></path>
+<g class="terminal">
+<path d="M785.5 868h0"></path>
+<path d="M856.5 868h0"></path>
+<rect x="785.5" y="857" width="71" height="22" rx="10" ry="10"></rect>
+<text x="821" y="872">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 868a10 10 0 0 0 10 -10v-817a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v847a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 898h0"></path>
+<path d="M873.5 898h279.5"></path>
+<g>
+<path d="M60 898h0"></path>
+<path d="M98 898h0"></path>
+<text x="79" y="903" class="comment">v754</text>
+</g>
+<path d="M98 898h10"></path>
+<path d="M108 898h10"></path>
+<g>
+<path d="M118 898h0"></path>
+<path d="M873.5 898h0"></path>
+<g class="terminal">
+<path d="M118 898h0"></path>
+<path d="M282.5 898h0"></path>
+<rect x="118" y="887" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="200.25" y="902">^dats&#95;add&#95;months$</text>
+</g>
+<path d="M282.5 898h10"></path>
+<path d="M292.5 898h10"></path>
+<g class="terminal">
+<path d="M302.5 898h0"></path>
+<path d="M365 898h0"></path>
+<rect x="302.5" y="887" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="333.75" y="902">!"( "</text>
+</g>
+<path d="M365 898h10"></path>
+<path d="M375 898h10"></path>
+<g class="non-terminal">
+<path d="M385 898h0"></path>
+<path d="M541 898h0"></path>
+<rect x="385" y="887" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="463" y="902">SQLFunctionInput</text>
+</a>
+</g>
+<path d="M541 898h10"></path>
+<path d="M551 898h10"></path>
+<g>
+<path d="M561 898h0"></path>
+<path d="M782.5 898h0"></path>
+<g class="terminal">
+<path d="M561 898h0"></path>
+<path d="M606.5 898h0"></path>
+<rect x="561" y="887" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="583.75" y="902">","</text>
+</g>
+<path d="M606.5 898h10"></path>
+<path d="M616.5 898h10"></path>
+<g class="non-terminal">
+<path d="M626.5 898h0"></path>
+<path d="M782.5 898h0"></path>
+<rect x="626.5" y="887" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFunctionInput"><text x="704.5" y="902">SQLFunctionInput</text>
+</a>
+</g>
+</g>
+<path d="M782.5 898h10"></path>
+<path d="M792.5 898h10"></path>
+<g class="terminal">
+<path d="M802.5 898h0"></path>
+<path d="M873.5 898h0"></path>
+<rect x="802.5" y="887" width="71" height="22" rx="10" ry="10"></rect>
+<text x="838" y="902">!" ) "</text>
+</g>
+</g>
+</g>
+<path d="M1153 898a10 10 0 0 0 10 -10v-847a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M 1173 31 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>

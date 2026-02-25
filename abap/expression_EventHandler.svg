@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="871.5" height="80" viewBox="0 0 871.5 80">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m0 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M821.5 40h0"></path>
+<g class="terminal">
+<path d="M50 40h0"></path>
+<path d="M163.5 40h0"></path>
+<rect x="50" y="29" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="106.75" y="44">"FOR EVENT"</text>
+</g>
+<path d="M163.5 40h10"></path>
+<path d="M173.5 40h10"></path>
+<g class="non-terminal">
+<path d="M183.5 40h0"></path>
+<path d="M280 40h0"></path>
+<rect x="183.5" y="29" width="96.5" height="22"></rect>
+<a xlink:href="#/abap/expression/EventName"><text x="231.75" y="44">EventName</text>
+</a>
+</g>
+<path d="M280 40h10"></path>
+<path d="M290 40h10"></path>
+<g class="terminal">
+<path d="M300 40h0"></path>
+<path d="M354 40h0"></path>
+<rect x="300" y="29" width="54" height="22" rx="10" ry="10"></rect>
+<text x="327" y="44">"OF"</text>
+</g>
+<path d="M354 40h10"></path>
+<path d="M364 40h10"></path>
+<g class="non-terminal">
+<path d="M374 40h0"></path>
+<path d="M470.5 40h0"></path>
+<rect x="374" y="29" width="96.5" height="22"></rect>
+<a xlink:href="#/abap/expression/ClassName"><text x="422.25" y="44">ClassName</text>
+</a>
+</g>
+<path d="M470.5 40h10"></path>
+<g>
+<path d="M480.5 40h0"></path>
+<path d="M821.5 40h0"></path>
+<path d="M480.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M500.5 20h301"></path>
+</g>
+<path d="M801.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M480.5 40h20"></path>
+<g>
+<path d="M500.5 40h0"></path>
+<path d="M801.5 40h0"></path>
+<g class="terminal">
+<path d="M500.5 40h0"></path>
+<path d="M614 40h0"></path>
+<rect x="500.5" y="29" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="557.25" y="44">"IMPORTING"</text>
+</g>
+<path d="M614 40h10"></path>
+<path d="M624 40h10"></path>
+<g>
+<path d="M634 40h0"></path>
+<path d="M801.5 40h0"></path>
+<path d="M634 40h10"></path>
+<g class="non-terminal">
+<path d="M644 40h0"></path>
+<path d="M791.5 40h0"></path>
+<rect x="644" y="29" width="147.5" height="22"></rect>
+<a xlink:href="#/abap/expression/MethodParamName"><text x="717.75" y="44">MethodParamName</text>
+</a>
+</g>
+<path d="M791.5 40h10"></path>
+<path d="M644 40a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M644 60h147.5"></path>
+</g>
+<path d="M791.5 60a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+</g>
+<path d="M801.5 40h20"></path>
+</g>
+</g>
+<path d="M821.5 40h10"></path>
+<path d="M 831.5 40 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>

@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="466.5" height="122" viewBox="0 0 466.5 122">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 21v20m0 -10h20"></path>
+</g>
+<g>
+<path d="M40 31h0"></path>
+<path d="M426.5 31h0"></path>
+<path d="M40 31h20"></path>
+<g class="non-terminal">
+<path d="M60 31h0"></path>
+<path d="M267 31h139.5"></path>
+<rect x="60" y="20" width="207" height="22"></rect>
+<a xlink:href="#/abap/expression/ComponentCompareSingle"><text x="163.5" y="35">ComponentCompareSingle</text>
+</a>
+</g>
+<path d="M406.5 31h20"></path>
+<path d="M40 31a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M398 61h8.5"></path>
+<g class="non-terminal">
+<path d="M60 61h0"></path>
+<path d="M190.5 61h0"></path>
+<rect x="60" y="50" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/expression/ComponentName"><text x="125.25" y="65">ComponentName</text>
+</a>
+</g>
+<path d="M190.5 61h10"></path>
+<path d="M200.5 61h10"></path>
+<g class="terminal">
+<path d="M210.5 61h0"></path>
+<path d="M256 61h0"></path>
+<rect x="210.5" y="50" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="233.25" y="65">"="</text>
+</g>
+<path d="M256 61h10"></path>
+<path d="M266 61h10"></path>
+<g class="terminal">
+<path d="M276 61h0"></path>
+<path d="M398 61h0"></path>
+<rect x="276" y="50" width="122" height="22" rx="10" ry="10"></rect>
+<text x="337" y="65">"GROUP SIZE"</text>
+</g>
+</g>
+<path d="M406.5 61a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M40 31a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 91h0"></path>
+<path d="M406.5 91h0"></path>
+<g class="non-terminal">
+<path d="M60 91h0"></path>
+<path d="M190.5 91h0"></path>
+<rect x="60" y="80" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/expression/ComponentName"><text x="125.25" y="95">ComponentName</text>
+</a>
+</g>
+<path d="M190.5 91h10"></path>
+<path d="M200.5 91h10"></path>
+<g class="terminal">
+<path d="M210.5 91h0"></path>
+<path d="M256 91h0"></path>
+<rect x="210.5" y="80" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="233.25" y="95">"="</text>
+</g>
+<path d="M256 91h10"></path>
+<path d="M266 91h10"></path>
+<g class="terminal">
+<path d="M276 91h0"></path>
+<path d="M406.5 91h0"></path>
+<rect x="276" y="80" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="341.25" y="95">"GROUP INDEX"</text>
+</g>
+</g>
+<path d="M406.5 91a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M 426.5 31 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
