@@ -1,0 +1,272 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1563" height="131" viewBox="0 0 1563 131">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1513 40h0"></path>
+<g class="terminal">
+<path d="M50 40h0"></path>
+<path d="M197.5 40h0"></path>
+<rect x="50" y="29" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="123.75" y="44">"CREATE OBJECT"</text>
+</g>
+<path d="M197.5 40h10"></path>
+<path d="M207.5 40h10"></path>
+<g class="non-terminal">
+<path d="M217.5 40h0"></path>
+<path d="M288.5 40h0"></path>
+<rect x="217.5" y="29" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="253" y="44">Target</text>
+</a>
+</g>
+<path d="M288.5 40h10"></path>
+<g>
+<path d="M298.5 40h0"></path>
+<path d="M723 40h0"></path>
+<path d="M298.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M318.5 20h384.5"></path>
+</g>
+<path d="M703 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M298.5 40h20"></path>
+<g>
+<path d="M318.5 40h0"></path>
+<path d="M703 40h0"></path>
+<path d="M348.5 40h10"></path>
+<g>
+<path d="M358.5 40h0"></path>
+<path d="M576 40h97"></path>
+<g class="terminal">
+<path d="M358.5 40h0"></path>
+<path d="M429.5 40h0"></path>
+<rect x="358.5" y="29" width="71" height="22" rx="10" ry="10"></rect>
+<text x="394" y="44">"TYPE"</text>
+</g>
+<path d="M429.5 40h10"></path>
+<g>
+<path d="M439.5 40h0"></path>
+<path d="M576 40h0"></path>
+<path d="M439.5 40h20"></path>
+<g class="non-terminal">
+<path d="M459.5 40h0"></path>
+<path d="M556 40h0"></path>
+<rect x="459.5" y="29" width="96.5" height="22"></rect>
+<a xlink:href="#/abap/expression/ClassName"><text x="507.75" y="44">ClassName</text>
+</a>
+</g>
+<path d="M556 40h20"></path>
+<path d="M439.5 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal">
+<path d="M459.5 70h0"></path>
+<path d="M539 70h17"></path>
+<rect x="459.5" y="59" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/Dynamic"><text x="499.25" y="74">Dynamic</text>
+</a>
+</g>
+<path d="M556 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M673 40h10"></path>
+<path d="M348.5 40v50a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M358.5 100h0"></path>
+<path d="M673 100h0"></path>
+<g>
+<path d="M358.5 100h0"></path>
+<path d="M431.5 100h0"></path>
+<text x="395" y="105" class="comment">not Cloud</text>
+</g>
+<path d="M431.5 100h10"></path>
+<path d="M441.5 100h10"></path>
+<g>
+<path d="M451.5 100h0"></path>
+<path d="M673 100h0"></path>
+<g class="terminal">
+<path d="M451.5 100h0"></path>
+<path d="M582 100h0"></path>
+<rect x="451.5" y="89" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="516.75" y="104">"AREA HANDLE"</text>
+</g>
+<path d="M582 100h10"></path>
+<path d="M592 100h10"></path>
+<g class="non-terminal">
+<path d="M602 100h0"></path>
+<path d="M673 100h0"></path>
+<rect x="602" y="89" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="637.5" y="104">Source</text>
+</a>
+</g>
+</g>
+</g>
+<path d="M673 100a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 348.5 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="333.5" y="44" class="diagram-text">1+</text>
+<path d="M 683 30 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 690 38 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M703 40h20"></path>
+</g>
+<g>
+<path d="M723 40h0"></path>
+<path d="M1075.5 40h0"></path>
+<path d="M723 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M743 20h312.5"></path>
+</g>
+<path d="M1055.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M723 40h20"></path>
+<g>
+<path d="M743 40h0"></path>
+<path d="M1055.5 40h0"></path>
+<path d="M743 40h20"></path>
+<g>
+<path d="M763 40h0"></path>
+<path d="M1035.5 40h0"></path>
+<g class="terminal">
+<path d="M763 40h0"></path>
+<path d="M876.5 40h0"></path>
+<rect x="763" y="29" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="819.75" y="44">"EXPORTING"</text>
+</g>
+<path d="M876.5 40h10"></path>
+<path d="M886.5 40h10"></path>
+<g class="non-terminal">
+<path d="M896.5 40h0"></path>
+<path d="M1035.5 40h0"></path>
+<rect x="896.5" y="29" width="139" height="22"></rect>
+<a xlink:href="#/abap/expression/ParameterListS"><text x="966" y="44">ParameterListS</text>
+</a>
+</g>
+</g>
+<path d="M1035.5 40h20"></path>
+<path d="M743 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M763 70h0"></path>
+<path d="M1018.5 70h17"></path>
+<g class="terminal">
+<path d="M763 70h0"></path>
+<path d="M927.5 70h0"></path>
+<rect x="763" y="59" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="845.25" y="74">"PARAMETER-TABLE"</text>
+</g>
+<path d="M927.5 70h10"></path>
+<path d="M937.5 70h10"></path>
+<g class="non-terminal">
+<path d="M947.5 70h0"></path>
+<path d="M1018.5 70h0"></path>
+<rect x="947.5" y="59" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="983" y="74">Source</text>
+</a>
+</g>
+</g>
+<path d="M1035.5 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M1055.5 40h20"></path>
+</g>
+<g>
+<path d="M1075.5 40h0"></path>
+<path d="M1513 40h0"></path>
+<path d="M1075.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1095.5 20h397.5"></path>
+</g>
+<path d="M1493 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1075.5 40h20"></path>
+<g>
+<path d="M1095.5 40h0"></path>
+<path d="M1493 40h0"></path>
+<path d="M1095.5 40h20"></path>
+<g>
+<path d="M1115.5 40h0"></path>
+<path d="M1473 40h0"></path>
+<g class="terminal">
+<path d="M1115.5 40h0"></path>
+<path d="M1237.5 40h0"></path>
+<rect x="1115.5" y="29" width="122" height="22" rx="10" ry="10"></rect>
+<text x="1176.5" y="44">"EXCEPTIONS"</text>
+</g>
+<path d="M1237.5 40h10"></path>
+<path d="M1247.5 40h10"></path>
+<g class="non-terminal">
+<path d="M1257.5 40h0"></path>
+<path d="M1473 40h0"></path>
+<rect x="1257.5" y="29" width="215.5" height="22"></rect>
+<a xlink:href="#/abap/expression/ParameterListExceptions"><text x="1365.25" y="44">ParameterListExceptions</text>
+</a>
+</g>
+</g>
+<path d="M1473 40h20"></path>
+<path d="M1095.5 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1115.5 70h0"></path>
+<path d="M1371 70h102"></path>
+<g class="terminal">
+<path d="M1115.5 70h0"></path>
+<path d="M1280 70h0"></path>
+<rect x="1115.5" y="59" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="1197.75" y="74">"EXCEPTION-TABLE"</text>
+</g>
+<path d="M1280 70h10"></path>
+<path d="M1290 70h10"></path>
+<g class="non-terminal">
+<path d="M1300 70h0"></path>
+<path d="M1371 70h0"></path>
+<rect x="1300" y="59" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="1335.5" y="74">Source</text>
+</a>
+</g>
+</g>
+<path d="M1473 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M1493 40h20"></path>
+</g>
+</g>
+<path d="M1513 40h10"></path>
+<path d="M 1523 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>

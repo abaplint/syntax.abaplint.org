@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1466" height="71" viewBox="0 0 1466 71">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1416 40h0"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M179 40h0"></path>
+<text x="114.5" y="45" class="comment">v751 or open-abap</text>
+</g>
+<path d="M179 40h10"></path>
+<path d="M189 40h10"></path>
+<g>
+<path d="M199 40h0"></path>
+<path d="M1416 40h0"></path>
+<g class="terminal">
+<path d="M199 40h0"></path>
+<path d="M278.5 40h0"></path>
+<rect x="199" y="29" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="238.75" y="44">"TYPES"</text>
+</g>
+<path d="M278.5 40h10"></path>
+<path d="M288.5 40h10"></path>
+<g class="terminal">
+<path d="M298.5 40h0"></path>
+<path d="M403.5 40h0"></path>
+<rect x="298.5" y="29" width="105" height="22" rx="10" ry="10"></rect>
+<text x="351" y="44">"BEGIN OF"</text>
+</g>
+<path d="M403.5 40h10"></path>
+<path d="M413.5 40h10"></path>
+<g>
+<path d="M423.5 40h0"></path>
+<path d="M1416 40h0"></path>
+<g class="terminal">
+<path d="M423.5 40h0"></path>
+<path d="M494.5 40h0"></path>
+<rect x="423.5" y="29" width="71" height="22" rx="10" ry="10"></rect>
+<text x="459" y="44">"ENUM"</text>
+</g>
+<path d="M494.5 40h10"></path>
+<path d="M504.5 40h10"></path>
+<g class="non-terminal">
+<path d="M514.5 40h0"></path>
+<path d="M696 40h0"></path>
+<rect x="514.5" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="605.25" y="44">NamespaceSimpleName</text>
+</a>
+</g>
+<path d="M696 40h10"></path>
+<g>
+<path d="M706 40h0"></path>
+<path d="M1061 40h0"></path>
+<path d="M706 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M726 20h315"></path>
+</g>
+<path d="M1041 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M706 40h20"></path>
+<g>
+<path d="M726 40h0"></path>
+<path d="M1041 40h0"></path>
+<g class="terminal">
+<path d="M726 40h0"></path>
+<path d="M839.5 40h0"></path>
+<rect x="726" y="29" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="782.75" y="44">"STRUCTURE"</text>
+</g>
+<path d="M839.5 40h10"></path>
+<path d="M849.5 40h10"></path>
+<g class="non-terminal">
+<path d="M859.5 40h0"></path>
+<path d="M1041 40h0"></path>
+<rect x="859.5" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="950.25" y="44">NamespaceSimpleName</text>
+</a>
+</g>
+</g>
+<path d="M1041 40h20"></path>
+</g>
+<g>
+<path d="M1061 40h0"></path>
+<path d="M1416 40h0"></path>
+<path d="M1061 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1081 20h315"></path>
+</g>
+<path d="M1396 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1061 40h20"></path>
+<g>
+<path d="M1081 40h0"></path>
+<path d="M1396 40h0"></path>
+<g class="terminal">
+<path d="M1081 40h0"></path>
+<path d="M1194.5 40h0"></path>
+<rect x="1081" y="29" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="1137.75" y="44">"BASE TYPE"</text>
+</g>
+<path d="M1194.5 40h10"></path>
+<path d="M1204.5 40h10"></path>
+<g class="non-terminal">
+<path d="M1214.5 40h0"></path>
+<path d="M1396 40h0"></path>
+<rect x="1214.5" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="1305.25" y="44">NamespaceSimpleName</text>
+</a>
+</g>
+</g>
+<path d="M1396 40h20"></path>
+</g>
+</g>
+</g>
+</g>
+<path d="M1416 40h10"></path>
+<path d="M 1426 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>

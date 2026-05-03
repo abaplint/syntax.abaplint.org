@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1103.5" height="88" viewBox="0 0 1103.5 88">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 38v20m0 -10h20"></path>
+</g>
+<path d="M40 48h10"></path>
+<g>
+<path d="M50 48h0"></path>
+<path d="M1053.5 48h0"></path>
+<g class="terminal">
+<path d="M50 48h0"></path>
+<path d="M376 48h0"></path>
+<rect x="50" y="37" width="326" height="22" rx="10" ry="10"></rect>
+<text x="213" y="52">^>?&#91;\w\/&#93;+#?@?\/?!?&#38;?>?\$?\??&#60;?§?~?$</text>
+</g>
+<path d="M376 48h10"></path>
+<g>
+<path d="M386 48h0"></path>
+<path d="M525.5 48h0"></path>
+<path d="M386 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M406 28h99.5"></path>
+</g>
+<path d="M505.5 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M386 48h20"></path>
+<g>
+<path d="M406 48h0"></path>
+<path d="M505.5 48h0"></path>
+<path d="M406 48h10"></path>
+<g class="terminal">
+<path d="M416 48h0"></path>
+<path d="M495.5 48h0"></path>
+<rect x="416" y="37" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="455.75" y="52">!"Plus"</text>
+</g>
+<path d="M495.5 48h10"></path>
+<path d="M416 48a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M416 68h79.5"></path>
+</g>
+<path d="M495.5 68a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M505.5 48h20"></path>
+</g>
+<g>
+<path d="M525.5 48h0"></path>
+<path d="M673.5 48h0"></path>
+<path d="M525.5 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M545.5 28h108"></path>
+</g>
+<path d="M653.5 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M525.5 48h20"></path>
+<g>
+<path d="M545.5 48h0"></path>
+<path d="M653.5 48h0"></path>
+<path d="M545.5 48h10"></path>
+<g class="terminal">
+<path d="M555.5 48h0"></path>
+<path d="M643.5 48h0"></path>
+<rect x="555.5" y="37" width="88" height="22" rx="10" ry="10"></rect>
+<text x="599.5" y="52">!"PlusW"</text>
+</g>
+<path d="M643.5 48h10"></path>
+<path d="M555.5 48a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M555.5 68h88"></path>
+</g>
+<path d="M643.5 68a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M653.5 48h20"></path>
+</g>
+<g>
+<path d="M673.5 48h0"></path>
+<path d="M925.5 48h0"></path>
+<path d="M673.5 48a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M693.5 20h212"></path>
+</g>
+<path d="M905.5 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M673.5 48h20"></path>
+<g>
+<path d="M693.5 48h0"></path>
+<path d="M905.5 48h0"></path>
+<path d="M693.5 48h10"></path>
+<g>
+<path d="M703.5 48h0"></path>
+<path d="M895.5 48h0"></path>
+<g class="terminal">
+<path d="M703.5 48h0"></path>
+<path d="M783 48h0"></path>
+<rect x="703.5" y="37" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="743.25" y="52">!"Dash"</text>
+</g>
+<path d="M783 48h10"></path>
+<g>
+<path d="M793 48h0"></path>
+<path d="M895.5 48h0"></path>
+<path d="M793 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M813 28h62.5"></path>
+</g>
+<path d="M875.5 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M793 48h20"></path>
+<g class="terminal">
+<path d="M813 48h0"></path>
+<path d="M875.5 48h0"></path>
+<rect x="813" y="37" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="844.25" y="52">^\w+$</text>
+</g>
+<path d="M875.5 48h20"></path>
+</g>
+</g>
+<path d="M895.5 48h10"></path>
+<path d="M703.5 48a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M703.5 68h192"></path>
+</g>
+<path d="M895.5 68a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M905.5 48h20"></path>
+</g>
+<g>
+<path d="M925.5 48h0"></path>
+<path d="M1053.5 48h0"></path>
+<path d="M925.5 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M945.5 28h88"></path>
+</g>
+<path d="M1033.5 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M925.5 48h20"></path>
+<g class="terminal">
+<path d="M945.5 48h0"></path>
+<path d="M1033.5 48h0"></path>
+<rect x="945.5" y="37" width="88" height="22" rx="10" ry="10"></rect>
+<text x="989.5" y="52">!"DashW"</text>
+</g>
+<path d="M1033.5 48h20"></path>
+</g>
+</g>
+<path d="M1053.5 48h10"></path>
+<path d="M 1063.5 48 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
