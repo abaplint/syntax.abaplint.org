@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="785" height="139" viewBox="0 0 785 139">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 38v20m0 -10h20"></path>
+</g>
+<path d="M40 48h10"></path>
+<g>
+<path d="M50 48h0"></path>
+<path d="M735 48h0"></path>
+<g class="terminal">
+<path d="M50 48h0"></path>
+<path d="M172 48h0"></path>
+<rect x="50" y="37" width="122" height="22" rx="10" ry="10"></rect>
+<text x="111" y="52">!"ParenLeft"</text>
+</g>
+<path d="M172 48h10"></path>
+<g>
+<path d="M182 48h0"></path>
+<path d="M586 48h0"></path>
+<path d="M182 48a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M202 20h364"></path>
+</g>
+<path d="M566 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M182 48h20"></path>
+<g>
+<path d="M202 48h0"></path>
+<path d="M566 48h0"></path>
+<path d="M202 48h20"></path>
+<g>
+<path d="M222 48h0"></path>
+<path d="M546 48h0"></path>
+<g>
+<path d="M222 48h0"></path>
+<path d="M341.5 48h0"></path>
+<path d="M222 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M242 28h79.5"></path>
+</g>
+<path d="M321.5 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M222 48h20"></path>
+<g class="terminal">
+<path d="M242 48h0"></path>
+<path d="M321.5 48h0"></path>
+<rect x="242" y="37" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="281.75" y="52">!"Plus"</text>
+</g>
+<path d="M321.5 48h20"></path>
+</g>
+<g>
+<path d="M341.5 48h0"></path>
+<path d="M546 48h0"></path>
+<path d="M341.5 48h20"></path>
+<g class="terminal">
+<path d="M361.5 48h0"></path>
+<path d="M424 48h102"></path>
+<rect x="361.5" y="37" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="392.75" y="52">^\d+$</text>
+</g>
+<path d="M526 48h20"></path>
+<path d="M341.5 48a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal">
+<path d="M361.5 78h0"></path>
+<path d="M526 78h0"></path>
+<rect x="361.5" y="67" width="164.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SimpleFieldChain2"><text x="443.75" y="82">SimpleFieldChain2</text>
+</a>
+</g>
+<path d="M526 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M546 48h20"></path>
+<path d="M202 48a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M222 108h0"></path>
+<path d="M267.5 108h278.5"></path>
+<rect x="222" y="97" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="244.75" y="112">"&#42;"</text>
+</g>
+<path d="M546 108a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M566 48h20"></path>
+</g>
+<path d="M586 48h10"></path>
+<g class="terminal">
+<path d="M596 48h0"></path>
+<path d="M735 48h0"></path>
+<rect x="596" y="37" width="139" height="22" rx="10" ry="10"></rect>
+<text x="665.5" y="52">!"ParenRightW"</text>
+</g>
+</g>
+<path d="M735 48h10"></path>
+<path d="M 745 48 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>

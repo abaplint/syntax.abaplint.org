@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="485.5" height="109" viewBox="0 0 485.5 109">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 38v20m0 -10h20"></path>
+</g>
+<g>
+<path d="M40 48h0"></path>
+<path d="M445.5 48h0"></path>
+<path d="M40 48a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M60 20h365.5"></path>
+</g>
+<path d="M425.5 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M40 48h20"></path>
+<g>
+<path d="M60 48h0"></path>
+<path d="M425.5 48h0"></path>
+<path d="M60 48h20"></path>
+<g>
+<path d="M80 48h0"></path>
+<path d="M405.5 48h0"></path>
+<g>
+<path d="M80 48h0"></path>
+<path d="M233.5 48h0"></path>
+<path d="M80 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M100 28h113.5"></path>
+</g>
+<path d="M213.5 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M80 48h20"></path>
+<g class="terminal">
+<path d="M100 48h0"></path>
+<path d="M213.5 48h0"></path>
+<rect x="100" y="37" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="156.75" y="52">"REFERENCE"</text>
+</g>
+<path d="M213.5 48h20"></path>
+</g>
+<path d="M233.5 48h10"></path>
+<g class="terminal">
+<path d="M243.5 48h0"></path>
+<path d="M314.5 48h0"></path>
+<rect x="243.5" y="37" width="71" height="22" rx="10" ry="10"></rect>
+<text x="279" y="52">"INTO"</text>
+</g>
+<path d="M314.5 48h10"></path>
+<path d="M324.5 48h10"></path>
+<g class="non-terminal">
+<path d="M334.5 48h0"></path>
+<path d="M405.5 48h0"></path>
+<rect x="334.5" y="37" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="370" y="52">Target</text>
+</a>
+</g>
+</g>
+<path d="M405.5 48h20"></path>
+<path d="M60 48a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 78h0"></path>
+<path d="M301.5 78h104"></path>
+<g class="terminal">
+<path d="M80 78h0"></path>
+<path d="M193.5 78h0"></path>
+<rect x="80" y="67" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="136.75" y="82">"ASSIGNING"</text>
+</g>
+<path d="M193.5 78h10"></path>
+<path d="M203.5 78h10"></path>
+<g class="non-terminal">
+<path d="M213.5 78h0"></path>
+<path d="M301.5 78h0"></path>
+<rect x="213.5" y="67" width="88" height="22"></rect>
+<a xlink:href="#/abap/expression/FSTarget"><text x="257.5" y="82">FSTarget</text>
+</a>
+</g>
+</g>
+<path d="M405.5 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M425.5 48h20"></path>
+</g>
+<path d="M 445.5 48 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
