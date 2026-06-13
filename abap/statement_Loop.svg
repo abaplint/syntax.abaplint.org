@@ -1,0 +1,338 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1459" height="311" viewBox="0 0 1459 311">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1409 40h0"></path>
+<g class="terminal ">
+<path d="M50 40h0"></path>
+<path d="M146.5 40h0"></path>
+<rect x="50" y="29" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="98.25" y="44">"LOOP AT"</text>
+</g>
+<path d="M146.5 40h10"></path>
+<path d="M156.5 40h10"></path>
+<g>
+<path d="M166.5 40h0"></path>
+<path d="M1409 40h0"></path>
+<g>
+<path d="M166.5 40h0"></path>
+<path d="M462 40h0"></path>
+<path d="M166.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M186.5 20h255.5"></path>
+</g>
+<path d="M442 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M166.5 40h20"></path>
+<g>
+<path d="M186.5 40h0"></path>
+<path d="M442 40h0"></path>
+<g class="terminal ">
+<path d="M186.5 40h0"></path>
+<path d="M274.5 40h0"></path>
+<rect x="186.5" y="29" width="88" height="22" rx="10" ry="10"></rect>
+<text x="230.5" y="44">"SCREEN"</text>
+</g>
+<path d="M274.5 40h10"></path>
+<path d="M284.5 40h10"></path>
+<g class="terminal ">
+<path d="M294.5 40h0"></path>
+<path d="M442 40h0"></path>
+<rect x="294.5" y="29" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="368.25" y="44">!FailCombinator</text>
+</g>
+</g>
+<path d="M442 40h20"></path>
+</g>
+<g>
+<path d="M462 40h0"></path>
+<path d="M758.5 40h0"></path>
+<path d="M462 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M482 20h256.5"></path>
+</g>
+<path d="M738.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M462 40h20"></path>
+<g>
+<path d="M482 40h0"></path>
+<path d="M738.5 40h0"></path>
+<g class="comment ">
+<path d="M482 40h0"></path>
+<path d="M639 40h0"></path>
+<text x="560.5" y="45" class="comment">v740sp08 or open-abap</text>
+</g>
+<path d="M639 40h10"></path>
+<path d="M649 40h10"></path>
+<g class="terminal ">
+<path d="M659 40h0"></path>
+<path d="M738.5 40h0"></path>
+<rect x="659" y="29" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="698.75" y="44">"GROUP"</text>
+</g>
+</g>
+<path d="M738.5 40h20"></path>
+</g>
+<path d="M758.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M768.5 40h0"></path>
+<path d="M873.5 40h0"></path>
+<rect x="768.5" y="29" width="105" height="22"></rect>
+<a xlink:href="#/abap/expression/LoopSource"><text x="821" y="44">LoopSource</text>
+</a>
+</g>
+<path d="M873.5 40h10"></path>
+<g>
+<path d="M883.5 40h0"></path>
+<path d="M1409 40h0"></path>
+<path d="M883.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M903.5 20h485.5"></path>
+</g>
+<path d="M1389 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M883.5 40h20"></path>
+<g>
+<path d="M903.5 40h0"></path>
+<path d="M1389 40h0"></path>
+<path d="M933.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M943.5 40h155.25"></path>
+<path d="M1203.75 40h155.25"></path>
+<rect x="1098.75" y="29" width="105" height="22"></rect>
+<a xlink:href="#/abap/expression/LoopTarget"><text x="1151.25" y="44">LoopTarget</text>
+</a>
+</g>
+<path d="M1359 40h10"></path>
+<path d="M933.5 40v20a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M943.5 70h126.75"></path>
+<path d="M1232.25 70h126.75"></path>
+<g class="terminal ">
+<path d="M1070.25 70h0"></path>
+<path d="M1141.25 70h0"></path>
+<rect x="1070.25" y="59" width="71" height="22" rx="10" ry="10"></rect>
+<text x="1105.75" y="74">"FROM"</text>
+</g>
+<path d="M1141.25 70h10"></path>
+<path d="M1151.25 70h10"></path>
+<g class="non-terminal ">
+<path d="M1161.25 70h0"></path>
+<path d="M1232.25 70h0"></path>
+<rect x="1161.25" y="59" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="1196.75" y="74">Source</text>
+</a>
+</g>
+</g>
+<path d="M1359 70a10 10 0 0 0 10 -10v-20"></path>
+<path d="M933.5 40v50a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M943.5 100h135.25"></path>
+<path d="M1223.75 100h135.25"></path>
+<g class="terminal ">
+<path d="M1078.75 100h0"></path>
+<path d="M1132.75 100h0"></path>
+<rect x="1078.75" y="89" width="54" height="22" rx="10" ry="10"></rect>
+<text x="1105.75" y="104">"TO"</text>
+</g>
+<path d="M1132.75 100h10"></path>
+<path d="M1142.75 100h10"></path>
+<g class="non-terminal ">
+<path d="M1152.75 100h0"></path>
+<path d="M1223.75 100h0"></path>
+<rect x="1152.75" y="89" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="1188.25" y="104">Source</text>
+</a>
+</g>
+</g>
+<path d="M1359 100a10 10 0 0 0 10 -10v-50"></path>
+<path d="M933.5 40v80a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M943.5 130h77.75"></path>
+<path d="M1281.25 130h77.75"></path>
+<g class="terminal ">
+<path d="M1021.25 130h0"></path>
+<path d="M1100.75 130h0"></path>
+<rect x="1021.25" y="119" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="1061" y="134">"WHERE"</text>
+</g>
+<path d="M1100.75 130h10"></path>
+<g>
+<path d="M1110.75 130h0"></path>
+<path d="M1281.25 130h0"></path>
+<path d="M1110.75 130h20"></path>
+<g class="non-terminal ">
+<path d="M1130.75 130h0"></path>
+<path d="M1261.25 130h0"></path>
+<rect x="1130.75" y="119" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/expression/ComponentCond"><text x="1196" y="134">ComponentCond</text>
+</a>
+</g>
+<path d="M1261.25 130h20"></path>
+<path d="M1110.75 130a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal ">
+<path d="M1130.75 160h25.5"></path>
+<path d="M1235.75 160h25.5"></path>
+<rect x="1156.25" y="149" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/Dynamic"><text x="1196" y="164">Dynamic</text>
+</a>
+</g>
+<path d="M1261.25 160a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M1359 130a10 10 0 0 0 10 -10v-80"></path>
+<path d="M933.5 40v140a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M943.5 190h73.5"></path>
+<path d="M1285.5 190h73.5"></path>
+<g class="terminal ">
+<path d="M1017 190h0"></path>
+<path d="M1130.5 190h0"></path>
+<rect x="1017" y="179" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="1073.75" y="194">"USING KEY"</text>
+</g>
+<path d="M1130.5 190h10"></path>
+<g>
+<path d="M1140.5 190h0"></path>
+<path d="M1285.5 190h0"></path>
+<path d="M1140.5 190h20"></path>
+<g class="non-terminal ">
+<path d="M1160.5 190h0"></path>
+<path d="M1265.5 190h0"></path>
+<rect x="1160.5" y="179" width="105" height="22"></rect>
+<a xlink:href="#/abap/expression/SimpleName"><text x="1213" y="194">SimpleName</text>
+</a>
+</g>
+<path d="M1265.5 190h20"></path>
+<path d="M1140.5 190a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal ">
+<path d="M1160.5 220h12.75"></path>
+<path d="M1252.75 220h12.75"></path>
+<rect x="1173.25" y="209" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/Dynamic"><text x="1213" y="224">Dynamic</text>
+</a>
+</g>
+<path d="M1265.5 220a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M1359 190a10 10 0 0 0 10 -10v-140"></path>
+<path d="M933.5 40v200a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M943.5 250h0"></path>
+<path d="M1359 250h0"></path>
+<g class="comment ">
+<path d="M943.5 250h0"></path>
+<path d="M1100.5 250h0"></path>
+<text x="1022" y="255" class="comment">v740sp08 or open-abap</text>
+</g>
+<path d="M1100.5 250h10"></path>
+<path d="M1110.5 250h10"></path>
+<g>
+<path d="M1120.5 250h0"></path>
+<path d="M1359 250h0"></path>
+<g class="terminal ">
+<path d="M1120.5 250h0"></path>
+<path d="M1225.5 250h0"></path>
+<rect x="1120.5" y="239" width="105" height="22" rx="10" ry="10"></rect>
+<text x="1173" y="254">"GROUP BY"</text>
+</g>
+<path d="M1225.5 250h10"></path>
+<path d="M1235.5 250h10"></path>
+<g class="non-terminal ">
+<path d="M1245.5 250h0"></path>
+<path d="M1359 250h0"></path>
+<rect x="1245.5" y="239" width="113.5" height="22"></rect>
+<a xlink:href="#/abap/expression/LoopGroupBy"><text x="1302.25" y="254">LoopGroupBy</text>
+</a>
+</g>
+</g>
+</g>
+<path d="M1359 250a10 10 0 0 0 10 -10v-200"></path>
+<path d="M933.5 40v230a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M943.5 280h97.75"></path>
+<path d="M1261.25 280h97.75"></path>
+<g class="comment ">
+<path d="M1041.25 280h0"></path>
+<path d="M1079.25 280h0"></path>
+<text x="1060.25" y="285" class="comment">v757</text>
+</g>
+<path d="M1079.25 280h10"></path>
+<path d="M1089.25 280h10"></path>
+<g>
+<path d="M1099.25 280h0"></path>
+<path d="M1261.25 280h0"></path>
+<g class="terminal ">
+<path d="M1099.25 280h0"></path>
+<path d="M1170.25 280h0"></path>
+<rect x="1099.25" y="269" width="71" height="22" rx="10" ry="10"></rect>
+<text x="1134.75" y="284">"STEP"</text>
+</g>
+<path d="M1170.25 280h10"></path>
+<path d="M1180.25 280h10"></path>
+<g class="non-terminal ">
+<path d="M1190.25 280h0"></path>
+<path d="M1261.25 280h0"></path>
+<rect x="1190.25" y="269" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="1225.75" y="284">Source</text>
+</a>
+</g>
+</g>
+</g>
+<path d="M1359 280a10 10 0 0 0 10 -10v-230"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 933.5 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="918.5" y="44" class="diagram-text">1+</text>
+<path d="M 1369 30 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 1376 38 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M1389 40h20"></path>
+</g>
+</g>
+</g>
+<path d="M1409 40h10"></path>
+<path d="M 1419 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>

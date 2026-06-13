@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="783" height="131" viewBox="0 0 783 131">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m0 -10h20"></path>
+</g>
+<g>
+<path d="M40 40h0"></path>
+<path d="M743 40h0"></path>
+<path d="M40 40h20"></path>
+<g>
+<path d="M60 40h0"></path>
+<path d="M723 40h0"></path>
+<g class="non-terminal ">
+<path d="M60 40h0"></path>
+<path d="M250 40h0"></path>
+<rect x="60" y="29" width="190" height="22"></rect>
+<a xlink:href="#/abap/expression/MessageTypeAndNumber"><text x="155" y="44">MessageTypeAndNumber</text>
+</a>
+</g>
+<path d="M250 40h10"></path>
+<g>
+<path d="M260 40h0"></path>
+<path d="M723 40h0"></path>
+<path d="M260 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M280 20h423"></path>
+</g>
+<path d="M703 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M260 40h20"></path>
+<g>
+<path d="M280 40h0"></path>
+<path d="M703 40h0"></path>
+<g class="terminal ">
+<path d="M280 40h0"></path>
+<path d="M402 40h0"></path>
+<rect x="280" y="29" width="122" height="22" rx="10" ry="10"></rect>
+<text x="341" y="44">!"ParenLeft"</text>
+</g>
+<path d="M402 40h10"></path>
+<path d="M412 40h10"></path>
+<g class="non-terminal ">
+<path d="M422 40h0"></path>
+<path d="M544 40h0"></path>
+<rect x="422" y="29" width="122" height="22"></rect>
+<a xlink:href="#/abap/expression/MessageClass"><text x="483" y="44">MessageClass</text>
+</a>
+</g>
+<path d="M544 40h10"></path>
+<path d="M554 40h10"></path>
+<g class="terminal ">
+<path d="M564 40h0"></path>
+<path d="M703 40h0"></path>
+<rect x="564" y="29" width="139" height="22" rx="10" ry="10"></rect>
+<text x="633.5" y="44">!"ParenRightW"</text>
+</g>
+</g>
+<path d="M703 40h20"></path>
+</g>
+</g>
+<path d="M723 40h20"></path>
+<path d="M40 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 70h23.75"></path>
+<path d="M699.25 70h23.75"></path>
+<g class="terminal ">
+<path d="M83.75 70h0"></path>
+<path d="M137.75 70h0"></path>
+<rect x="83.75" y="59" width="54" height="22" rx="10" ry="10"></rect>
+<text x="110.75" y="74">"ID"</text>
+</g>
+<path d="M137.75 70h10"></path>
+<path d="M147.75 70h10"></path>
+<g class="non-terminal ">
+<path d="M157.75 70h0"></path>
+<path d="M228.75 70h0"></path>
+<rect x="157.75" y="59" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="193.25" y="74">Source</text>
+</a>
+</g>
+<path d="M228.75 70h10"></path>
+<path d="M238.75 70h10"></path>
+<g class="terminal ">
+<path d="M248.75 70h0"></path>
+<path d="M319.75 70h0"></path>
+<rect x="248.75" y="59" width="71" height="22" rx="10" ry="10"></rect>
+<text x="284.25" y="74">"TYPE"</text>
+</g>
+<path d="M319.75 70h10"></path>
+<path d="M329.75 70h10"></path>
+<g class="non-terminal ">
+<path d="M339.75 70h0"></path>
+<path d="M410.75 70h0"></path>
+<rect x="339.75" y="59" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="375.25" y="74">Source</text>
+</a>
+</g>
+<path d="M410.75 70h10"></path>
+<path d="M420.75 70h10"></path>
+<g class="terminal ">
+<path d="M430.75 70h0"></path>
+<path d="M518.75 70h0"></path>
+<rect x="430.75" y="59" width="88" height="22" rx="10" ry="10"></rect>
+<text x="474.75" y="74">"NUMBER"</text>
+</g>
+<path d="M518.75 70h10"></path>
+<g>
+<path d="M528.75 70h0"></path>
+<path d="M699.25 70h0"></path>
+<path d="M528.75 70h20"></path>
+<g class="non-terminal ">
+<path d="M548.75 70h0"></path>
+<path d="M679.25 70h0"></path>
+<rect x="548.75" y="59" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/expression/MessageNumber"><text x="614" y="74">MessageNumber</text>
+</a>
+</g>
+<path d="M679.25 70h20"></path>
+<path d="M528.75 70a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal ">
+<path d="M548.75 100h29.75"></path>
+<path d="M649.5 100h29.75"></path>
+<rect x="578.5" y="89" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="614" y="104">Source</text>
+</a>
+</g>
+<path d="M679.25 100a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M723 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M 743 40 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>

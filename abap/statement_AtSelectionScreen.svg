@@ -1,0 +1,228 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="796.5" height="281" viewBox="0 0 796.5 281">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M746.5 40h0"></path>
+<g class="comment ">
+<path d="M50 40h0"></path>
+<path d="M123 40h0"></path>
+<text x="86.5" y="45" class="comment">not Cloud</text>
+</g>
+<path d="M123 40h10"></path>
+<path d="M133 40h10"></path>
+<g>
+<path d="M143 40h0"></path>
+<path d="M746.5 40h0"></path>
+<g class="terminal ">
+<path d="M143 40h0"></path>
+<path d="M341.5 40h0"></path>
+<rect x="143" y="29" width="198.5" height="22" rx="10" ry="10"></rect>
+<text x="242.25" y="44">"AT SELECTION-SCREEN"</text>
+</g>
+<path d="M341.5 40h10"></path>
+<g>
+<path d="M351.5 40h0"></path>
+<path d="M746.5 40h0"></path>
+<path d="M351.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M371.5 20h355"></path>
+</g>
+<path d="M726.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M351.5 40h20"></path>
+<g>
+<path d="M371.5 40h0"></path>
+<path d="M726.5 40h0"></path>
+<path d="M371.5 40h20"></path>
+<g class="terminal ">
+<path d="M391.5 40h113.5"></path>
+<path d="M593 40h113.5"></path>
+<rect x="505" y="29" width="88" height="22" rx="10" ry="10"></rect>
+<text x="549" y="44">"OUTPUT"</text>
+</g>
+<path d="M706.5 40h20"></path>
+<path d="M371.5 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M391.5 70h0"></path>
+<path d="M706.5 70h0"></path>
+<g class="terminal ">
+<path d="M391.5 70h0"></path>
+<path d="M598.5 70h0"></path>
+<rect x="391.5" y="59" width="207" height="22" rx="10" ry="10"></rect>
+<text x="495" y="74">"ON VALUE-REQUEST FOR"</text>
+</g>
+<path d="M598.5 70h10"></path>
+<path d="M608.5 70h10"></path>
+<g class="non-terminal ">
+<path d="M618.5 70h0"></path>
+<path d="M706.5 70h0"></path>
+<rect x="618.5" y="59" width="88" height="22"></rect>
+<a xlink:href="#/abap/expression/FieldSub"><text x="662.5" y="74">FieldSub</text>
+</a>
+</g>
+</g>
+<path d="M706.5 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M371.5 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M391.5 100h12.75"></path>
+<path d="M693.75 100h12.75"></path>
+<g class="terminal ">
+<path d="M404.25 100h0"></path>
+<path d="M611.25 100h0"></path>
+<rect x="404.25" y="89" width="207" height="22" rx="10" ry="10"></rect>
+<text x="507.75" y="104">"ON RADIOBUTTON GROUP"</text>
+</g>
+<path d="M611.25 100h10"></path>
+<path d="M621.25 100h10"></path>
+<g class="non-terminal ">
+<path d="M631.25 100h0"></path>
+<path d="M693.75 100h0"></path>
+<rect x="631.25" y="89" width="62.5" height="22"></rect>
+<a xlink:href="#/abap/expression/Field"><text x="662.5" y="104">Field</text>
+</a>
+</g>
+</g>
+<path d="M706.5 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+<path d="M371.5 40a10 10 0 0 1 10 10v70a10 10 0 0 0 10 10"></path>
+<g class="terminal ">
+<path d="M391.5 130h75.25"></path>
+<path d="M631.25 130h75.25"></path>
+<rect x="466.75" y="119" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="549" y="134">"ON EXIT-COMMAND"</text>
+</g>
+<path d="M706.5 130a10 10 0 0 0 10 -10v-70a10 10 0 0 1 10 -10"></path>
+<path d="M371.5 40a10 10 0 0 1 10 10v100a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M391.5 160h76.5"></path>
+<path d="M630 160h76.5"></path>
+<g class="terminal ">
+<path d="M468 160h0"></path>
+<path d="M522 160h0"></path>
+<rect x="468" y="149" width="54" height="22" rx="10" ry="10"></rect>
+<text x="495" y="164">"ON"</text>
+</g>
+<path d="M522 160h10"></path>
+<path d="M532 160h10"></path>
+<g class="non-terminal ">
+<path d="M542 160h0"></path>
+<path d="M630 160h0"></path>
+<rect x="542" y="149" width="88" height="22"></rect>
+<a xlink:href="#/abap/expression/FieldSub"><text x="586" y="164">FieldSub</text>
+</a>
+</g>
+</g>
+<path d="M706.5 160a10 10 0 0 0 10 -10v-100a10 10 0 0 1 10 -10"></path>
+<path d="M371.5 40a10 10 0 0 1 10 10v130a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M391.5 190h59.5"></path>
+<path d="M647 190h59.5"></path>
+<g class="terminal ">
+<path d="M451 190h0"></path>
+<path d="M564.5 190h0"></path>
+<rect x="451" y="179" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="507.75" y="194">"ON END OF"</text>
+</g>
+<path d="M564.5 190h10"></path>
+<path d="M574.5 190h10"></path>
+<g class="non-terminal ">
+<path d="M584.5 190h0"></path>
+<path d="M647 190h0"></path>
+<rect x="584.5" y="179" width="62.5" height="22"></rect>
+<a xlink:href="#/abap/expression/Field"><text x="615.75" y="194">Field</text>
+</a>
+</g>
+</g>
+<path d="M706.5 190a10 10 0 0 0 10 -10v-130a10 10 0 0 1 10 -10"></path>
+<path d="M371.5 40a10 10 0 0 1 10 10v160a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M391.5 220h4.25"></path>
+<path d="M702.25 220h4.25"></path>
+<g class="terminal ">
+<path d="M395.75 220h0"></path>
+<path d="M594.25 220h0"></path>
+<rect x="395.75" y="209" width="198.5" height="22" rx="10" ry="10"></rect>
+<text x="495" y="224">"ON HELP-REQUEST FOR"</text>
+</g>
+<path d="M594.25 220h10"></path>
+<path d="M604.25 220h10"></path>
+<g class="non-terminal ">
+<path d="M614.25 220h0"></path>
+<path d="M702.25 220h0"></path>
+<rect x="614.25" y="209" width="88" height="22"></rect>
+<a xlink:href="#/abap/expression/FieldSub"><text x="658.25" y="224">FieldSub</text>
+</a>
+</g>
+</g>
+<path d="M706.5 220a10 10 0 0 0 10 -10v-160a10 10 0 0 1 10 -10"></path>
+<path d="M371.5 40a10 10 0 0 1 10 10v190a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M391.5 250h46.75"></path>
+<path d="M659.75 250h46.75"></path>
+<g class="terminal ">
+<path d="M438.25 250h0"></path>
+<path d="M543.25 250h0"></path>
+<rect x="438.25" y="239" width="105" height="22" rx="10" ry="10"></rect>
+<text x="490.75" y="254">"ON BLOCK"</text>
+</g>
+<path d="M543.25 250h10"></path>
+<path d="M553.25 250h10"></path>
+<g class="non-terminal ">
+<path d="M563.25 250h0"></path>
+<path d="M659.75 250h0"></path>
+<rect x="563.25" y="239" width="96.5" height="22"></rect>
+<a xlink:href="#/abap/expression/BlockName"><text x="611.5" y="254">BlockName</text>
+</a>
+</g>
+</g>
+<path d="M706.5 250a10 10 0 0 0 10 -10v-190a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M726.5 40h20"></path>
+</g>
+</g>
+</g>
+<path d="M746.5 40h10"></path>
+<path d="M 756.5 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>
