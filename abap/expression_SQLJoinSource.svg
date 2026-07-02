@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="964" height="139" viewBox="0 0 964 139">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 38v20m0 -10h20"></path>
+</g>
+<g>
+<path d="M40 48h0"></path>
+<path d="M924 48h0"></path>
+<path d="M40 48h20"></path>
+<g>
+<path d="M60 48h0"></path>
+<path d="M904 48h0"></path>
+<g class="terminal ">
+<path d="M60 48h0"></path>
+<path d="M199 48h0"></path>
+<rect x="60" y="37" width="139" height="22" rx="10" ry="10"></rect>
+<text x="129.5" y="52">!"WParenLeftW"</text>
+</g>
+<path d="M199 48h10"></path>
+<g>
+<path d="M209 48h0"></path>
+<path d="M379.5 48h0"></path>
+<path d="M209 48h20"></path>
+<g class="non-terminal ">
+<path d="M229 48h0"></path>
+<path d="M359.5 48h0"></path>
+<rect x="229" y="37" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLJoinSource"><text x="294.25" y="52">SQLJoinSource</text>
+</a>
+</g>
+<path d="M359.5 48h20"></path>
+<path d="M209 48a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal ">
+<path d="M229 78h0"></path>
+<path d="M359.5 78h0"></path>
+<rect x="229" y="67" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFromSource"><text x="294.25" y="82">SQLFromSource</text>
+</a>
+</g>
+<path d="M359.5 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<g>
+<path d="M379.5 48h0"></path>
+<path d="M716.5 48h0"></path>
+<path d="M379.5 48a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M399.5 20h297"></path>
+</g>
+<path d="M696.5 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M379.5 48h20"></path>
+<g>
+<path d="M399.5 48h0"></path>
+<path d="M696.5 48h0"></path>
+<path d="M399.5 48h10"></path>
+<g>
+<path d="M409.5 48h0"></path>
+<path d="M686.5 48h0"></path>
+<g>
+<path d="M409.5 48h0"></path>
+<path d="M597 48h0"></path>
+<path d="M409.5 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M429.5 28h147.5"></path>
+</g>
+<path d="M577 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M409.5 48h20"></path>
+<g class="terminal ">
+<path d="M429.5 48h0"></path>
+<path d="M577 48h0"></path>
+<rect x="429.5" y="37" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="503.25" y="52">!"WParenRightW"</text>
+</g>
+<path d="M577 48h20"></path>
+</g>
+<path d="M597 48h10"></path>
+<g class="non-terminal ">
+<path d="M607 48h0"></path>
+<path d="M686.5 48h0"></path>
+<rect x="607" y="37" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLJoin"><text x="646.75" y="52">SQLJoin</text>
+</a>
+</g>
+</g>
+<path d="M686.5 48h10"></path>
+<path d="M409.5 48a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M409.5 68h277"></path>
+</g>
+<path d="M686.5 68a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M696.5 48h20"></path>
+</g>
+<g>
+<path d="M716.5 48h0"></path>
+<path d="M904 48h0"></path>
+<path d="M716.5 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M736.5 28h147.5"></path>
+</g>
+<path d="M884 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M716.5 48h20"></path>
+<g class="terminal ">
+<path d="M736.5 48h0"></path>
+<path d="M884 48h0"></path>
+<rect x="736.5" y="37" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="810.25" y="52">!"WParenRightW"</text>
+</g>
+<path d="M884 48h20"></path>
+</g>
+</g>
+<path d="M904 48h20"></path>
+<path d="M40 48a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="non-terminal ">
+<path d="M60 108h356.75"></path>
+<path d="M547.25 108h356.75"></path>
+<rect x="416.75" y="97" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFromSource"><text x="482" y="112">SQLFromSource</text>
+</a>
+</g>
+<path d="M904 108a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M 924 48 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
