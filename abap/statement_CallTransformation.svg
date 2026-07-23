@@ -1,0 +1,262 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1173" height="242" viewBox="0 0 1173 242">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 21v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 31h10"></path>
+<g>
+<path d="M50 31h0"></path>
+<path d="M1123 31h0"></path>
+<g class="comment ">
+<path d="M50 31h0"></path>
+<path d="M193 31h0"></path>
+<text x="121.5" y="36" class="comment">not langver=KeyUser</text>
+</g>
+<path d="M193 31h10"></path>
+<path d="M203 31h10"></path>
+<g>
+<path d="M213 31h0"></path>
+<path d="M1123 31h0"></path>
+<g class="terminal ">
+<path d="M213 31h0"></path>
+<path d="M411.5 31h0"></path>
+<rect x="213" y="20" width="198.5" height="22" rx="10" ry="10"></rect>
+<text x="312.25" y="35">"CALL TRANSFORMATION"</text>
+</g>
+<path d="M411.5 31h10"></path>
+<g>
+<path d="M421.5 31h0"></path>
+<path d="M643 31h0"></path>
+<path d="M421.5 31h20"></path>
+<g class="non-terminal ">
+<path d="M441.5 31h0"></path>
+<path d="M623 31h0"></path>
+<rect x="441.5" y="20" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="532.25" y="35">NamespaceSimpleName</text>
+</a>
+</g>
+<path d="M623 31h20"></path>
+<path d="M421.5 31a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal ">
+<path d="M441.5 61h51"></path>
+<path d="M572 61h51"></path>
+<rect x="492.5" y="50" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/Dynamic"><text x="532.25" y="65">Dynamic</text>
+</a>
+</g>
+<path d="M623 61a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M643 31h10"></path>
+<g>
+<path d="M653 31h0"></path>
+<path d="M1123 31h0"></path>
+<path d="M683 31h10"></path>
+<g>
+<path d="M693 31h25.5"></path>
+<path d="M1067.5 31h25.5"></path>
+<g class="terminal ">
+<path d="M718.5 31h0"></path>
+<path d="M815 31h0"></path>
+<rect x="718.5" y="20" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="766.75" y="35">"OPTIONS"</text>
+</g>
+<path d="M815 31h10"></path>
+<path d="M825 31h10"></path>
+<g class="non-terminal ">
+<path d="M835 31h0"></path>
+<path d="M1067.5 31h0"></path>
+<rect x="835" y="20" width="232.5" height="22"></rect>
+<a xlink:href="#/abap/expression/CallTransformationOptions"><text x="951.25" y="35">CallTransformationOptions</text>
+</a>
+</g>
+</g>
+<path d="M1093 31h10"></path>
+<path d="M683 31v20a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M693 61h0"></path>
+<path d="M1093 61h0"></path>
+<g class="terminal ">
+<path d="M693 61h0"></path>
+<path d="M815 61h0"></path>
+<rect x="693" y="50" width="122" height="22" rx="10" ry="10"></rect>
+<text x="754" y="65">"PARAMETERS"</text>
+</g>
+<path d="M815 61h10"></path>
+<path d="M825 61h10"></path>
+<g class="non-terminal ">
+<path d="M835 61h0"></path>
+<path d="M1093 61h0"></path>
+<rect x="835" y="50" width="258" height="22"></rect>
+<a xlink:href="#/abap/expression/CallTransformationParameters"><text x="964" y="65">CallTransformationParameters</text>
+</a>
+</g>
+</g>
+<path d="M1093 61a10 10 0 0 0 10 -10v-20"></path>
+<path d="M683 31v50a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M693 91h12.75"></path>
+<path d="M1080.25 91h12.75"></path>
+<g class="terminal ">
+<path d="M705.75 91h0"></path>
+<path d="M802.25 91h0"></path>
+<rect x="705.75" y="80" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="754" y="95">"OBJECTS"</text>
+</g>
+<path d="M802.25 91h10"></path>
+<path d="M812.25 91h10"></path>
+<g class="non-terminal ">
+<path d="M822.25 91h0"></path>
+<path d="M1080.25 91h0"></path>
+<rect x="822.25" y="80" width="258" height="22"></rect>
+<a xlink:href="#/abap/expression/CallTransformationParameters"><text x="951.25" y="95">CallTransformationParameters</text>
+</a>
+</g>
+</g>
+<path d="M1093 91a10 10 0 0 0 10 -10v-50"></path>
+<path d="M683 31v80a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M693 121h2"></path>
+<path d="M1091 121h2"></path>
+<g class="terminal ">
+<path d="M695 121h0"></path>
+<path d="M783 121h0"></path>
+<rect x="695" y="110" width="88" height="22" rx="10" ry="10"></rect>
+<text x="739" y="125">"SOURCE"</text>
+</g>
+<path d="M783 121h10"></path>
+<g>
+<path d="M793 121h0"></path>
+<path d="M1091 121h0"></path>
+<path d="M793 121h20"></path>
+<g class="non-terminal ">
+<path d="M813 121h0"></path>
+<path d="M1071 121h0"></path>
+<rect x="813" y="110" width="258" height="22"></rect>
+<a xlink:href="#/abap/expression/CallTransformationParameters"><text x="942" y="125">CallTransformationParameters</text>
+</a>
+</g>
+<path d="M1071 121h20"></path>
+<path d="M793 121a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M813 151h22.5"></path>
+<path d="M1048.5 151h22.5"></path>
+<g class="terminal ">
+<path d="M835.5 151h0"></path>
+<path d="M898 151h0"></path>
+<rect x="835.5" y="140" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="866.75" y="155">"XML"</text>
+</g>
+<path d="M898 151h10"></path>
+<path d="M908 151h10"></path>
+<g class="non-terminal ">
+<path d="M918 151h0"></path>
+<path d="M1048.5 151h0"></path>
+<rect x="918" y="140" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SimpleSource3"><text x="983.25" y="155">SimpleSource3</text>
+</a>
+</g>
+</g>
+<path d="M1071 151a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M1093 121a10 10 0 0 0 10 -10v-80"></path>
+<path d="M683 31v140a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M693 181h2"></path>
+<path d="M1091 181h2"></path>
+<g class="terminal ">
+<path d="M695 181h0"></path>
+<path d="M783 181h0"></path>
+<rect x="695" y="170" width="88" height="22" rx="10" ry="10"></rect>
+<text x="739" y="185">"RESULT"</text>
+</g>
+<path d="M783 181h10"></path>
+<g>
+<path d="M793 181h0"></path>
+<path d="M1091 181h0"></path>
+<path d="M793 181h20"></path>
+<g class="non-terminal ">
+<path d="M813 181h0"></path>
+<path d="M1071 181h0"></path>
+<rect x="813" y="170" width="258" height="22"></rect>
+<a xlink:href="#/abap/expression/CallTransformationParameters"><text x="942" y="185">CallTransformationParameters</text>
+</a>
+</g>
+<path d="M1071 181h20"></path>
+<path d="M793 181a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M813 211h52.25"></path>
+<path d="M1018.75 211h52.25"></path>
+<g class="terminal ">
+<path d="M865.25 211h0"></path>
+<path d="M927.75 211h0"></path>
+<rect x="865.25" y="200" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="896.5" y="215">"XML"</text>
+</g>
+<path d="M927.75 211h10"></path>
+<path d="M937.75 211h10"></path>
+<g class="non-terminal ">
+<path d="M947.75 211h0"></path>
+<path d="M1018.75 211h0"></path>
+<rect x="947.75" y="200" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="983.25" y="215">Target</text>
+</a>
+</g>
+</g>
+<path d="M1071 211a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M1093 181a10 10 0 0 0 10 -10v-140"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 683 21 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="668" y="35" class="diagram-text">1+</text>
+<path d="M 1103 21 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 1110 29 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+</g>
+</g>
+<path d="M1123 31h10"></path>
+<path d="M 1133 31 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>
