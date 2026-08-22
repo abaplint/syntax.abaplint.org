@@ -1,0 +1,301 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="2963" height="96" viewBox="0 0 2963 96">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M2913 40h0"></path>
+<g class="comment ">
+<path d="M50 40h0"></path>
+<path d="M109 40h0"></path>
+<text x="79.5" y="45" class="comment">740SP05</text>
+</g>
+<path d="M109 40h10"></path>
+<path d="M119 40h10"></path>
+<g>
+<path d="M129 40h0"></path>
+<path d="M2913 40h0"></path>
+<g class="terminal ">
+<path d="M129 40h0"></path>
+<path d="M208.5 40h0"></path>
+<rect x="129" y="29" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="168.75" y="44">"TYPES"</text>
+</g>
+<path d="M208.5 40h10"></path>
+<path d="M218.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M228.5 40h0"></path>
+<path d="M410 40h0"></path>
+<rect x="228.5" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="319.25" y="44">NamespaceSimpleName</text>
+</a>
+</g>
+<path d="M410 40h10"></path>
+<path d="M420 40h10"></path>
+<g class="terminal ">
+<path d="M430 40h0"></path>
+<path d="M501 40h0"></path>
+<rect x="430" y="29" width="71" height="22" rx="10" ry="10"></rect>
+<text x="465.5" y="44">"TYPE"</text>
+</g>
+<path d="M501 40h10"></path>
+<g>
+<path d="M511 40h0"></path>
+<path d="M639 40h0"></path>
+<path d="M511 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M531 20h88"></path>
+</g>
+<path d="M619 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M511 40h20"></path>
+<g class="terminal ">
+<path d="M531 40h0"></path>
+<path d="M619 40h0"></path>
+<rect x="531" y="29" width="88" height="22" rx="10" ry="10"></rect>
+<text x="575" y="44">"REF TO"</text>
+</g>
+<path d="M619 40h20"></path>
+</g>
+<path d="M639 40h10"></path>
+<g class="non-terminal ">
+<path d="M649 40h0"></path>
+<path d="M737 40h0"></path>
+<rect x="649" y="29" width="88" height="22"></rect>
+<a xlink:href="#/abap/expression/TypeName"><text x="693" y="44">TypeName</text>
+</a>
+</g>
+<path d="M737 40h10"></path>
+<path d="M747 40h10"></path>
+<g>
+<path d="M757 40h0"></path>
+<path d="M2548 40h0"></path>
+<path d="M757 40h10"></path>
+<g>
+<path d="M767 40h0"></path>
+<path d="M2538 40h0"></path>
+<g class="terminal ">
+<path d="M767 40h0"></path>
+<path d="M897.5 40h0"></path>
+<rect x="767" y="29" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="832.25" y="44">"ASSOCIATION"</text>
+</g>
+<path d="M897.5 40h10"></path>
+<path d="M907.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M917.5 40h0"></path>
+<path d="M1099 40h0"></path>
+<rect x="917.5" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="1008.25" y="44">NamespaceSimpleName</text>
+</a>
+</g>
+<path d="M1099 40h10"></path>
+<path d="M1109 40h10"></path>
+<g class="terminal ">
+<path d="M1119 40h0"></path>
+<path d="M1173 40h0"></path>
+<rect x="1119" y="29" width="54" height="22" rx="10" ry="10"></rect>
+<text x="1146" y="44">"TO"</text>
+</g>
+<path d="M1173 40h10"></path>
+<path d="M1183 40h10"></path>
+<g class="non-terminal ">
+<path d="M1193 40h0"></path>
+<path d="M1374.5 40h0"></path>
+<rect x="1193" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="1283.75" y="44">NamespaceSimpleName</text>
+</a>
+</g>
+<path d="M1374.5 40h10"></path>
+<path d="M1384.5 40h10"></path>
+<g>
+<path d="M1394.5 40h0"></path>
+<path d="M2538 40h0"></path>
+<path d="M1394.5 40h10"></path>
+<g>
+<path d="M1404.5 40h0"></path>
+<path d="M2528 40h0"></path>
+<g class="terminal ">
+<path d="M1404.5 40h0"></path>
+<path d="M1458.5 40h0"></path>
+<rect x="1404.5" y="29" width="54" height="22" rx="10" ry="10"></rect>
+<text x="1431.5" y="44">"ON"</text>
+</g>
+<path d="M1458.5 40h10"></path>
+<path d="M1468.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M1478.5 40h0"></path>
+<path d="M1660 40h0"></path>
+<rect x="1478.5" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="1569.25" y="44">NamespaceSimpleName</text>
+</a>
+</g>
+<path d="M1660 40h10"></path>
+<path d="M1670 40h10"></path>
+<g class="terminal ">
+<path d="M1680 40h0"></path>
+<path d="M1725.5 40h0"></path>
+<rect x="1680" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1702.75" y="44">"="</text>
+</g>
+<path d="M1725.5 40h10"></path>
+<path d="M1735.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M1745.5 40h0"></path>
+<path d="M1927 40h0"></path>
+<rect x="1745.5" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="1836.25" y="44">NamespaceSimpleName</text>
+</a>
+</g>
+<path d="M1927 40h10"></path>
+<g>
+<path d="M1937 40h0"></path>
+<path d="M2528 40h0"></path>
+<path d="M1937 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1957 20h551"></path>
+</g>
+<path d="M2508 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1937 40h20"></path>
+<g>
+<path d="M1957 40h0"></path>
+<path d="M2508 40h0"></path>
+<path d="M1957 40h10"></path>
+<g>
+<path d="M1967 40h0"></path>
+<path d="M2498 40h0"></path>
+<g class="terminal ">
+<path d="M1967 40h0"></path>
+<path d="M2029.5 40h0"></path>
+<rect x="1967" y="29" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="1998.25" y="44">"AND"</text>
+</g>
+<path d="M2029.5 40h10"></path>
+<path d="M2039.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M2049.5 40h0"></path>
+<path d="M2231 40h0"></path>
+<rect x="2049.5" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="2140.25" y="44">NamespaceSimpleName</text>
+</a>
+</g>
+<path d="M2231 40h10"></path>
+<path d="M2241 40h10"></path>
+<g class="terminal ">
+<path d="M2251 40h0"></path>
+<path d="M2296.5 40h0"></path>
+<rect x="2251" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="2273.75" y="44">"="</text>
+</g>
+<path d="M2296.5 40h10"></path>
+<path d="M2306.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M2316.5 40h0"></path>
+<path d="M2498 40h0"></path>
+<rect x="2316.5" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="2407.25" y="44">NamespaceSimpleName</text>
+</a>
+</g>
+</g>
+<path d="M2498 40h10"></path>
+<path d="M1967 40a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1967 60h531"></path>
+</g>
+<path d="M2498 60a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M2508 40h20"></path>
+</g>
+</g>
+<path d="M2528 40h10"></path>
+<path d="M1404.5 40a10 10 0 0 0 -10 10v8a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1404.5 68h1123.5"></path>
+</g>
+<path d="M2528 68a10 10 0 0 0 10 -10v-8a10 10 0 0 0 -10 -10"></path>
+</g>
+</g>
+<path d="M2538 40h10"></path>
+<path d="M767 40a10 10 0 0 0 -10 10v16a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M767 76h1771"></path>
+</g>
+<path d="M2538 76a10 10 0 0 0 10 -10v-16a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M2548 40h10"></path>
+<g>
+<path d="M2558 40h0"></path>
+<path d="M2913 40h0"></path>
+<path d="M2558 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M2578 20h315"></path>
+</g>
+<path d="M2893 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M2558 40h20"></path>
+<g>
+<path d="M2578 40h0"></path>
+<path d="M2893 40h0"></path>
+<g class="terminal ">
+<path d="M2578 40h0"></path>
+<path d="M2691.5 40h0"></path>
+<rect x="2578" y="29" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="2634.75" y="44">"USING KEY"</text>
+</g>
+<path d="M2691.5 40h10"></path>
+<path d="M2701.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M2711.5 40h0"></path>
+<path d="M2893 40h0"></path>
+<rect x="2711.5" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/NamespaceSimpleName"><text x="2802.25" y="44">NamespaceSimpleName</text>
+</a>
+</g>
+</g>
+<path d="M2893 40h20"></path>
+</g>
+</g>
+</g>
+<path d="M2913 40h10"></path>
+<path d="M 2923 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>

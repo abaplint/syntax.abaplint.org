@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1723.5" height="101" viewBox="0 0 1723.5 101">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m0 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1673.5 40h0"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1349.5 40h0"></path>
+<path d="M50 40h20"></path>
+<g>
+<path d="M70 40h0"></path>
+<path d="M1329.5 40h0"></path>
+<g class="terminal ">
+<path d="M70 40h0"></path>
+<path d="M115.5 40h0"></path>
+<rect x="70" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="92.75" y="44">"/"</text>
+</g>
+<path d="M115.5 40h10"></path>
+<path d="M125.5 40h10"></path>
+<g class="terminal ">
+<path d="M135.5 40h0"></path>
+<path d="M215 40h0"></path>
+<rect x="135.5" y="29" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="44">^&#91;\w&#93;+$</text>
+</g>
+<path d="M215 40h10"></path>
+<path d="M225 40h10"></path>
+<g class="terminal ">
+<path d="M235 40h0"></path>
+<path d="M280.5 40h0"></path>
+<rect x="235" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="257.75" y="44">"/"</text>
+</g>
+<path d="M280.5 40h10"></path>
+<path d="M290.5 40h10"></path>
+<g class="terminal ">
+<path d="M300.5 40h0"></path>
+<path d="M1221.5 40h0"></path>
+<rect x="300.5" y="29" width="921" height="22" rx="10" ry="10"></rect>
+<text x="761" y="44">stopBefore(AS|ON|WHERE|WITH|UNION|GROUP|HAVING|AND|OR|BETWEEN|LIKE|IN|EXISTS|WHEN|THEN|ELSE|END|CASE|CAST)</text>
+</g>
+<path d="M1221.5 40h10"></path>
+<path d="M1231.5 40h10"></path>
+<g class="terminal ">
+<path d="M1241.5 40h0"></path>
+<path d="M1329.5 40h0"></path>
+<rect x="1241.5" y="29" width="88" height="22" rx="10" ry="10"></rect>
+<text x="1285.5" y="44">^&#91;\w&#95;&#93;+$</text>
+</g>
+</g>
+<path d="M1329.5 40h20"></path>
+<path d="M50 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal ">
+<path d="M70 70h585.75"></path>
+<path d="M743.75 70h585.75"></path>
+<rect x="655.75" y="59" width="88" height="22" rx="10" ry="10"></rect>
+<text x="699.75" y="74">^&#91;\w&#95;&#93;+$</text>
+</g>
+<path d="M1329.5 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<g>
+<path d="M1349.5 40h0"></path>
+<path d="M1571 40h0"></path>
+<path d="M1349.5 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1369.5 20h181.5"></path>
+</g>
+<path d="M1551 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1349.5 40h20"></path>
+<g class="non-terminal ">
+<path d="M1369.5 40h0"></path>
+<path d="M1551 40h0"></path>
+<rect x="1369.5" y="29" width="181.5" height="22"></rect>
+<a xlink:href="#/cds/expression/CDSParametersSelect"><text x="1460.25" y="44">CDSParametersSelect</text>
+</a>
+</g>
+<path d="M1551 40h20"></path>
+</g>
+<g>
+<path d="M1571 40h0"></path>
+<path d="M1673.5 40h0"></path>
+<path d="M1571 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1591 20h62.5"></path>
+</g>
+<path d="M1653.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1571 40h20"></path>
+<g class="non-terminal ">
+<path d="M1591 40h0"></path>
+<path d="M1653.5 40h0"></path>
+<rect x="1591" y="29" width="62.5" height="22"></rect>
+<a xlink:href="#/cds/expression/CDSAs"><text x="1622.25" y="44">CDSAs</text>
+</a>
+</g>
+<path d="M1653.5 40h20"></path>
+</g>
+</g>
+<path d="M1673.5 40h10"></path>
+<path d="M 1683.5 40 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
