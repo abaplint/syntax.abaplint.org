@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1207" height="109" viewBox="0 0 1207 109">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m0 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1157 40h0"></path>
+<g class="terminal ">
+<path d="M50 40h0"></path>
+<path d="M129.5 40h0"></path>
+<rect x="50" y="29" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="89.75" y="44">"WHERE"</text>
+</g>
+<path d="M129.5 40h10"></path>
+<path d="M139.5 40h10"></path>
+<g>
+<path d="M149.5 40h0"></path>
+<path d="M577 40h0"></path>
+<g class="non-terminal ">
+<path d="M149.5 40h0"></path>
+<path d="M305.5 40h0"></path>
+<rect x="149.5" y="29" width="156" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLQualifiedName"><text x="227.5" y="44">DDLQualifiedName</text>
+</a>
+</g>
+<path d="M305.5 40h10"></path>
+<path d="M315.5 40h10"></path>
+<g class="terminal ">
+<path d="M325.5 40h0"></path>
+<path d="M371 40h0"></path>
+<rect x="325.5" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="348.25" y="44">"="</text>
+</g>
+<path d="M371 40h10"></path>
+<g>
+<path d="M381 40h0"></path>
+<path d="M577 40h0"></path>
+<path d="M381 40h20"></path>
+<g class="non-terminal ">
+<path d="M401 40h0"></path>
+<path d="M557 40h0"></path>
+<rect x="401" y="29" width="156" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLQualifiedName"><text x="479" y="44">DDLQualifiedName</text>
+</a>
+</g>
+<path d="M557 40h20"></path>
+<path d="M381 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal ">
+<path d="M401 70h0"></path>
+<path d="M557 70h0"></path>
+<rect x="401" y="59" width="156" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLStringLiteral"><text x="479" y="74">DDLStringLiteral</text>
+</a>
+</g>
+<path d="M557 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M577 40h10"></path>
+<g>
+<path d="M587 40h0"></path>
+<path d="M1157 40h0"></path>
+<path d="M587 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M607 20h530"></path>
+</g>
+<path d="M1137 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M587 40h20"></path>
+<g>
+<path d="M607 40h0"></path>
+<path d="M1137 40h0"></path>
+<path d="M607 40h10"></path>
+<g>
+<path d="M617 40h0"></path>
+<path d="M1127 40h0"></path>
+<g class="terminal ">
+<path d="M617 40h0"></path>
+<path d="M679.5 40h0"></path>
+<rect x="617" y="29" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="648.25" y="44">"AND"</text>
+</g>
+<path d="M679.5 40h10"></path>
+<path d="M689.5 40h10"></path>
+<g>
+<path d="M699.5 40h0"></path>
+<path d="M1127 40h0"></path>
+<g class="non-terminal ">
+<path d="M699.5 40h0"></path>
+<path d="M855.5 40h0"></path>
+<rect x="699.5" y="29" width="156" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLQualifiedName"><text x="777.5" y="44">DDLQualifiedName</text>
+</a>
+</g>
+<path d="M855.5 40h10"></path>
+<path d="M865.5 40h10"></path>
+<g class="terminal ">
+<path d="M875.5 40h0"></path>
+<path d="M921 40h0"></path>
+<rect x="875.5" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="898.25" y="44">"="</text>
+</g>
+<path d="M921 40h10"></path>
+<g>
+<path d="M931 40h0"></path>
+<path d="M1127 40h0"></path>
+<path d="M931 40h20"></path>
+<g class="non-terminal ">
+<path d="M951 40h0"></path>
+<path d="M1107 40h0"></path>
+<rect x="951" y="29" width="156" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLQualifiedName"><text x="1029" y="44">DDLQualifiedName</text>
+</a>
+</g>
+<path d="M1107 40h20"></path>
+<path d="M931 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal ">
+<path d="M951 70h0"></path>
+<path d="M1107 70h0"></path>
+<rect x="951" y="59" width="156" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLStringLiteral"><text x="1029" y="74">DDLStringLiteral</text>
+</a>
+</g>
+<path d="M1107 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+</g>
+<path d="M1127 40h10"></path>
+<path d="M617 40a10 10 0 0 0 -10 10v29a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M617 89h510"></path>
+</g>
+<path d="M1127 89a10 10 0 0 0 10 -10v-29a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M1137 40h20"></path>
+</g>
+</g>
+<path d="M1157 40h10"></path>
+<path d="M 1167 40 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>

@@ -1,0 +1,764 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="3908.5" height="157" viewBox="0 0 3908.5 157">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 38v20m0 -10h20"></path>
+</g>
+<path d="M40 48h10"></path>
+<g>
+<path d="M50 48h0"></path>
+<path d="M3858.5 48h0"></path>
+<g class="comment ">
+<path d="M50 48h0"></path>
+<path d="M172 48h0"></path>
+<text x="111" y="53" class="comment">7.62 or OpenABAP</text>
+</g>
+<path d="M172 48h10"></path>
+<path d="M182 48h10"></path>
+<g>
+<path d="M192 48h0"></path>
+<path d="M3858.5 48h0"></path>
+<g class="terminal ">
+<path d="M192 48h0"></path>
+<path d="M237.5 48h0"></path>
+<rect x="192" y="37" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="214.75" y="52">"("</text>
+</g>
+<path d="M237.5 48h10"></path>
+<path d="M247.5 48h10"></path>
+<g>
+<path d="M257.5 48h0"></path>
+<path d="M3793 48h0"></path>
+<g>
+<path d="M257.5 48h0"></path>
+<path d="M3348 48h0"></path>
+<path d="M257.5 48h20"></path>
+<g class="non-terminal ">
+<path d="M277.5 48h1460"></path>
+<path d="M1868 48h1460"></path>
+<rect x="1737.5" y="37" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLSetOpGroup"><text x="1802.75" y="52">SQLSetOpGroup</text>
+</a>
+</g>
+<path d="M3328 48h20"></path>
+<path d="M257.5 48a10 10 0 0 1 10 10v19a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M277.5 87h0"></path>
+<path d="M3328 87h0"></path>
+<g class="terminal ">
+<path d="M277.5 87h0"></path>
+<path d="M365.5 87h0"></path>
+<rect x="277.5" y="76" width="88" height="22" rx="10" ry="10"></rect>
+<text x="321.5" y="91">"SELECT"</text>
+</g>
+<path d="M365.5 87h10"></path>
+<g>
+<path d="M375.5 87h0"></path>
+<path d="M3328 87h0"></path>
+<path d="M375.5 87h20"></path>
+<g>
+<path d="M395.5 87h367.25"></path>
+<path d="M2940.75 87h367.25"></path>
+<g class="terminal ">
+<path d="M762.75 87h0"></path>
+<path d="M850.75 87h0"></path>
+<rect x="762.75" y="76" width="88" height="22" rx="10" ry="10"></rect>
+<text x="806.75" y="91">"SINGLE"</text>
+</g>
+<path d="M850.75 87h10"></path>
+<path d="M860.75 87h10"></path>
+<g>
+<path d="M870.75 87h0"></path>
+<path d="M2940.75 87h0"></path>
+<g>
+<path d="M870.75 87h0"></path>
+<path d="M1032.75 87h0"></path>
+<path d="M870.75 87a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M890.75 67h122"></path>
+</g>
+<path d="M1012.75 67a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M870.75 87h20"></path>
+<g class="non-terminal ">
+<path d="M890.75 87h0"></path>
+<path d="M1012.75 87h0"></path>
+<rect x="890.75" y="76" width="122" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFieldList"><text x="951.75" y="91">SQLFieldList</text>
+</a>
+</g>
+<path d="M1012.75 87h20"></path>
+</g>
+<path d="M1032.75 87h10"></path>
+<g>
+<path d="M1042.75 87h0"></path>
+<path d="M2940.75 87h0"></path>
+<g class="non-terminal ">
+<path d="M1042.75 87h0"></path>
+<path d="M1122.25 87h0"></path>
+<rect x="1042.75" y="76" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFrom"><text x="1082.5" y="91">SQLFrom</text>
+</a>
+</g>
+<path d="M1122.25 87h10"></path>
+<g>
+<path d="M1132.25 87h0"></path>
+<path d="M1268.75 87h0"></path>
+<path d="M1132.25 87a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1152.25 67h96.5"></path>
+</g>
+<path d="M1248.75 67a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1132.25 87h20"></path>
+<g class="non-terminal ">
+<path d="M1152.25 87h0"></path>
+<path d="M1248.75 87h0"></path>
+<rect x="1152.25" y="76" width="96.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLClient"><text x="1200.5" y="91">SQLClient</text>
+</a>
+</g>
+<path d="M1248.75 87h20"></path>
+</g>
+<g>
+<path d="M1268.75 87h0"></path>
+<path d="M1481.75 87h0"></path>
+<path d="M1268.75 87a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1288.75 67h173"></path>
+</g>
+<path d="M1461.75 67a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1268.75 87h20"></path>
+<g class="non-terminal ">
+<path d="M1288.75 87h0"></path>
+<path d="M1461.75 87h0"></path>
+<rect x="1288.75" y="76" width="173" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLBypassingBuffer"><text x="1375.25" y="91">SQLBypassingBuffer</text>
+</a>
+</g>
+<path d="M1461.75 87h20"></path>
+</g>
+<g>
+<path d="M1481.75 87h0"></path>
+<path d="M1700.75 87h0"></path>
+<path d="M1481.75 87a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1501.75 67h179"></path>
+</g>
+<path d="M1680.75 67a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1481.75 87h20"></path>
+<g>
+<path d="M1501.75 87h0"></path>
+<path d="M1680.75 87h0"></path>
+<g class="terminal ">
+<path d="M1501.75 87h0"></path>
+<path d="M1581.25 87h0"></path>
+<rect x="1501.75" y="76" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="1541.5" y="91">"WHERE"</text>
+</g>
+<path d="M1581.25 87h10"></path>
+<path d="M1591.25 87h10"></path>
+<g class="non-terminal ">
+<path d="M1601.25 87h0"></path>
+<path d="M1680.75 87h0"></path>
+<rect x="1601.25" y="76" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLCond"><text x="1641" y="91">SQLCond</text>
+</a>
+</g>
+</g>
+<path d="M1680.75 87h20"></path>
+</g>
+<path d="M1700.75 87h10"></path>
+<g>
+<path d="M1710.75 87h0"></path>
+<path d="M1992.25 87h0"></path>
+<g>
+<path d="M1710.75 87h0"></path>
+<path d="M1855.75 87h0"></path>
+<path d="M1710.75 87a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1730.75 67h105"></path>
+</g>
+<path d="M1835.75 67a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1710.75 87h20"></path>
+<g class="non-terminal ">
+<path d="M1730.75 87h0"></path>
+<path d="M1835.75 87h0"></path>
+<rect x="1730.75" y="76" width="105" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLGroupBy"><text x="1783.25" y="91">SQLGroupBy</text>
+</a>
+</g>
+<path d="M1835.75 87h20"></path>
+</g>
+<g>
+<path d="M1855.75 87h0"></path>
+<path d="M1992.25 87h0"></path>
+<path d="M1855.75 87a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1875.75 67h96.5"></path>
+</g>
+<path d="M1972.25 67a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1855.75 87h20"></path>
+<g class="non-terminal ">
+<path d="M1875.75 87h0"></path>
+<path d="M1972.25 87h0"></path>
+<rect x="1875.75" y="76" width="96.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLHaving"><text x="1924" y="91">SQLHaving</text>
+</a>
+</g>
+<path d="M1972.25 87h20"></path>
+</g>
+</g>
+<path d="M1992.25 87h10"></path>
+<path d="M2002.25 87h10"></path>
+<g>
+<path d="M2012.25 87h0"></path>
+<path d="M2940.75 87h0"></path>
+<g>
+<path d="M2012.25 87h0"></path>
+<path d="M2388.25 87h0"></path>
+<path d="M2012.25 87a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M2032.25 67h336"></path>
+</g>
+<path d="M2368.25 67a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M2012.25 87h20"></path>
+<g>
+<path d="M2032.25 87h0"></path>
+<path d="M2368.25 87h0"></path>
+<g class="comment ">
+<path d="M2032.25 87h0"></path>
+<path d="M2175.25 87h0"></path>
+<text x="2103.75" y="92" class="comment">not langver=KeyUser</text>
+</g>
+<path d="M2175.25 87h10"></path>
+<path d="M2185.25 87h10"></path>
+<g class="non-terminal ">
+<path d="M2195.25 87h0"></path>
+<path d="M2368.25 87h0"></path>
+<rect x="2195.25" y="76" width="173" height="22"></rect>
+<a xlink:href="#/abap/expression/DatabaseConnection"><text x="2281.75" y="91">DatabaseConnection</text>
+</a>
+</g>
+</g>
+<path d="M2368.25 87h20"></path>
+</g>
+<g>
+<path d="M2388.25 87h0"></path>
+<path d="M2516.25 87h0"></path>
+<path d="M2388.25 87a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M2408.25 67h88"></path>
+</g>
+<path d="M2496.25 67a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M2388.25 87h20"></path>
+<g class="non-terminal ">
+<path d="M2408.25 87h0"></path>
+<path d="M2496.25 87h0"></path>
+<rect x="2408.25" y="76" width="88" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLHints"><text x="2452.25" y="91">SQLHints</text>
+</a>
+</g>
+<path d="M2496.25 87h20"></path>
+</g>
+<g>
+<path d="M2516.25 87h0"></path>
+<path d="M2795.75 87h0"></path>
+<path d="M2516.25 87a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M2536.25 67h239.5"></path>
+</g>
+<path d="M2775.75 67a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M2516.25 87h20"></path>
+<g>
+<path d="M2536.25 87h0"></path>
+<path d="M2775.75 87h0"></path>
+<g class="comment ">
+<path d="M2536.25 87h0"></path>
+<path d="M2574.25 87h0"></path>
+<text x="2555.25" y="92" class="comment">7.93</text>
+</g>
+<path d="M2574.25 87h10"></path>
+<path d="M2584.25 87h10"></path>
+<g class="non-terminal ">
+<path d="M2594.25 87h0"></path>
+<path d="M2775.75 87h0"></path>
+<rect x="2594.25" y="76" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLPrivilegedAccess"><text x="2685" y="91">SQLPrivilegedAccess</text>
+</a>
+</g>
+</g>
+<path d="M2775.75 87h20"></path>
+</g>
+<g>
+<path d="M2795.75 87h0"></path>
+<path d="M2940.75 87h0"></path>
+<path d="M2795.75 87a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M2815.75 67h105"></path>
+</g>
+<path d="M2920.75 67a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M2795.75 87h20"></path>
+<g class="non-terminal ">
+<path d="M2815.75 87h0"></path>
+<path d="M2920.75 87h0"></path>
+<rect x="2815.75" y="76" width="105" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLOptions"><text x="2868.25" y="91">SQLOptions</text>
+</a>
+</g>
+<path d="M2920.75 87h20"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path d="M3308 87h20"></path>
+<path d="M375.5 87a10 10 0 0 1 10 10v19a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M395.5 126h0"></path>
+<path d="M3308 126h0"></path>
+<g>
+<path d="M395.5 126h0"></path>
+<path d="M540.5 126h0"></path>
+<path d="M395.5 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M415.5 106h105"></path>
+</g>
+<path d="M520.5 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M395.5 126h20"></path>
+<g class="terminal ">
+<path d="M415.5 126h0"></path>
+<path d="M520.5 126h0"></path>
+<rect x="415.5" y="115" width="105" height="22" rx="10" ry="10"></rect>
+<text x="468" y="130">"DISTINCT"</text>
+</g>
+<path d="M520.5 126h20"></path>
+</g>
+<g>
+<path d="M540.5 126h0"></path>
+<path d="M702.5 126h0"></path>
+<path d="M540.5 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M560.5 106h122"></path>
+</g>
+<path d="M682.5 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M540.5 126h20"></path>
+<g class="non-terminal ">
+<path d="M560.5 126h0"></path>
+<path d="M682.5 126h0"></path>
+<rect x="560.5" y="115" width="122" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFieldList"><text x="621.5" y="130">SQLFieldList</text>
+</a>
+</g>
+<path d="M682.5 126h20"></path>
+</g>
+<g>
+<path d="M702.5 126h0"></path>
+<path d="M915.5 126h0"></path>
+<path d="M702.5 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M722.5 106h173"></path>
+</g>
+<path d="M895.5 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M702.5 126h20"></path>
+<g class="non-terminal ">
+<path d="M722.5 126h0"></path>
+<path d="M895.5 126h0"></path>
+<rect x="722.5" y="115" width="173" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLBypassingBuffer"><text x="809" y="130">SQLBypassingBuffer</text>
+</a>
+</g>
+<path d="M895.5 126h20"></path>
+</g>
+<path d="M915.5 126h10"></path>
+<g>
+<path d="M925.5 126h0"></path>
+<path d="M3308 126h0"></path>
+<g class="non-terminal ">
+<path d="M925.5 126h0"></path>
+<path d="M1005 126h0"></path>
+<rect x="925.5" y="115" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFrom"><text x="965.25" y="130">SQLFrom</text>
+</a>
+</g>
+<path d="M1005 126h10"></path>
+<g>
+<path d="M1015 126h0"></path>
+<path d="M1151.5 126h0"></path>
+<path d="M1015 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1035 106h96.5"></path>
+</g>
+<path d="M1131.5 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1015 126h20"></path>
+<g class="non-terminal ">
+<path d="M1035 126h0"></path>
+<path d="M1131.5 126h0"></path>
+<rect x="1035" y="115" width="96.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLClient"><text x="1083.25" y="130">SQLClient</text>
+</a>
+</g>
+<path d="M1131.5 126h20"></path>
+</g>
+<g>
+<path d="M1151.5 126h0"></path>
+<path d="M1364.5 126h0"></path>
+<path d="M1151.5 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1171.5 106h173"></path>
+</g>
+<path d="M1344.5 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1151.5 126h20"></path>
+<g class="non-terminal ">
+<path d="M1171.5 126h0"></path>
+<path d="M1344.5 126h0"></path>
+<rect x="1171.5" y="115" width="173" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLBypassingBuffer"><text x="1258" y="130">SQLBypassingBuffer</text>
+</a>
+</g>
+<path d="M1344.5 126h20"></path>
+</g>
+<path d="M1364.5 126h10"></path>
+<g>
+<path d="M1374.5 126h0"></path>
+<path d="M3308 126h0"></path>
+<g>
+<path d="M1374.5 126h0"></path>
+<path d="M1653 126h0"></path>
+<path d="M1374.5 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1394.5 106h238.5"></path>
+</g>
+<path d="M1633 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1374.5 126h20"></path>
+<g>
+<path d="M1394.5 126h0"></path>
+<path d="M1633 126h0"></path>
+<g class="comment ">
+<path d="M1394.5 126h0"></path>
+<path d="M1516.5 126h0"></path>
+<text x="1455.5" y="131" class="comment">7.62 or OpenABAP</text>
+</g>
+<path d="M1516.5 126h10"></path>
+<path d="M1526.5 126h10"></path>
+<g class="non-terminal ">
+<path d="M1536.5 126h0"></path>
+<path d="M1633 126h0"></path>
+<rect x="1536.5" y="115" width="96.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFields"><text x="1584.75" y="130">SQLFields</text>
+</a>
+</g>
+</g>
+<path d="M1633 126h20"></path>
+</g>
+<g>
+<path d="M1653 126h0"></path>
+<path d="M1849 126h0"></path>
+<path d="M1653 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1673 106h156"></path>
+</g>
+<path d="M1829 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1653 126h20"></path>
+<g class="non-terminal ">
+<path d="M1673 126h0"></path>
+<path d="M1829 126h0"></path>
+<rect x="1673" y="115" width="156" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLForAllEntries"><text x="1751" y="130">SQLForAllEntries</text>
+</a>
+</g>
+<path d="M1829 126h20"></path>
+</g>
+<g>
+<path d="M1849 126h0"></path>
+<path d="M2068 126h0"></path>
+<path d="M1849 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1869 106h179"></path>
+</g>
+<path d="M2048 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1849 126h20"></path>
+<g>
+<path d="M1869 126h0"></path>
+<path d="M2048 126h0"></path>
+<g class="terminal ">
+<path d="M1869 126h0"></path>
+<path d="M1948.5 126h0"></path>
+<rect x="1869" y="115" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="1908.75" y="130">"WHERE"</text>
+</g>
+<path d="M1948.5 126h10"></path>
+<path d="M1958.5 126h10"></path>
+<g class="non-terminal ">
+<path d="M1968.5 126h0"></path>
+<path d="M2048 126h0"></path>
+<rect x="1968.5" y="115" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLCond"><text x="2008.25" y="130">SQLCond</text>
+</a>
+</g>
+</g>
+<path d="M2048 126h20"></path>
+</g>
+<path d="M2068 126h10"></path>
+<g>
+<path d="M2078 126h0"></path>
+<path d="M2359.5 126h0"></path>
+<g>
+<path d="M2078 126h0"></path>
+<path d="M2223 126h0"></path>
+<path d="M2078 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M2098 106h105"></path>
+</g>
+<path d="M2203 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M2078 126h20"></path>
+<g class="non-terminal ">
+<path d="M2098 126h0"></path>
+<path d="M2203 126h0"></path>
+<rect x="2098" y="115" width="105" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLGroupBy"><text x="2150.5" y="130">SQLGroupBy</text>
+</a>
+</g>
+<path d="M2203 126h20"></path>
+</g>
+<g>
+<path d="M2223 126h0"></path>
+<path d="M2359.5 126h0"></path>
+<path d="M2223 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M2243 106h96.5"></path>
+</g>
+<path d="M2339.5 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M2223 126h20"></path>
+<g class="non-terminal ">
+<path d="M2243 126h0"></path>
+<path d="M2339.5 126h0"></path>
+<rect x="2243" y="115" width="96.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLHaving"><text x="2291.25" y="130">SQLHaving</text>
+</a>
+</g>
+<path d="M2339.5 126h20"></path>
+</g>
+</g>
+<path d="M2359.5 126h10"></path>
+<path d="M2369.5 126h10"></path>
+<g>
+<path d="M2379.5 126h0"></path>
+<path d="M3308 126h0"></path>
+<g>
+<path d="M2379.5 126h0"></path>
+<path d="M2755.5 126h0"></path>
+<path d="M2379.5 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M2399.5 106h336"></path>
+</g>
+<path d="M2735.5 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M2379.5 126h20"></path>
+<g>
+<path d="M2399.5 126h0"></path>
+<path d="M2735.5 126h0"></path>
+<g class="comment ">
+<path d="M2399.5 126h0"></path>
+<path d="M2542.5 126h0"></path>
+<text x="2471" y="131" class="comment">not langver=KeyUser</text>
+</g>
+<path d="M2542.5 126h10"></path>
+<path d="M2552.5 126h10"></path>
+<g class="non-terminal ">
+<path d="M2562.5 126h0"></path>
+<path d="M2735.5 126h0"></path>
+<rect x="2562.5" y="115" width="173" height="22"></rect>
+<a xlink:href="#/abap/expression/DatabaseConnection"><text x="2649" y="130">DatabaseConnection</text>
+</a>
+</g>
+</g>
+<path d="M2735.5 126h20"></path>
+</g>
+<g>
+<path d="M2755.5 126h0"></path>
+<path d="M2883.5 126h0"></path>
+<path d="M2755.5 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M2775.5 106h88"></path>
+</g>
+<path d="M2863.5 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M2755.5 126h20"></path>
+<g class="non-terminal ">
+<path d="M2775.5 126h0"></path>
+<path d="M2863.5 126h0"></path>
+<rect x="2775.5" y="115" width="88" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLHints"><text x="2819.5" y="130">SQLHints</text>
+</a>
+</g>
+<path d="M2863.5 126h20"></path>
+</g>
+<g>
+<path d="M2883.5 126h0"></path>
+<path d="M3163 126h0"></path>
+<path d="M2883.5 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M2903.5 106h239.5"></path>
+</g>
+<path d="M3143 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M2883.5 126h20"></path>
+<g>
+<path d="M2903.5 126h0"></path>
+<path d="M3143 126h0"></path>
+<g class="comment ">
+<path d="M2903.5 126h0"></path>
+<path d="M2941.5 126h0"></path>
+<text x="2922.5" y="131" class="comment">7.93</text>
+</g>
+<path d="M2941.5 126h10"></path>
+<path d="M2951.5 126h10"></path>
+<g class="non-terminal ">
+<path d="M2961.5 126h0"></path>
+<path d="M3143 126h0"></path>
+<rect x="2961.5" y="115" width="181.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLPrivilegedAccess"><text x="3052.25" y="130">SQLPrivilegedAccess</text>
+</a>
+</g>
+</g>
+<path d="M3143 126h20"></path>
+</g>
+<g>
+<path d="M3163 126h0"></path>
+<path d="M3308 126h0"></path>
+<path d="M3163 126a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M3183 106h105"></path>
+</g>
+<path d="M3288 106a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M3163 126h20"></path>
+<g class="non-terminal ">
+<path d="M3183 126h0"></path>
+<path d="M3288 126h0"></path>
+<rect x="3183" y="115" width="105" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLOptions"><text x="3235.5" y="130">SQLOptions</text>
+</a>
+</g>
+<path d="M3288 126h20"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path d="M3308 126a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M3328 87a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
+</g>
+<g>
+<path d="M3348 48h0"></path>
+<path d="M3793 48h0"></path>
+<path d="M3348 48a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M3368 20h405"></path>
+</g>
+<path d="M3773 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M3348 48h20"></path>
+<g>
+<path d="M3368 48h0"></path>
+<path d="M3773 48h0"></path>
+<g>
+<path d="M3368 48h0"></path>
+<path d="M3618 48h0"></path>
+<g class="comment ">
+<path d="M3368 48h0"></path>
+<path d="M3490 48h0"></path>
+<text x="3429" y="53" class="comment">7.62 or OpenABAP</text>
+</g>
+<path d="M3490 48h10"></path>
+<path d="M3500 48h10"></path>
+<g>
+<path d="M3510 48h0"></path>
+<path d="M3618 48h0"></path>
+<path d="M3510 48h10"></path>
+<g class="non-terminal ">
+<path d="M3520 48h0"></path>
+<path d="M3608 48h0"></path>
+<rect x="3520" y="37" width="88" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLSetOp"><text x="3564" y="52">SQLSetOp</text>
+</a>
+</g>
+<path d="M3608 48h10"></path>
+<path d="M3520 48a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M3520 68h88"></path>
+</g>
+<path d="M3608 68a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+</g>
+<path d="M3618 48h10"></path>
+<g>
+<path d="M3628 48h0"></path>
+<path d="M3773 48h0"></path>
+<path d="M3628 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M3648 28h105"></path>
+</g>
+<path d="M3753 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M3628 48h20"></path>
+<g class="non-terminal ">
+<path d="M3648 48h0"></path>
+<path d="M3753 48h0"></path>
+<rect x="3648" y="37" width="105" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLOrderBy"><text x="3700.5" y="52">SQLOrderBy</text>
+</a>
+</g>
+<path d="M3753 48h20"></path>
+</g>
+</g>
+<path d="M3773 48h20"></path>
+</g>
+</g>
+<path d="M3793 48h10"></path>
+<path d="M3803 48h10"></path>
+<g class="terminal ">
+<path d="M3813 48h0"></path>
+<path d="M3858.5 48h0"></path>
+<rect x="3813" y="37" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="3835.75" y="52">")"</text>
+</g>
+</g>
+</g>
+<path d="M3858.5 48h10"></path>
+<path d="M 3868.5 48 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
