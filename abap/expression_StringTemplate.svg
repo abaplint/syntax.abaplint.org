@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1293.5" height="110" viewBox="0 0 1293.5 110">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m0 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1243.5 40h0"></path>
+<g class="comment ">
+<path d="M50 40h0"></path>
+<path d="M81 40h0"></path>
+<text x="65.5" y="45" class="comment">702</text>
+</g>
+<path d="M81 40h10"></path>
+<g>
+<path d="M91 40h0"></path>
+<path d="M1243.5 40h0"></path>
+<path d="M91 40h20"></path>
+<g>
+<path d="M111 40h0"></path>
+<path d="M1223.5 40h0"></path>
+<g class="terminal ">
+<path d="M111 40h0"></path>
+<path d="M318 40h0"></path>
+<rect x="111" y="29" width="207" height="22" rx="10" ry="10"></rect>
+<text x="214.5" y="44">!"StringTemplateBegin"</text>
+</g>
+<path d="M318 40h10"></path>
+<path d="M328 40h10"></path>
+<g class="non-terminal ">
+<path d="M338 40h0"></path>
+<path d="M528 40h0"></path>
+<rect x="338" y="29" width="190" height="22"></rect>
+<a xlink:href="#/abap/expression/StringTemplateSource"><text x="433" y="44">StringTemplateSource</text>
+</a>
+</g>
+<path d="M528 40h10"></path>
+<g>
+<path d="M538 40h0"></path>
+<path d="M1023.5 40h0"></path>
+<path d="M538 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M558 20h445.5"></path>
+</g>
+<path d="M1003.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M538 40h20"></path>
+<g>
+<path d="M558 40h0"></path>
+<path d="M1003.5 40h0"></path>
+<path d="M558 40h10"></path>
+<g>
+<path d="M568 40h0"></path>
+<path d="M993.5 40h0"></path>
+<g class="terminal ">
+<path d="M568 40h0"></path>
+<path d="M783.5 40h0"></path>
+<rect x="568" y="29" width="215.5" height="22" rx="10" ry="10"></rect>
+<text x="675.75" y="44">!"StringTemplateMiddle"</text>
+</g>
+<path d="M783.5 40h10"></path>
+<path d="M793.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M803.5 40h0"></path>
+<path d="M993.5 40h0"></path>
+<rect x="803.5" y="29" width="190" height="22"></rect>
+<a xlink:href="#/abap/expression/StringTemplateSource"><text x="898.5" y="44">StringTemplateSource</text>
+</a>
+</g>
+</g>
+<path d="M993.5 40h10"></path>
+<path d="M568 40a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M568 60h425.5"></path>
+</g>
+<path d="M993.5 60a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M1003.5 40h20"></path>
+</g>
+<path d="M1023.5 40h10"></path>
+<g class="terminal ">
+<path d="M1033.5 40h0"></path>
+<path d="M1223.5 40h0"></path>
+<rect x="1033.5" y="29" width="190" height="22" rx="10" ry="10"></rect>
+<text x="1128.5" y="44">!"StringTemplateEnd"</text>
+</g>
+</g>
+<path d="M1223.5 40h20"></path>
+<path d="M91 40a10 10 0 0 1 10 10v19a10 10 0 0 0 10 10"></path>
+<g class="terminal ">
+<path d="M111 79h474"></path>
+<path d="M749.5 79h474"></path>
+<rect x="585" y="68" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="667.25" y="83">!"StringTemplate"</text>
+</g>
+<path d="M1223.5 79a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M1243.5 40h10"></path>
+<path d="M 1253.5 40 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
