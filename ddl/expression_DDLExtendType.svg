@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1240.5" height="169" viewBox="0 0 1240.5 169">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m0 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1190.5 40h0"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M240.5 40h0"></path>
+<path d="M50 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M70 20h150.5"></path>
+</g>
+<path d="M220.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M50 40h20"></path>
+<g>
+<path d="M70 40h0"></path>
+<path d="M220.5 40h0"></path>
+<path d="M70 40h10"></path>
+<g class="non-terminal ">
+<path d="M80 40h0"></path>
+<path d="M210.5 40h0"></path>
+<rect x="80" y="29" width="130.5" height="22"></rect>
+<a xlink:href="#/ddl/expression/CDSAnnotation"><text x="145.25" y="44">CDSAnnotation</text>
+</a>
+</g>
+<path d="M210.5 40h10"></path>
+<path d="M80 40a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 60h130.5"></path>
+</g>
+<path d="M210.5 60a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M220.5 40h20"></path>
+</g>
+<path d="M240.5 40h10"></path>
+<g class="terminal ">
+<path d="M250.5 40h0"></path>
+<path d="M338.5 40h0"></path>
+<rect x="250.5" y="29" width="88" height="22" rx="10" ry="10"></rect>
+<text x="294.5" y="44">"EXTEND"</text>
+</g>
+<path d="M338.5 40h10"></path>
+<path d="M348.5 40h10"></path>
+<g class="terminal ">
+<path d="M358.5 40h0"></path>
+<path d="M429.5 40h0"></path>
+<rect x="358.5" y="29" width="71" height="22" rx="10" ry="10"></rect>
+<text x="394" y="44">"TYPE"</text>
+</g>
+<path d="M429.5 40h10"></path>
+<path d="M439.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M449.5 40h0"></path>
+<path d="M529 40h0"></path>
+<rect x="449.5" y="29" width="79.5" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLName"><text x="489.25" y="44">DDLName</text>
+</a>
+</g>
+<path d="M529 40h10"></path>
+<path d="M539 40h10"></path>
+<g class="terminal ">
+<path d="M549 40h0"></path>
+<path d="M620 40h0"></path>
+<rect x="549" y="29" width="71" height="22" rx="10" ry="10"></rect>
+<text x="584.5" y="44">"WITH"</text>
+</g>
+<path d="M620 40h10"></path>
+<path d="M630 40h10"></path>
+<g class="non-terminal ">
+<path d="M640 40h0"></path>
+<path d="M719.5 40h0"></path>
+<rect x="640" y="29" width="79.5" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLName"><text x="679.75" y="44">DDLName</text>
+</a>
+</g>
+<path d="M719.5 40h10"></path>
+<path d="M729.5 40h10"></path>
+<g class="terminal ">
+<path d="M739.5 40h0"></path>
+<path d="M785 40h0"></path>
+<rect x="739.5" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="762.25" y="44">"{"</text>
+</g>
+<path d="M785 40h10"></path>
+<path d="M795 40h10"></path>
+<g>
+<path d="M805 40h0"></path>
+<path d="M1029.5 40h0"></path>
+<path d="M805 40h10"></path>
+<g>
+<path d="M815 40h0"></path>
+<path d="M1019.5 40h0"></path>
+<path d="M815 40h20"></path>
+<g class="non-terminal ">
+<path d="M835 40h8.5"></path>
+<path d="M991 40h8.5"></path>
+<rect x="843.5" y="29" width="147.5" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLNamedInclude"><text x="917.25" y="44">DDLNamedInclude</text>
+</a>
+</g>
+<path d="M999.5 40h20"></path>
+<path d="M815 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal ">
+<path d="M835 70h29.75"></path>
+<path d="M969.75 70h29.75"></path>
+<rect x="864.75" y="59" width="105" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLInclude"><text x="917.25" y="74">DDLInclude</text>
+</a>
+</g>
+<path d="M999.5 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M815 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="non-terminal ">
+<path d="M835 100h17"></path>
+<path d="M982.5 100h17"></path>
+<rect x="852" y="89" width="130.5" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLTableField"><text x="917.25" y="104">DDLTableField</text>
+</a>
+</g>
+<path d="M999.5 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+<path d="M815 40a10 10 0 0 1 10 10v70a10 10 0 0 0 10 10"></path>
+<g class="non-terminal ">
+<path d="M835 130h0"></path>
+<path d="M999.5 130h0"></path>
+<rect x="835" y="119" width="164.5" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLStructureField"><text x="917.25" y="134">DDLStructureField</text>
+</a>
+</g>
+<path d="M999.5 130a10 10 0 0 0 10 -10v-70a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M1019.5 40h10"></path>
+<path d="M815 40a10 10 0 0 0 -10 10v89a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M815 149h204.5"></path>
+</g>
+<path d="M1019.5 149a10 10 0 0 0 10 -10v-89a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M1029.5 40h10"></path>
+<path d="M1039.5 40h10"></path>
+<g class="terminal ">
+<path d="M1049.5 40h0"></path>
+<path d="M1095 40h0"></path>
+<rect x="1049.5" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1072.25" y="44">"}"</text>
+</g>
+<path d="M1095 40h10"></path>
+<g>
+<path d="M1105 40h0"></path>
+<path d="M1190.5 40h0"></path>
+<path d="M1105 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1125 20h45.5"></path>
+</g>
+<path d="M1170.5 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1105 40h20"></path>
+<g class="terminal ">
+<path d="M1125 40h0"></path>
+<path d="M1170.5 40h0"></path>
+<rect x="1125" y="29" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1147.75" y="44">";"</text>
+</g>
+<path d="M1170.5 40h20"></path>
+</g>
+</g>
+<path d="M1190.5 40h10"></path>
+<path d="M 1200.5 40 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
