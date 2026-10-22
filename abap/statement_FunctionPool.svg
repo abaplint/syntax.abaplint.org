@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="928" height="131" viewBox="0 0 928 131">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M878 40h0"></path>
+<g class="comment ">
+<path d="M50 40h0"></path>
+<path d="M193 40h0"></path>
+<text x="121.5" y="45" class="comment">not langver=KeyUser</text>
+</g>
+<path d="M193 40h10"></path>
+<path d="M203 40h10"></path>
+<g>
+<path d="M213 40h0"></path>
+<path d="M878 40h0"></path>
+<g class="terminal ">
+<path d="M213 40h0"></path>
+<path d="M360.5 40h0"></path>
+<rect x="213" y="29" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="286.75" y="44">"FUNCTION-POOL"</text>
+</g>
+<path d="M360.5 40h10"></path>
+<path d="M370.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M380.5 40h0"></path>
+<path d="M494 40h0"></path>
+<rect x="380.5" y="29" width="113.5" height="22"></rect>
+<a xlink:href="#/abap/expression/IncludeName"><text x="437.25" y="44">IncludeName</text>
+</a>
+</g>
+<path d="M494 40h10"></path>
+<g>
+<path d="M504 40h0"></path>
+<path d="M878 40h0"></path>
+<path d="M504 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M524 20h334"></path>
+</g>
+<path d="M858 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M504 40h20"></path>
+<g>
+<path d="M524 40h0"></path>
+<path d="M858 40h0"></path>
+<path d="M554 40h10"></path>
+<g>
+<path d="M564 40h0"></path>
+<path d="M828 40h0"></path>
+<g class="terminal ">
+<path d="M564 40h0"></path>
+<path d="M686 40h0"></path>
+<rect x="564" y="29" width="122" height="22" rx="10" ry="10"></rect>
+<text x="625" y="44">"MESSAGE-ID"</text>
+</g>
+<path d="M686 40h10"></path>
+<path d="M696 40h10"></path>
+<g class="non-terminal ">
+<path d="M706 40h0"></path>
+<path d="M828 40h0"></path>
+<rect x="706" y="29" width="122" height="22"></rect>
+<a xlink:href="#/abap/expression/MessageClass"><text x="767" y="44">MessageClass</text>
+</a>
+</g>
+</g>
+<path d="M828 40h10"></path>
+<path d="M554 40v20a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M564 70h25.5"></path>
+<path d="M802.5 70h25.5"></path>
+<g class="terminal ">
+<path d="M589.5 70h0"></path>
+<path d="M703 70h0"></path>
+<rect x="589.5" y="59" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="646.25" y="74">"LINE-SIZE"</text>
+</g>
+<path d="M703 70h10"></path>
+<path d="M713 70h10"></path>
+<g class="non-terminal ">
+<path d="M723 70h0"></path>
+<path d="M802.5 70h0"></path>
+<rect x="723" y="59" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/Integer"><text x="762.75" y="74">Integer</text>
+</a>
+</g>
+</g>
+<path d="M828 70a10 10 0 0 0 10 -10v-20"></path>
+<path d="M554 40v50a10 10 0 0 0 10 10"></path>
+<g class="terminal ">
+<path d="M564 100h11.5"></path>
+<path d="M816.5 100h11.5"></path>
+<rect x="575.5" y="89" width="241" height="22" rx="10" ry="10"></rect>
+<text x="696" y="104">"NO STANDARD PAGE HEADING"</text>
+</g>
+<path d="M828 100a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 554 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="539" y="44" class="diagram-text">1+</text>
+<path d="M 838 30 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 845 38 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M858 40h20"></path>
+</g>
+</g>
+</g>
+<path d="M878 40h10"></path>
+<path d="M 888 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>
