@@ -1,0 +1,232 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="861" height="126" viewBox="0 0 861 126">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 38v20m0 -10h20"></path>
+</g>
+<g>
+<path d="M40 48h0"></path>
+<path d="M821 48h0"></path>
+<path d="M40 48h20"></path>
+<g>
+<path d="M60 48h0"></path>
+<path d="M801 48h0"></path>
+<g class="non-terminal ">
+<path d="M60 48h0"></path>
+<path d="M139.5 48h0"></path>
+<rect x="60" y="37" width="79.5" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLName"><text x="99.75" y="52">DDLName</text>
+</a>
+</g>
+<path d="M139.5 48h10"></path>
+<path d="M149.5 48h10"></path>
+<g class="terminal ">
+<path d="M159.5 48h0"></path>
+<path d="M205 48h0"></path>
+<rect x="159.5" y="37" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="182.25" y="52">"."</text>
+</g>
+<path d="M205 48h10"></path>
+<path d="M215 48h10"></path>
+<g class="non-terminal ">
+<path d="M225 48h0"></path>
+<path d="M304.5 48h0"></path>
+<rect x="225" y="37" width="79.5" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLName"><text x="264.75" y="52">DDLName</text>
+</a>
+</g>
+<path d="M304.5 48h10"></path>
+<g>
+<path d="M314.5 48h0"></path>
+<path d="M801 48h0"></path>
+<path d="M314.5 48a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M334.5 20h446.5"></path>
+</g>
+<path d="M781 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M314.5 48h20"></path>
+<g>
+<path d="M334.5 48h0"></path>
+<path d="M781 48h0"></path>
+<g class="terminal ">
+<path d="M334.5 48h0"></path>
+<path d="M380 48h0"></path>
+<rect x="334.5" y="37" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="357.25" y="52">"("</text>
+</g>
+<path d="M380 48h10"></path>
+<path d="M390 48h10"></path>
+<g class="non-terminal ">
+<path d="M400 48h0"></path>
+<path d="M505 48h0"></path>
+<rect x="400" y="37" width="105" height="22"></rect>
+<a xlink:href="#/ddl/expression/CDSInteger"><text x="452.5" y="52">CDSInteger</text>
+</a>
+</g>
+<path d="M505 48h10"></path>
+<g>
+<path d="M515 48h0"></path>
+<path d="M725.5 48h0"></path>
+<path d="M515 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M535 28h170.5"></path>
+</g>
+<path d="M705.5 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M515 48h20"></path>
+<g>
+<path d="M535 48h0"></path>
+<path d="M705.5 48h0"></path>
+<g class="terminal ">
+<path d="M535 48h0"></path>
+<path d="M580.5 48h0"></path>
+<rect x="535" y="37" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="557.75" y="52">","</text>
+</g>
+<path d="M580.5 48h10"></path>
+<path d="M590.5 48h10"></path>
+<g class="non-terminal ">
+<path d="M600.5 48h0"></path>
+<path d="M705.5 48h0"></path>
+<rect x="600.5" y="37" width="105" height="22"></rect>
+<a xlink:href="#/ddl/expression/CDSInteger"><text x="653" y="52">CDSInteger</text>
+</a>
+</g>
+</g>
+<path d="M705.5 48h20"></path>
+</g>
+<path d="M725.5 48h10"></path>
+<g class="terminal ">
+<path d="M735.5 48h0"></path>
+<path d="M781 48h0"></path>
+<rect x="735.5" y="37" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="758.25" y="52">")"</text>
+</g>
+</g>
+<path d="M781 48h20"></path>
+</g>
+</g>
+<path d="M801 48h20"></path>
+<path d="M40 48a10 10 0 0 1 10 10v27a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 95h82.5"></path>
+<path d="M718.5 95h82.5"></path>
+<g class="non-terminal ">
+<path d="M142.5 95h0"></path>
+<path d="M222 95h0"></path>
+<rect x="142.5" y="84" width="79.5" height="22"></rect>
+<a xlink:href="#/ddl/expression/DDLName"><text x="182.25" y="99">DDLName</text>
+</a>
+</g>
+<path d="M222 95h10"></path>
+<g>
+<path d="M232 95h0"></path>
+<path d="M718.5 95h0"></path>
+<path d="M232 95a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M252 67h446.5"></path>
+</g>
+<path d="M698.5 67a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M232 95h20"></path>
+<g>
+<path d="M252 95h0"></path>
+<path d="M698.5 95h0"></path>
+<g class="terminal ">
+<path d="M252 95h0"></path>
+<path d="M297.5 95h0"></path>
+<rect x="252" y="84" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="274.75" y="99">"("</text>
+</g>
+<path d="M297.5 95h10"></path>
+<path d="M307.5 95h10"></path>
+<g class="non-terminal ">
+<path d="M317.5 95h0"></path>
+<path d="M422.5 95h0"></path>
+<rect x="317.5" y="84" width="105" height="22"></rect>
+<a xlink:href="#/ddl/expression/CDSInteger"><text x="370" y="99">CDSInteger</text>
+</a>
+</g>
+<path d="M422.5 95h10"></path>
+<g>
+<path d="M432.5 95h0"></path>
+<path d="M643 95h0"></path>
+<path d="M432.5 95a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M452.5 75h170.5"></path>
+</g>
+<path d="M623 75a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M432.5 95h20"></path>
+<g>
+<path d="M452.5 95h0"></path>
+<path d="M623 95h0"></path>
+<g class="terminal ">
+<path d="M452.5 95h0"></path>
+<path d="M498 95h0"></path>
+<rect x="452.5" y="84" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="475.25" y="99">","</text>
+</g>
+<path d="M498 95h10"></path>
+<path d="M508 95h10"></path>
+<g class="non-terminal ">
+<path d="M518 95h0"></path>
+<path d="M623 95h0"></path>
+<rect x="518" y="84" width="105" height="22"></rect>
+<a xlink:href="#/ddl/expression/CDSInteger"><text x="570.5" y="99">CDSInteger</text>
+</a>
+</g>
+</g>
+<path d="M623 95h20"></path>
+</g>
+<path d="M643 95h10"></path>
+<g class="terminal ">
+<path d="M653 95h0"></path>
+<path d="M698.5 95h0"></path>
+<rect x="653" y="84" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="675.75" y="99">")"</text>
+</g>
+</g>
+<path d="M698.5 95h20"></path>
+</g>
+</g>
+<path d="M801 95a10 10 0 0 0 10 -10v-27a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M 821 48 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>

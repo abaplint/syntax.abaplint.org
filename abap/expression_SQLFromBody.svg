@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1090" height="144" viewBox="0 0 1090 144">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 38v20m0 -10h20"></path>
+</g>
+<g>
+<path d="M40 48h0"></path>
+<path d="M1050 48h0"></path>
+<path d="M40 48h20"></path>
+<g>
+<path d="M60 48h0"></path>
+<path d="M1030 48h0"></path>
+<g class="comment ">
+<path d="M60 48h0"></path>
+<path d="M203 48h0"></path>
+<text x="131.5" y="53" class="comment">not langver=KeyUser</text>
+</g>
+<path d="M203 48h10"></path>
+<path d="M213 48h10"></path>
+<g>
+<path d="M223 48h0"></path>
+<path d="M1030 48h0"></path>
+<g class="terminal ">
+<path d="M223 48h0"></path>
+<path d="M362 48h0"></path>
+<rect x="223" y="37" width="139" height="22" rx="10" ry="10"></rect>
+<text x="292.5" y="52">!"WParenLeftW"</text>
+</g>
+<path d="M362 48h10"></path>
+<path d="M372 48h10"></path>
+<g class="non-terminal ">
+<path d="M382 48h0"></path>
+<path d="M495.5 48h0"></path>
+<rect x="382" y="37" width="113.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFromBody"><text x="438.75" y="52">SQLFromBody</text>
+</a>
+</g>
+<path d="M495.5 48h10"></path>
+<g>
+<path d="M505.5 48h0"></path>
+<path d="M693 48h0"></path>
+<path d="M505.5 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M525.5 28h147.5"></path>
+</g>
+<path d="M673 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M505.5 48h20"></path>
+<g class="terminal ">
+<path d="M525.5 48h0"></path>
+<path d="M673 48h0"></path>
+<rect x="525.5" y="37" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="599.25" y="52">!"WParenRightW"</text>
+</g>
+<path d="M673 48h20"></path>
+</g>
+<g>
+<path d="M693 48h0"></path>
+<path d="M1030 48h0"></path>
+<path d="M693 48a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M713 20h297"></path>
+</g>
+<path d="M1010 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M693 48h20"></path>
+<g>
+<path d="M713 48h0"></path>
+<path d="M1010 48h0"></path>
+<path d="M713 48h10"></path>
+<g>
+<path d="M723 48h0"></path>
+<path d="M1000 48h0"></path>
+<g>
+<path d="M723 48h0"></path>
+<path d="M910.5 48h0"></path>
+<path d="M723 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M743 28h147.5"></path>
+</g>
+<path d="M890.5 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M723 48h20"></path>
+<g class="terminal ">
+<path d="M743 48h0"></path>
+<path d="M890.5 48h0"></path>
+<rect x="743" y="37" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="816.75" y="52">!"WParenRightW"</text>
+</g>
+<path d="M890.5 48h20"></path>
+</g>
+<path d="M910.5 48h10"></path>
+<g class="non-terminal ">
+<path d="M920.5 48h0"></path>
+<path d="M1000 48h0"></path>
+<rect x="920.5" y="37" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLJoin"><text x="960.25" y="52">SQLJoin</text>
+</a>
+</g>
+</g>
+<path d="M1000 48h10"></path>
+<path d="M723 48a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M723 68h277"></path>
+</g>
+<path d="M1000 68a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M1010 48h20"></path>
+</g>
+</g>
+</g>
+<path d="M1030 48h20"></path>
+<path d="M40 48a10 10 0 0 1 10 10v36a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M60 104h246.25"></path>
+<path d="M783.75 104h246.25"></path>
+<g class="non-terminal ">
+<path d="M306.25 104h0"></path>
+<path d="M436.75 104h0"></path>
+<rect x="306.25" y="93" width="130.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLFromSource"><text x="371.5" y="108">SQLFromSource</text>
+</a>
+</g>
+<path d="M436.75 104h10"></path>
+<g>
+<path d="M446.75 104h0"></path>
+<path d="M783.75 104h0"></path>
+<path d="M446.75 104a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M466.75 76h297"></path>
+</g>
+<path d="M763.75 76a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M446.75 104h20"></path>
+<g>
+<path d="M466.75 104h0"></path>
+<path d="M763.75 104h0"></path>
+<path d="M466.75 104h10"></path>
+<g>
+<path d="M476.75 104h0"></path>
+<path d="M753.75 104h0"></path>
+<g>
+<path d="M476.75 104h0"></path>
+<path d="M664.25 104h0"></path>
+<path d="M476.75 104a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M496.75 84h147.5"></path>
+</g>
+<path d="M644.25 84a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M476.75 104h20"></path>
+<g class="terminal ">
+<path d="M496.75 104h0"></path>
+<path d="M644.25 104h0"></path>
+<rect x="496.75" y="93" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="570.5" y="108">!"WParenRightW"</text>
+</g>
+<path d="M644.25 104h20"></path>
+</g>
+<path d="M664.25 104h10"></path>
+<g class="non-terminal ">
+<path d="M674.25 104h0"></path>
+<path d="M753.75 104h0"></path>
+<rect x="674.25" y="93" width="79.5" height="22"></rect>
+<a xlink:href="#/abap/expression/SQLJoin"><text x="714" y="108">SQLJoin</text>
+</a>
+</g>
+</g>
+<path d="M753.75 104h10"></path>
+<path d="M476.75 104a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M476.75 124h277"></path>
+</g>
+<path d="M753.75 124a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M763.75 104h20"></path>
+</g>
+</g>
+<path d="M1030 104a10 10 0 0 0 10 -10v-36a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M 1050 48 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
