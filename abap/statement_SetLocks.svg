@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1415" height="62" viewBox="0 0 1415 62">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 21v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 31h10"></path>
+<g>
+<path d="M50 31h0"></path>
+<path d="M1365 31h0"></path>
+<g class="comment ">
+<path d="M50 31h0"></path>
+<path d="M193 31h0"></path>
+<text x="121.5" y="36" class="comment">not langver=KeyUser</text>
+</g>
+<path d="M193 31h10"></path>
+<path d="M203 31h10"></path>
+<g>
+<path d="M213 31h0"></path>
+<path d="M1365 31h0"></path>
+<g class="comment ">
+<path d="M213 31h0"></path>
+<path d="M251 31h0"></path>
+<text x="232" y="36" class="comment">7.77</text>
+</g>
+<path d="M251 31h10"></path>
+<path d="M261 31h10"></path>
+<g>
+<path d="M271 31h0"></path>
+<path d="M1365 31h0"></path>
+<g class="terminal ">
+<path d="M271 31h0"></path>
+<path d="M410 31h0"></path>
+<rect x="271" y="20" width="139" height="22" rx="10" ry="10"></rect>
+<text x="340.5" y="35">"SET LOCKS OF"</text>
+</g>
+<path d="M410 31h10"></path>
+<path d="M420 31h10"></path>
+<g class="non-terminal ">
+<path d="M430 31h0"></path>
+<path d="M535 31h0"></path>
+<rect x="430" y="20" width="105" height="22"></rect>
+<a xlink:href="#/abap/expression/SimpleName"><text x="482.5" y="35">SimpleName</text>
+</a>
+</g>
+<path d="M535 31h10"></path>
+<path d="M545 31h10"></path>
+<g class="terminal ">
+<path d="M555 31h0"></path>
+<path d="M643 31h0"></path>
+<rect x="555" y="20" width="88" height="22" rx="10" ry="10"></rect>
+<text x="599" y="35">"ENTITY"</text>
+</g>
+<path d="M643 31h10"></path>
+<path d="M653 31h10"></path>
+<g class="non-terminal ">
+<path d="M663 31h0"></path>
+<path d="M768 31h0"></path>
+<rect x="663" y="20" width="105" height="22"></rect>
+<a xlink:href="#/abap/expression/SimpleName"><text x="715.5" y="35">SimpleName</text>
+</a>
+</g>
+<path d="M768 31h10"></path>
+<path d="M778 31h10"></path>
+<g class="terminal ">
+<path d="M788 31h0"></path>
+<path d="M859 31h0"></path>
+<rect x="788" y="20" width="71" height="22" rx="10" ry="10"></rect>
+<text x="823.5" y="35">"FROM"</text>
+</g>
+<path d="M859 31h10"></path>
+<path d="M869 31h10"></path>
+<g class="non-terminal ">
+<path d="M879 31h0"></path>
+<path d="M950 31h0"></path>
+<rect x="879" y="20" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="914.5" y="35">Source</text>
+</a>
+</g>
+<path d="M950 31h10"></path>
+<path d="M960 31h10"></path>
+<g class="terminal ">
+<path d="M970 31h0"></path>
+<path d="M1058 31h0"></path>
+<rect x="970" y="20" width="88" height="22" rx="10" ry="10"></rect>
+<text x="1014" y="35">"FAILED"</text>
+</g>
+<path d="M1058 31h10"></path>
+<path d="M1068 31h10"></path>
+<g class="non-terminal ">
+<path d="M1078 31h0"></path>
+<path d="M1149 31h0"></path>
+<rect x="1078" y="20" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="1113.5" y="35">Target</text>
+</a>
+</g>
+<path d="M1149 31h10"></path>
+<path d="M1159 31h10"></path>
+<g class="terminal ">
+<path d="M1169 31h0"></path>
+<path d="M1274 31h0"></path>
+<rect x="1169" y="20" width="105" height="22" rx="10" ry="10"></rect>
+<text x="1221.5" y="35">"REPORTED"</text>
+</g>
+<path d="M1274 31h10"></path>
+<path d="M1284 31h10"></path>
+<g class="non-terminal ">
+<path d="M1294 31h0"></path>
+<path d="M1365 31h0"></path>
+<rect x="1294" y="20" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Target"><text x="1329.5" y="35">Target</text>
+</a>
+</g>
+</g>
+</g>
+</g>
+<path d="M1365 31h10"></path>
+<path d="M 1375 31 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>
