@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="723" height="101" viewBox="0 0 723 101">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M673 40h0"></path>
+<g class="comment ">
+<path d="M50 40h0"></path>
+<path d="M193 40h0"></path>
+<text x="121.5" y="45" class="comment">not langver=KeyUser</text>
+</g>
+<path d="M193 40h10"></path>
+<path d="M203 40h10"></path>
+<g>
+<path d="M213 40h0"></path>
+<path d="M673 40h0"></path>
+<g class="terminal ">
+<path d="M213 40h0"></path>
+<path d="M301 40h0"></path>
+<rect x="213" y="29" width="88" height="22" rx="10" ry="10"></rect>
+<text x="257" y="44">"COMMIT"</text>
+</g>
+<path d="M301 40h10"></path>
+<g>
+<path d="M311 40h0"></path>
+<path d="M673 40h0"></path>
+<path d="M311 40h20"></path>
+<g>
+<path d="M331 40h48"></path>
+<path d="M605 40h48"></path>
+<g class="terminal ">
+<path d="M379 40h0"></path>
+<path d="M450 40h0"></path>
+<rect x="379" y="29" width="71" height="22" rx="10" ry="10"></rect>
+<text x="414.5" y="44">"WORK"</text>
+</g>
+<path d="M450 40h10"></path>
+<g>
+<path d="M460 40h0"></path>
+<path d="M605 40h0"></path>
+<path d="M460 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M480 20h105"></path>
+</g>
+<path d="M585 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M460 40h20"></path>
+<g class="terminal ">
+<path d="M480 40h0"></path>
+<path d="M585 40h0"></path>
+<rect x="480" y="29" width="105" height="22" rx="10" ry="10"></rect>
+<text x="532.5" y="44">"AND WAIT"</text>
+</g>
+<path d="M585 40h20"></path>
+</g>
+</g>
+<path d="M653 40h20"></path>
+<path d="M311 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M331 70h0"></path>
+<path d="M653 70h0"></path>
+<g class="comment ">
+<path d="M331 70h0"></path>
+<path d="M460 70h0"></path>
+<text x="395.5" y="75" class="comment">not langver=Cloud</text>
+</g>
+<path d="M460 70h10"></path>
+<path d="M470 70h10"></path>
+<g class="non-terminal ">
+<path d="M480 70h0"></path>
+<path d="M653 70h0"></path>
+<rect x="480" y="59" width="173" height="22"></rect>
+<a xlink:href="#/abap/expression/DatabaseConnection"><text x="566.5" y="74">DatabaseConnection</text>
+</a>
+</g>
+</g>
+<path d="M653 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+</g>
+<path d="M673 40h10"></path>
+<path d="M 683 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>

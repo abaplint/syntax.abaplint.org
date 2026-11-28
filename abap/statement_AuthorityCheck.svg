@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1368.5" height="109" viewBox="0 0 1368.5 109">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 30v20m10 -20v20m-10 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1318.5 40h0"></path>
+<g class="comment ">
+<path d="M50 40h0"></path>
+<path d="M193 40h0"></path>
+<text x="121.5" y="45" class="comment">not langver=KeyUser</text>
+</g>
+<path d="M193 40h10"></path>
+<path d="M203 40h10"></path>
+<g>
+<path d="M213 40h0"></path>
+<path d="M1318.5 40h0"></path>
+<g class="terminal ">
+<path d="M213 40h0"></path>
+<path d="M437 40h0"></path>
+<rect x="213" y="29" width="224" height="22" rx="10" ry="10"></rect>
+<text x="325" y="44">"AUTHORITY-CHECK OBJECT"</text>
+</g>
+<path d="M437 40h10"></path>
+<path d="M447 40h10"></path>
+<g class="non-terminal ">
+<path d="M457 40h0"></path>
+<path d="M528 40h0"></path>
+<rect x="457" y="29" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="492.5" y="44">Source</text>
+</a>
+</g>
+<path d="M528 40h10"></path>
+<g>
+<path d="M538 40h0"></path>
+<path d="M923 40h0"></path>
+<path d="M538 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M558 20h345"></path>
+</g>
+<path d="M903 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M538 40h20"></path>
+<g>
+<path d="M558 40h0"></path>
+<path d="M903 40h0"></path>
+<g class="comment ">
+<path d="M558 40h0"></path>
+<path d="M687 40h0"></path>
+<text x="622.5" y="45" class="comment">not langver=Cloud</text>
+</g>
+<path d="M687 40h10"></path>
+<path d="M697 40h10"></path>
+<g>
+<path d="M707 40h0"></path>
+<path d="M903 40h0"></path>
+<g class="terminal ">
+<path d="M707 40h0"></path>
+<path d="M812 40h0"></path>
+<rect x="707" y="29" width="105" height="22" rx="10" ry="10"></rect>
+<text x="759.5" y="44">"FOR USER"</text>
+</g>
+<path d="M812 40h10"></path>
+<path d="M822 40h10"></path>
+<g class="non-terminal ">
+<path d="M832 40h0"></path>
+<path d="M903 40h0"></path>
+<rect x="832" y="29" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="867.5" y="44">Source</text>
+</a>
+</g>
+</g>
+</g>
+<path d="M903 40h20"></path>
+</g>
+<path d="M923 40h10"></path>
+<g>
+<path d="M933 40h0"></path>
+<path d="M1318.5 40h0"></path>
+<path d="M933 40h10"></path>
+<g>
+<path d="M943 40h0"></path>
+<path d="M1308.5 40h0"></path>
+<g class="terminal ">
+<path d="M943 40h0"></path>
+<path d="M997 40h0"></path>
+<rect x="943" y="29" width="54" height="22" rx="10" ry="10"></rect>
+<text x="970" y="44">"ID"</text>
+</g>
+<path d="M997 40h10"></path>
+<path d="M1007 40h10"></path>
+<g class="non-terminal ">
+<path d="M1017 40h0"></path>
+<path d="M1088 40h0"></path>
+<rect x="1017" y="29" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="1052.5" y="44">Source</text>
+</a>
+</g>
+<path d="M1088 40h10"></path>
+<g>
+<path d="M1098 40h0"></path>
+<path d="M1308.5 40h0"></path>
+<path d="M1098 40h20"></path>
+<g>
+<path d="M1118 40h0"></path>
+<path d="M1288.5 40h0"></path>
+<g class="terminal ">
+<path d="M1118 40h0"></path>
+<path d="M1197.5 40h0"></path>
+<rect x="1118" y="29" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="1157.75" y="44">"FIELD"</text>
+</g>
+<path d="M1197.5 40h10"></path>
+<path d="M1207.5 40h10"></path>
+<g class="non-terminal ">
+<path d="M1217.5 40h0"></path>
+<path d="M1288.5 40h0"></path>
+<rect x="1217.5" y="29" width="71" height="22"></rect>
+<a xlink:href="#/abap/expression/Source"><text x="1253" y="44">Source</text>
+</a>
+</g>
+</g>
+<path d="M1288.5 40h20"></path>
+<path d="M1098 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal ">
+<path d="M1118 70h45.5"></path>
+<path d="M1243 70h45.5"></path>
+<rect x="1163.5" y="59" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="1203.25" y="74">"DUMMY"</text>
+</g>
+<path d="M1288.5 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M1308.5 40h10"></path>
+<path d="M943 40a10 10 0 0 0 -10 10v29a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M943 89h365.5"></path>
+</g>
+<path d="M1308.5 89a10 10 0 0 0 10 -10v-29a10 10 0 0 0 -10 -10"></path>
+</g>
+</g>
+</g>
+<path d="M1318.5 40h10"></path>
+<path d="M 1328.5 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>
